@@ -8,5 +8,6 @@ This is the repository for ***TML*** (short for ***TModLoader***) source code, d
 Source code browser available at:
 [![click-me - infinitynichto.github.io/TMLDecompiled](https://img.shields.io/badge/click--me-infinitynichto.github.io%2FTMLDecompiled-informational?logo=dependabot&logoColor=informational)](https://infinitynichto.github.io/TMLDecompiled) <br>
 Last updated: `26 December 2023` <br><br>
-Other links: • The source code browser for Terraria: https://github.com/InfinityNichto/TerrariaDecompiled <br>
-             • Asset browser upcoming!
+Other links:
+• The source code browser for Terraria: https://github.com/InfinityNichto/TerrariaDecompiled <br>
+• Asset browser upcoming!
