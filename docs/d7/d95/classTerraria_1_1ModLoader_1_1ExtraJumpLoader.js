@@ -1,0 +1,25 @@
+var classTerraria_1_1ModLoader_1_1ExtraJumpLoader =
+[
+    [ "ExtraJumpLoader", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a67d2539ed2b41a92c1964b130e1d5d35.html#a67d2539ed2b41a92c1964b130e1d5d35", null ],
+    [ "Add", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_afe10ef16e976c6a651e426959224d1a3.html#afe10ef16e976c6a651e426959224d1a3", null ],
+    [ "ConsumeAllJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a573d38be7f9ca909c8d1767eca7baf3a.html#a573d38be7f9ca909c8d1767eca7baf3a", null ],
+    [ "ConsumeAndStopUnavailableJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a3a0ada3736ff7145b978b2c3b7f9c2cc.html#a3a0ada3736ff7145b978b2c3b7f9c2cc", null ],
+    [ "Get", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_ad82fa71ba0c51e71c96cbf1967531d0e.html#ad82fa71ba0c51e71c96cbf1967531d0e", null ],
+    [ "JumpVisuals", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a63dce5e7c530d68e36c3e45a11739113.html#a63dce5e7c530d68e36c3e45a11739113", null ],
+    [ "PerformJump", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a5d1507c6dd7e7b7301d5afc8133ba86e.html#a5d1507c6dd7e7b7301d5afc8133ba86e", null ],
+    [ "ProcessJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a63061e76cac900f8af4f17686d6ba061.html#a63061e76cac900f8af4f17686d6ba061", null ],
+    [ "RefreshJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_aca206573f050416c477c8b55a2288e64.html#aca206573f050416c477c8b55a2288e64", null ],
+    [ "RegisterDefaultJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a36d5a08830bbeb48248a019fc74cdb7a.html#a36d5a08830bbeb48248a019fc74cdb7a", null ],
+    [ "ResetEnableFlags", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_ae4657e6bd413fd0a19f1d335282a36f5.html#ae4657e6bd413fd0a19f1d335282a36f5", null ],
+    [ "ResizeArrays", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a21eb92655c376b6254c621046f3425da.html#a21eb92655c376b6254c621046f3425da", null ],
+    [ "StopActiveJump", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a35e3fd4b6be93f8fe792272c3da96fed.html#a35e3fd4b6be93f8fe792272c3da96fed", null ],
+    [ "StopJump", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_ad977d62fcb0a2d02735ba9f4b8abea5f.html#ad977d62fcb0a2d02735ba9f4b8abea5f", null ],
+    [ "Unload", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a7aca951b37dae9ff76d3eec73e5106a4.html#a7aca951b37dae9ff76d3eec73e5106a4", null ],
+    [ "UpdateHorizontalSpeeds", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a1518989bf80e36612baf9624aed76ebf.html#a1518989bf80e36612baf9624aed76ebf", null ],
+    [ "DefaultExtraJumpCount", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a0411d8b4cd61bf914eea7469cb59c1c7.html#a0411d8b4cd61bf914eea7469cb59c1c7", null ],
+    [ "ExtraJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a1d98e9cda3debc31b2668fe6c4e0c7d2.html#a1d98e9cda3debc31b2668fe6c4e0c7d2", null ],
+    [ "orderedJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a8fb6c4333ec8552f9ffe08ad78885c05.html#a8fb6c4333ec8552f9ffe08ad78885c05", null ],
+    [ "ExtraJumpCount", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_a03e7e5725785ced12ef8691151c109b5.html#a03e7e5725785ced12ef8691151c109b5", null ],
+    [ "ModdedExtraJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_aa6ea35da4fe349b994eebce09cdaeb79.html#aa6ea35da4fe349b994eebce09cdaeb79", null ],
+    [ "OrderedJumps", "d7/d95/classTerraria_1_1ModLoader_1_1ExtraJumpLoader_ae90c5c5938aab4caf807e89e08baf421.html#ae90c5c5938aab4caf807e89e08baf421", null ]
+];

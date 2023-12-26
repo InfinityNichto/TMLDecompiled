@@ -1,0 +1,9 @@
+<map id="Terraria.Player.HasAmmo" name="Terraria.Player.HasAmmo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,192,67"/>
+<area shape="rect" id="Node000002" href="$d4/d03/classTerraria_1_1Player_ae51e41ffd4243f110e00c09b321f7fc8.html#ae51e41ffd4243f110e00c09b321f7fc8" title="Attempts to select an ammo item stack from this player&#39;s inventory to shoot with the given weapon." alt="" coords="248,13,459,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,41,234,36,235,42,192,47"/>
+<area shape="rect" id="Node000004" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_add602a380a516d22a0fab669b541fcbb.html#add602a380a516d22a0fab669b541fcbb" title="Calls ModItem.NeedsAmmo, then all GlobalItem.NeedsAmmo hooks, until any of them returns false." alt="" coords="240,63,467,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,62,226,66,226,71,192,68"/>
+<area shape="rect" id="Node000003" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a221e77c97d28387f54bb499e5fdb294c.html#a221e77c97d28387f54bb499e5fdb294c" title="Calls each M:Terraria.ModLoader.GlobalItem.CanChooseAmmo(Terraria.Item,Terraria.Item,..." alt="" coords="515,5,741,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,23,501,23,501,28,459,28"/>
+</map>

@@ -1,0 +1,7 @@
+var classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator =
+[
+    [ "ValueProviderDecorator", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator_abaa52817f48e1c253b1d90d2622004e4.html#abaa52817f48e1c253b1d90d2622004e4", null ],
+    [ "GetValue", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator_a930571f6f0eb52524f688ab33c8efacd.html#a930571f6f0eb52524f688ab33c8efacd", null ],
+    [ "SetValue", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator_a227b71272a53bb0dacb7095846735fbe.html#a227b71272a53bb0dacb7095846735fbe", null ],
+    [ "baseProvider", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator_a3ab12660df9788f25e79be33d191a85b.html#a3ab12660df9788f25e79be33d191a85b", null ]
+];

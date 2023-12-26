@@ -1,0 +1,15 @@
+<map id="Terraria.UI.ItemSorting.Sort" name="Terraria.UI.ItemSorting.Sort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,204,88"/>
+<area shape="rect" id="Node000002" href="$dd/de1/classTerraria_1_1UI_1_1ItemSlot_a15ad5ba58d85ce17549c8c462b166ee5.html#a15ad5ba58d85ce17549c8c462b166ee5" title=" " alt="" coords="262,5,469,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,60,293,31,294,36,164,65"/>
+<area shape="rect" id="Node000003" href="$db/dec/classTerraria_1_1UI_1_1ItemSorting_a9d3f3f3428ff141c4571c4bda7131bd4.html#a9d3f3f3428ff141c4571c4bda7131bd4" title=" " alt="" coords="279,55,452,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,73,265,73,265,78,204,78"/>
+<area shape="rect" id="Node000004" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a894059b51bd5b3ca20b16bcc87e217aa.html#a894059b51bd5b3ca20b16bcc87e217aa" title="Stacks source &#160;onto destination &#160;if CanStack permits the transfer." alt="" coords="252,119,479,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,86,270,113,269,119,157,91"/>
+<area shape="rect" id="Node000005" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_aa56d85982ee46e9f593f2373867c4a76.html#aa56d85982ee46e9f593f2373867c4a76" title="Returns false if item prefixes don&#39;t match. Then calls all GlobalItem.CanStack hooks until one return..." alt="" coords="527,87,753,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="479,123,513,119,513,125,479,129"/>
+<area shape="rect" id="Node000006" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a097bd8d87927fe491386703103c48523.html#a097bd8d87927fe491386703103c48523" title="Stacks destination &#160;onto source &#160;&#160;This method should not be called unless M:Terraria...." alt="" coords="527,151,753,191"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="479,150,513,154,513,159,479,155"/>
+<area shape="rect" id="Node000007" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a27efe59ba3cc753ee6acafdd5fe00738.html#a27efe59ba3cc753ee6acafdd5fe00738" title="Calls the GlobalItem.OnStack hooks in destination , then the ModItem.OnStack hook in destination &#160;&#160;On..." alt="" coords="801,151,1028,191"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="754,169,787,169,787,174,754,174"/>
+</map>

@@ -1,0 +1,28 @@
+var classTerraria_1_1ModLoader_1_1IO_1_1TileIO =
+[
+    [ "ContainerTables", "d6/dea/structTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1ContainerTables.html", "d6/dea/structTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1ContainerTables" ],
+    [ "IOImpl", "d7/d3d/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1IOImpl.html", "d7/d3d/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1IOImpl" ],
+    [ "TileIOFlags", "df/d6b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1TileIOFlags.html", "df/d6b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1TileIOFlags" ],
+    [ "TileIOImpl", "d7/de4/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1TileIOImpl.html", "d7/de4/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1TileIOImpl" ],
+    [ "WallIOImpl", "df/df6/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1WallIOImpl.html", "df/df6/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_1_1WallIOImpl" ],
+    [ "ClearWorld", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_aba8b793c4d501a4e4a3931e7e7c6d228.html#aba8b793c4d501a4e4a3931e7e7c6d228", null ],
+    [ "HasModArmor", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a79f5d18695428faeef1606e536c3d64f.html#a79f5d18695428faeef1606e536c3d64f", null ],
+    [ "LoadBasics", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_ad57f623ff1d3c516ff404dbf51312eb1.html#ad57f623ff1d3c516ff404dbf51312eb1", null ],
+    [ "LoadContainers", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a02ee1d3a81127975121fd2aa5d289803.html#a02ee1d3a81127975121fd2aa5d289803", null ],
+    [ "LoadLegacy", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a9b30b7b5ab6108d97de5f77bba2f97bc.html#a9b30b7b5ab6108d97de5f77bba2f97bc", null ],
+    [ "LoadTileEntities", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a3deb2737d989ee2ad11bccfd0635d5e5.html#a3deb2737d989ee2ad11bccfd0635d5e5", null ],
+    [ "NextLocation", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a76c74e3648dae2d1ba247125a6adbe64.html#a76c74e3648dae2d1ba247125a6adbe64", null ],
+    [ "ReadContainerData", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a9e46b57cd58213b796a7d0b81b209f72.html#a9e46b57cd58213b796a7d0b81b209f72", null ],
+    [ "ReadContainers", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a431bc1e2720cb303a92c69f1e97a82e3.html#a431bc1e2720cb303a92c69f1e97a82e3", null ],
+    [ "ReadModTile", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a9c4d8b7657a51c9d86e2b394c9af4f4d.html#a9c4d8b7657a51c9d86e2b394c9af4f4d", null ],
+    [ "ReadTileData", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a8ddf7ee7b027c4c7be3cee4ea36cd129.html#a8ddf7ee7b027c4c7be3cee4ea36cd129", null ],
+    [ "ResetUnloadedTypes", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a7ee2f34b17f9154fb7d2921d795cb9ce.html#a7ee2f34b17f9154fb7d2921d795cb9ce", null ],
+    [ "SaveBasics", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_afcbe0411228cf1270ed58474284c4a85.html#afcbe0411228cf1270ed58474284c4a85", null ],
+    [ "SaveContainers", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a967df3660d69afe7394e5d52ac4d8872.html#a967df3660d69afe7394e5d52ac4d8872", null ],
+    [ "SaveTileEntities", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a8a55aa8405d683cb402392cccc0fa605.html#a8a55aa8405d683cb402392cccc0fa605", null ],
+    [ "VanillaSaveFrames", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_aadc99e4956ce6677667d84523bd36c9e.html#aadc99e4956ce6677667d84523bd36c9e", null ],
+    [ "WriteContainerData", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_aee327fc4dc69c3e809c0673e6ad49dc4.html#aee327fc4dc69c3e809c0673e6ad49dc4", null ],
+    [ "Tiles", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a0e01b19227696613a205c92de498a5ea.html#a0e01b19227696613a205c92de498a5ea", null ],
+    [ "Walls", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a9de8bdc33b8bd3ba9c3984dfcc174abd.html#a9de8bdc33b8bd3ba9c3984dfcc174abd", null ],
+    [ "canPurgeOldData", "d3/d5b/classTerraria_1_1ModLoader_1_1IO_1_1TileIO_a487c118346ac0e5d5bc8fcea7f62d52c.html#a487c118346ac0e5d5bc8fcea7f62d52c", null ]
+];

@@ -1,0 +1,28 @@
+var classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle =
+[
+    [ "ChooseSurfaceBackgroundStyle", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle_ae4e6e1ad1fc0a6af84c16c80a449d017.html#ae4e6e1ad1fc0a6af84c16c80a449d017", null ],
+    [ "ChooseUndergroundBackgroundStyle", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle_a3833e6d94d651b6799b3e26aefb4907d.html#a3833e6d94d651b6799b3e26aefb4907d", null ],
+    [ "Clone", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#aeb73d9b078163fba8a510ff7d51033c3", null ],
+    [ "CreateTemplateEntity", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#adceac6282f8a32c59b2bac285045c8a4", null ],
+    [ "FillUndergroundTextureArray", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle_afc34bf5ac5347aa22842e04f9ac83c1a.html#afc34bf5ac5347aa22842e04f9ac83c1a", null ],
+    [ "InitTemplateInstance", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a1a7404e64e0be43e808759728dbfe65b", null ],
+    [ "InitTemplateInstance", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a702da29c511b4b08f0d3ebbddbd96a67", null ],
+    [ "IsLoadingEnabled", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a8626b35d479ce090df7acef383817394", null ],
+    [ "Load", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a4249cb0c755091dded6260fcf3c25614", null ],
+    [ "Load", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a187c5e944cc7d56ceb59840c5df73bcc", null ],
+    [ "ModifyFarSurfaceFades", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle_a5c73ff8b6333b529d930e571ad612f57.html#a5c73ff8b6333b529d930e571ad612f57", null ],
+    [ "NewInstance", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a92fd60a4a3110bbcd84d6ade99544e2a", null ],
+    [ "PrettyPrintName", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#ac80b9acd4d03d23f32e26c9dcdfac156", null ],
+    [ "Register", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle_ac2f5af662d60ca9cb02a54b35e1dd013.html#ac2f5af662d60ca9cb02a54b35e1dd013", null ],
+    [ "SetStaticDefaults", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#aede25175050860ec8ea5e2d33c352437", null ],
+    [ "SetupContent", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle_a7cdbaafc3520ba1bac51cda9bf230b8a.html#a7cdbaafc3520ba1bac51cda9bf230b8a", null ],
+    [ "Unload", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a7f2524abd52a2c3705d3ba8425a7463d", null ],
+    [ "ValidateType", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a876ec72a5821883af4a429cb76f54c68", null ],
+    [ "_isCloneable", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#aad991ef8bcab9862eccb38268854c780", null ],
+    [ "CloneNewInstances", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a0b64b26188f42ffa7c2a7e111771ec08", null ],
+    [ "Entity", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#ac1bf92ca59ee36eed25a581e2f313ef6", null ],
+    [ "FullName", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#acf3ba5958416ef2fabc11a9bb925346b", null ],
+    [ "IsCloneable", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a28b756f218eb06e3ef6bc61321dd7d89", null ],
+    [ "Mod", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a3fb01629380c6e44c7bfb745f5de9b8a", null ],
+    [ "Name", "da/d88/classTerraria_1_1ModLoader_1_1GlobalBackgroundStyle.html#a08aa33c526d5f565937d1090ea6a325f", null ]
+];

@@ -1,0 +1,25 @@
+var classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule =
+[
+    [ "WorkshopBrowserModule", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a378b81d5f835d3af1e9c1f055e0efb5d.html#a378b81d5f835d3af1e9c1f055e0efb5d", null ],
+    [ "DirectQueryInstalledMDItems", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule.html#a0f0513b461096f8774b1e11c1999df9b", null ],
+    [ "DirectQueryItems", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a70225a50e05ecf3ed7d293ed6250bf71.html#a70225a50e05ecf3ed7d293ed6250bf71", null ],
+    [ "DoesAppNeedRestartToReinstallItem", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a59888b1798bc9fa60729567ffda1e600.html#a59888b1798bc9fa60729567ffda1e600", null ],
+    [ "DoesItemNeedUpdate", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a1f2393e793e184c61efc6fe8d6d41ce8.html#a1f2393e793e184c61efc6fe8d6d41ce8", null ],
+    [ "DownloadItem", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a43a3524deab07fd6fa9c5d67b5186c10.html#a43a3524deab07fd6fa9c5d67b5186c10", null ],
+    [ "EnsureInstallationComplete", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_aa076a5d6bb294eeae7c71fbd8c18f5ed.html#aa076a5d6bb294eeae7c71fbd8c18f5ed", null ],
+    [ "GetBrowserVersionNumber", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule.html#ae170e3bd877d6fec964eef876a3aa0c2", null ],
+    [ "GetDependenciesRecursive", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule.html#ae028a92b98da69b2a061bf2c2f4f8e68", null ],
+    [ "GetId", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a2b39ff60990832aea774181f65865229.html#a2b39ff60990832aea774181f65865229", null ],
+    [ "GetInstalledModDownloadItems", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule.html#a094dd72936cd28311d3b0530b9c892a4", null ],
+    [ "GetInstalledMods", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a34f58e4158b5e99d7ac5747282e7749c.html#a34f58e4158b5e99d7ac5747282e7749c", null ],
+    [ "GetModIdFromLocalFiles", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_ae4388f8f3068b8427dc2d8e6a9cc7786.html#ae4388f8f3068b8427dc2d8e6a9cc7786", null ],
+    [ "GetModWebPage", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a37d72c3534d9307b0ff6cd43d45d4484.html#a37d72c3534d9307b0ff6cd43d45d4484", null ],
+    [ "Initialize", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_ac74ea513e1905ee3a0ec29fe015e75e3.html#ac74ea513e1905ee3a0ec29fe015e75e3", null ],
+    [ "IsItemInstalled", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule.html#a87d13af0ae8ace704b1fae8368d6bf9f", null ],
+    [ "OnLocalModsChanged", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_af65c850209486db1b2fce49815604d5d.html#af65c850209486db1b2fce49815604d5d", null ],
+    [ "QueryBrowser", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_aafa6891f488fcef2fc5bc8cf26137075.html#aafa6891f488fcef2fc5bc8cf26137075", null ],
+    [ "Instance", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_aee6c8812f7795f8d2a81b3c3a283b193.html#aee6c8812f7795f8d2a81b3c3a283b193", null ],
+    [ "intermediateInstallStateMods", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a5817bfd916ab41cfd141dc369139384d.html#a5817bfd916ab41cfd141dc369139384d", null ],
+    [ "CachedInstalledModDownloadItems", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a1fe8eb14af96f7adab7067472c10b2ff.html#a1fe8eb14af96f7adab7067472c10b2ff", null ],
+    [ "InstalledItems", "d8/d2b/classTerraria_1_1Social_1_1Steam_1_1WorkshopBrowserModule_a7e11924ab8df658a5ac4a68f52c98aa1.html#a7e11924ab8df658a5ac4a68f52c98aa1", null ]
+];

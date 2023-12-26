@@ -1,0 +1,28 @@
+var classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager =
+[
+    [ "ModLoadContext", "d6/d05/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_1_1ModLoadContext.html", "d6/d05/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_1_1ModLoadContext" ],
+    [ "AddAssemblyResolver", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a8a5546a2fbd6637e5069d2e57ee06cba.html#a8a5546a2fbd6637e5069d2e57ee06cba", null ],
+    [ "FirstModInStackTrace", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_abee916f980e54a8e976c609304d31ded.html#abee916f980e54a8e976c609304d31ded", null ],
+    [ "ForceJITOnMethod", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_aed69e1338e908cc9b92f6d7b8f8be1d4.html#aed69e1338e908cc9b92f6d7b8f8be1d4", null ],
+    [ "GetAssemblyOwner", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_aa052a937a82feae97a2494ea5288562b.html#aa052a937a82feae97a2494ea5288562b", null ],
+    [ "GetDependencies", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_aa12c94b95eca1d3ac1baf7825d55ecb0.html#aa12c94b95eca1d3ac1baf7825d55ecb0", null ],
+    [ "GetLoadableTypes", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a76e2cb2e9132ebe2759887f610501608.html#a76e2cb2e9132ebe2759887f610501608", null ],
+    [ "GetLoadableTypes", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a22e077a3681510b5bf98118fe6e542de.html#a22e077a3681510b5bf98118fe6e542de", null ],
+    [ "GetLoadContext", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a2e4b854025e9c23a9c551c9ce387fa5c.html#a2e4b854025e9c23a9c551c9ce387fa5c", null ],
+    [ "GetModAssemblies", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a56f67b021e56ca5d79f8ee2de15f2ab2.html#a56f67b021e56ca5d79f8ee2de15f2ab2", null ],
+    [ "GetModAssembly", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a72e7c68607b8937e8b3fe0ea76a264b6.html#a72e7c68607b8937e8b3fe0ea76a264b6", null ],
+    [ "GetModAssemblyFileName", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_aba37ad8e4e077c28fb4d66880789c646.html#aba37ad8e4e077c28fb4d66880789c646", null ],
+    [ "GetModPdb", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_aa9ec3fefa2534e55e4b4988d54753b88.html#aa9ec3fefa2534e55e4b4988d54753b88", null ],
+    [ "Instantiate", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a5f01d213e04e1a946c858675a0c0a233.html#a5f01d213e04e1a946c858675a0c0a233", null ],
+    [ "InstantiateMods", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a0e86cd8128910dd69faa4e2f8a88fa79.html#a0e86cd8128910dd69faa4e2f8a88fa79", null ],
+    [ "IsLoadable", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_ab7ac2784c5da91e74b218de7fe0eff42.html#ab7ac2784c5da91e74b218de7fe0eff42", null ],
+    [ "JITAssemblies", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a1ced0ab5f51d6a78ae202b45bf8b4e3c.html#a1ced0ab5f51d6a78ae202b45bf8b4e3c", null ],
+    [ "JITMod", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a26b03c2f947cbdac55f93f1aea6198b5.html#a26b03c2f947cbdac55f93f1aea6198b5", null ],
+    [ "OldLoadContexts", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a8da382e9191fdc1f8eccc2d76ff89ee0.html#a8da382e9191fdc1f8eccc2d76ff89ee0", null ],
+    [ "TmlCustomResolver", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_afc373339acf2889d80cad93326b47029.html#afc373339acf2889d80cad93326b47029", null ],
+    [ "Unload", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_aa173a48178ff465acc4a03f212fde999.html#aa173a48178ff465acc4a03f212fde999", null ],
+    [ "VerifyMod", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_af90beed6bb8a875cd078133fb7d1c20d.html#af90beed6bb8a875cd078133fb7d1c20d", null ],
+    [ "assemblyResolverAdded", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a9976cbf18ea23f54012b526006936b7f.html#a9976cbf18ea23f54012b526006936b7f", null ],
+    [ "loadedModContexts", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_adf99b311f836eaaef7dba060c89b1b81.html#adf99b311f836eaaef7dba060c89b1b81", null ],
+    [ "oldLoadContexts", "d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_ad01793d1c1ecc321fe2dc6e3ce450305.html#ad01793d1c1ecc321fe2dc6e3ce450305", null ]
+];

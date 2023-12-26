@@ -1,0 +1,9 @@
+<map id="Terraria.ModLoader.ItemLoader.TryStackItems" name="Terraria.ModLoader.ItemLoader.TryStackItems">
+<area shape="rect" id="Node000001" title="Stacks source &#160;onto destination &#160;if CanStack permits the transfer." alt="" coords="5,37,232,77"/>
+<area shape="rect" id="Node000002" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_aa56d85982ee46e9f593f2373867c4a76.html#aa56d85982ee46e9f593f2373867c4a76" title="Returns false if item prefixes don&#39;t match. Then calls all GlobalItem.CanStack hooks until one return..." alt="" coords="280,5,507,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,41,266,37,267,43,233,47"/>
+<area shape="rect" id="Node000003" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a097bd8d87927fe491386703103c48523.html#a097bd8d87927fe491386703103c48523" title="Stacks destination &#160;onto source &#160;&#160;This method should not be called unless M:Terraria...." alt="" coords="280,69,507,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,68,267,72,266,77,232,73"/>
+<area shape="rect" id="Node000004" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a27efe59ba3cc753ee6acafdd5fe00738.html#a27efe59ba3cc753ee6acafdd5fe00738" title="Calls the GlobalItem.OnStack hooks in destination , then the ModItem.OnStack hook in destination &#160;&#160;On..." alt="" coords="555,69,781,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,87,541,87,541,92,507,92"/>
+</map>

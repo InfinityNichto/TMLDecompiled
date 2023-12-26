@@ -1,0 +1,6 @@
+var classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver =
+[
+    [ "NullToDefaultValueProvider", "d2/d7d/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1NullToDefaultValueProvider.html", "d2/d7d/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1NullToDefaultValueProvider" ],
+    [ "ValueProviderDecorator", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator.html", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator" ],
+    [ "CreateProperties", "d2/d93/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_a65b84a0d7e0732f00f2f472c88c9593b.html#a65b84a0d7e0732f00f2f472c88c9593b", null ]
+];

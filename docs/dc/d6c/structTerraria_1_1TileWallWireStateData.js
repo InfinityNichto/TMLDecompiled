@@ -1,0 +1,25 @@
+var structTerraria_1_1TileWallWireStateData =
+[
+    [ "SetAllBitsClearFrame", "dc/d6c/structTerraria_1_1TileWallWireStateData_a93e4119aea618ff4ca4df14c9b56d148.html#a93e4119aea618ff4ca4df14c9b56d148", null ],
+    [ "bitpack", "dc/d6c/structTerraria_1_1TileWallWireStateData_a80eb9628074d7afc9af00ea3c9513325.html#a80eb9628074d7afc9af00ea3c9513325", null ],
+    [ "TileFrameX", "dc/d6c/structTerraria_1_1TileWallWireStateData_aa1b0e073ea2566f6ee559f14b51ecf7f.html#aa1b0e073ea2566f6ee559f14b51ecf7f", null ],
+    [ "TileFrameY", "dc/d6c/structTerraria_1_1TileWallWireStateData_ac3b54d58af32917f64b58bc4c59a4225.html#ac3b54d58af32917f64b58bc4c59a4225", null ],
+    [ "BlockType", "dc/d6c/structTerraria_1_1TileWallWireStateData_a04e8359e7bec44c0bf01f9a198c4296d.html#a04e8359e7bec44c0bf01f9a198c4296d", null ],
+    [ "BlueWire", "dc/d6c/structTerraria_1_1TileWallWireStateData_ac772a6fa70aec7e09e6929213f249ae3.html#ac772a6fa70aec7e09e6929213f249ae3", null ],
+    [ "GreenWire", "dc/d6c/structTerraria_1_1TileWallWireStateData_af2ff0d36d8a88ead7b5d57a53353ef44.html#af2ff0d36d8a88ead7b5d57a53353ef44", null ],
+    [ "HasActuator", "dc/d6c/structTerraria_1_1TileWallWireStateData_a54bbcdd9fb5fa3ff945243dcd654eebd.html#a54bbcdd9fb5fa3ff945243dcd654eebd", null ],
+    [ "HasTile", "dc/d6c/structTerraria_1_1TileWallWireStateData_a7e0b89b8b3ba96ac128537aa337b9601.html#a7e0b89b8b3ba96ac128537aa337b9601", null ],
+    [ "IsActuated", "dc/d6c/structTerraria_1_1TileWallWireStateData_a3cbf9b33cddb12c2a8b655a162f3ff35.html#a3cbf9b33cddb12c2a8b655a162f3ff35", null ],
+    [ "IsHalfBlock", "dc/d6c/structTerraria_1_1TileWallWireStateData_a84ccf4047c44db052ede1bb3246a4451.html#a84ccf4047c44db052ede1bb3246a4451", null ],
+    [ "NonFrameBits", "dc/d6c/structTerraria_1_1TileWallWireStateData_a8d72241b6182653a5c87ae71e969af4d.html#a8d72241b6182653a5c87ae71e969af4d", null ],
+    [ "RedWire", "dc/d6c/structTerraria_1_1TileWallWireStateData_a711134eac14cbc6f34688bca0dde20a5.html#a711134eac14cbc6f34688bca0dde20a5", null ],
+    [ "Slope", "dc/d6c/structTerraria_1_1TileWallWireStateData_aa59b80536cc4f6bdddaea0aaf3c25924.html#aa59b80536cc4f6bdddaea0aaf3c25924", null ],
+    [ "TileColor", "dc/d6c/structTerraria_1_1TileWallWireStateData_abac5bdd978fa5a86896df56358edfe70.html#abac5bdd978fa5a86896df56358edfe70", null ],
+    [ "TileFrameNumber", "dc/d6c/structTerraria_1_1TileWallWireStateData_aef9c61aca971ebc0d9a9d76d258a61da.html#aef9c61aca971ebc0d9a9d76d258a61da", null ],
+    [ "WallColor", "dc/d6c/structTerraria_1_1TileWallWireStateData_acfc29d3943d1a4ad491c2ef9e059d488.html#acfc29d3943d1a4ad491c2ef9e059d488", null ],
+    [ "WallFrameNumber", "dc/d6c/structTerraria_1_1TileWallWireStateData_aee4a5ff63c55719e7ba1b0dd42cfcc30.html#aee4a5ff63c55719e7ba1b0dd42cfcc30", null ],
+    [ "WallFrameX", "dc/d6c/structTerraria_1_1TileWallWireStateData_a338c317ddbb559c41df81c584d474d27.html#a338c317ddbb559c41df81c584d474d27", null ],
+    [ "WallFrameY", "dc/d6c/structTerraria_1_1TileWallWireStateData_a743b4b2edcf92c1576ac416fd1bbcaec.html#a743b4b2edcf92c1576ac416fd1bbcaec", null ],
+    [ "WireData", "dc/d6c/structTerraria_1_1TileWallWireStateData_a2dd50c3c823f117ef84730b169e29755.html#a2dd50c3c823f117ef84730b169e29755", null ],
+    [ "YellowWire", "dc/d6c/structTerraria_1_1TileWallWireStateData_ada43440a0bf081cf78c4fa35366197d9.html#ada43440a0bf081cf78c4fa35366197d9", null ]
+];

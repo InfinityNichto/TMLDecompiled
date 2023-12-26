@@ -1,0 +1,27 @@
+<map id="Terraria.ModLoader.PlayerLoader.ModifyHurt" name="Terraria.ModLoader.PlayerLoader.ModifyHurt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,189,196,229"/>
+<area shape="rect" id="Node000002" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a3cdf10e212caf2d1478affe33b368f4f.html#a3cdf10e212caf2d1478affe33b368f4f" title=" " alt="" coords="249,97,465,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,187,287,140,288,145,159,192"/>
+<area shape="rect" id="Node000009" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a933f865d69ccade81768caf2a9b4373a.html#a933f865d69ccade81768caf2a9b4373a" title=" " alt="" coords="249,189,465,229"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="196,207,235,207,235,212,196,212"/>
+<area shape="rect" id="Node000012" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a7d5e225b8671ff67aa234ec373f4e834.html#a7d5e225b8671ff67aa234ec373f4e834" title="Calls ModItem.ModifyHitPvp, then all GlobalItem.ModifyHitPvp hooks." alt="" coords="244,253,471,293"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="182,227,264,247,263,253,181,232"/>
+<area shape="rect" id="Node000003" href="$d4/d03/classTerraria_1_1Player_a1839eb07725fe09a4a4258e94a9b2395.html#a1839eb07725fe09a4a4258e94a9b2395" title=" " alt="" coords="529,157,732,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,135,526,152,525,157,449,140"/>
+<area shape="rect" id="Node000007" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_ad54c69354f7e176b90f98043af9ae296.html#ad54c69354f7e176b90f98043af9ae296" title=" " alt="" coords="535,5,726,45"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="408,95,518,55,543,47,545,52,520,60,410,100"/>
+<area shape="rect" id="Node000008" href="$dd/dc6/classTerraria_1_1ModLoader_1_1NPCLoader_a3a6c13a6f9fd0304ad2cd8d6d85d933b.html#a3a6c13a6f9fd0304ad2cd8d6d85d933b" title=" " alt="" coords="519,69,743,109"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="465,104,504,100,505,105,466,109"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="583,158,580,148,588,138,605,133,631,131,660,134,677,141,674,146,659,139,631,136,606,138,591,143,585,149,588,156"/>
+<area shape="rect" id="Node000004" href="$df/d0d/classTerraria_1_1NPC_a4cbdabf04a11d81953c5aa5f9a3eb008.html#a4cbdabf04a11d81953c5aa5f9a3eb008" title=" " alt="" coords="805,141,971,166"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="732,165,791,160,791,165,733,171"/>
+<area shape="rect" id="Node000005" href="$db/d79/classTerraria_1_1Item_a768167f354ef21dee8573fadeaf6a8c4.html#a768167f354ef21dee8573fadeaf6a8c4" title="Converts an NPC type (F:Terraria.NPC.type) into the equivalent banner ID." alt="" coords="791,190,985,215"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="733,185,777,189,777,194,732,190"/>
+<area shape="rect" id="Node000006" href="$dd/dc6/classTerraria_1_1ModLoader_1_1NPCLoader_a1e9eae6ec444b4a23e1a809cfea3be94.html#a1e9eae6ec444b4a23e1a809cfea3be94" title="Gets the ModNPC template instance corresponding to the specified type (not the clone/new instance whi..." alt="" coords="1033,183,1257,223"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="986,200,1020,200,1020,205,986,205"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="465,194,516,188,516,193,466,199"/>
+<area shape="rect" id="Node000010" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_aceb3e80a548c24d8e8cb1896a3407bc1.html#aceb3e80a548c24d8e8cb1896a3407bc1" title=" " alt="" coords="525,221,736,261"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="466,219,512,225,511,230,465,225"/>
+<area shape="rect" id="Node000011" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_a62bfc1b70a7e14069dfe336563ac4b9b.html#a62bfc1b70a7e14069dfe336563ac4b9b" title=" " alt="" coords="525,285,736,325"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="441,227,472,239,496,255,520,271,537,278,535,283,517,276,493,260,469,244,440,232"/>
+</map>

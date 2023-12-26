@@ -1,0 +1,18 @@
+var namespaceTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden =
+[
+    [ "DrawDataInfo", "df/d66/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1DrawDataInfo.html", "df/d66/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1DrawDataInfo" ],
+    [ "Jofairden_Body", "de/dd1/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1Jofairden__Body.html", "de/dd1/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1Jofairden__Body" ],
+    [ "Jofairden_Head", "dd/d9c/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1Jofairden__Head.html", "dd/d9c/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1Jofairden__Head" ],
+    [ "Jofairden_Legs", "db/dd6/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1Jofairden__Legs.html", "db/dd6/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1Jofairden__Legs" ],
+    [ "JofairdenArmorDrawLayer", "d4/dd2/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorDrawLayer.html", "d4/dd2/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorDrawLayer" ],
+    [ "JofairdenArmorEffectPlayer", "d5/d60/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorEffectPlayer.html", "d5/d60/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorEffectPlayer" ],
+    [ "JofairdenArmorGlowLayer", "d9/d11/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorGlowLayer.html", "d9/d11/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorGlowLayer" ],
+    [ "JofairdenArmorItem", "d1/de1/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorItem.html", "d1/de1/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorItem" ],
+    [ "JofairdenArmorShaderLayer", "de/d87/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorShaderLayer.html", "de/d87/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenArmorShaderLayer" ],
+    [ "JofairdenBodyGlow", "d7/d80/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenBodyGlow.html", "d7/d80/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenBodyGlow" ],
+    [ "JofairdenBodyShader", "dd/d3b/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenBodyShader.html", "dd/d3b/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenBodyShader" ],
+    [ "JofairdenHeadGlow", "d7/db2/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenHeadGlow.html", "d7/db2/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenHeadGlow" ],
+    [ "JofairdenHeadShader", "d7/da0/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenHeadShader.html", "d7/da0/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenHeadShader" ],
+    [ "JofairdenLegsGlow", "df/d73/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenLegsGlow.html", "df/d73/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenLegsGlow" ],
+    [ "JofairdenLegsShader", "db/df9/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenLegsShader.html", "db/df9/classTerraria_1_1ModLoader_1_1Default_1_1Developer_1_1Jofairden_1_1JofairdenLegsShader" ]
+];

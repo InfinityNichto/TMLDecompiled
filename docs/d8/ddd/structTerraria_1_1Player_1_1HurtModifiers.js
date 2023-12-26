@@ -1,0 +1,28 @@
+var structTerraria_1_1Player_1_1HurtModifiers =
+[
+    [ "HurtModifiers", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a4e739b947047d23df925fd4427325e46.html#a4e739b947047d23df925fd4427325e46", null ],
+    [ "DisableDust", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a1a5fcbb40b5164dff34e8860379548f7.html#a1a5fcbb40b5164dff34e8860379548f7", null ],
+    [ "DisableSound", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a2c04136a159e939105eaaae80cac799d.html#a2c04136a159e939105eaaae80cac799d", null ],
+    [ "GetDamage", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a59dca9204cd88dea2135ef680612bff3.html#a59dca9204cd88dea2135ef680612bff3", null ],
+    [ "GetKnockback", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a7720f480efc3415a60fe8b26ba02d008.html#a7720f480efc3415a60fe8b26ba02d008", null ],
+    [ "HurtInfoModifier", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_ade51712b325d50e6411dfef067d87851.html#ade51712b325d50e6411dfef067d87851", null ],
+    [ "SetMaxDamage", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a352595b47e22f8465ebf1b39196bf25b.html#a352595b47e22f8465ebf1b39196bf25b", null ],
+    [ "ToHurtInfo", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_aa99cf652a0294ef619750e392f8c6fd8.html#aa99cf652a0294ef619750e392f8c6fd8", null ],
+    [ "_damageLimit", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_aa65e829ebfdf13380e3462028667db42.html#aa65e829ebfdf13380e3462028667db42", null ],
+    [ "_dustDisabled", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a5cd987e25fe91a90e255a2ecede86c12.html#a5cd987e25fe91a90e255a2ecede86c12", null ],
+    [ "_soundDisabled", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_aa927bc3cfed33bb9e26308e0c3132d5e.html#aa927bc3cfed33bb9e26308e0c3132d5e", null ],
+    [ "ArmorPenetration", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a4b48e7d834d86fd8166413b747d32db3.html#a4b48e7d834d86fd8166413b747d32db3", null ],
+    [ "FinalDamage", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_ad239b8a4ff85a060ef944d527471bc59.html#ad239b8a4ff85a060ef944d527471bc59", null ],
+    [ "IncomingDamageMultiplier", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a96e10b605edd88182b0910574cf0fe69.html#a96e10b605edd88182b0910574cf0fe69", null ],
+    [ "Knockback", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a2f1fdc4af52105c90eb9d6cbbb87b1dd.html#a2f1fdc4af52105c90eb9d6cbbb87b1dd", null ],
+    [ "KnockbackImmunityEffectiveness", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a76ce3a005b2815fad917a9e9fc8c2d30.html#a76ce3a005b2815fad917a9e9fc8c2d30", null ],
+    [ "ScalingArmorPenetration", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a5c5e717490bebc07bca17db06cc292e4.html#a5c5e717490bebc07bca17db06cc292e4", null ],
+    [ "SourceDamage", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a52997731627edccee2afb984834eebc1.html#a52997731627edccee2afb984834eebc1", null ],
+    [ "CooldownCounter", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_aea6a90741f26959a7f92539827c67563.html#aea6a90741f26959a7f92539827c67563", null ],
+    [ "DamageSource", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a57f3fbcd595ed4fc3fe9c7475f2713a9.html#a57f3fbcd595ed4fc3fe9c7475f2713a9", null ],
+    [ "Dodgeable", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a78c7c7cb9dbf86a89f090d6ea64802d3.html#a78c7c7cb9dbf86a89f090d6ea64802d3", null ],
+    [ "HitDirection", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a0f8290cb8996e4f0b8e29657002d9c9f.html#a0f8290cb8996e4f0b8e29657002d9c9f", null ],
+    [ "HitDirectionOverride", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a5b264e59333d8eaf13a60b09016b86b6.html#a5b264e59333d8eaf13a60b09016b86b6", null ],
+    [ "PvP", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_ad0603ccfde1154047ee9cf20690113bb.html#ad0603ccfde1154047ee9cf20690113bb", null ],
+    [ "ModifyHurtInfo", "d8/ddd/structTerraria_1_1Player_1_1HurtModifiers_a50a1ec0192b16f49025f72692b7c221e.html#a50a1ec0192b16f49025f72692b7c221e", null ]
+];

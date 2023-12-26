@@ -1,0 +1,25 @@
+var classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile =
+[
+    [ "DownloadFile", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a0e564a50885709ad978d2d727c68a6d9.html#a0e564a50885709ad978d2d727c68a6d9", null ],
+    [ "AbortDownload", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_aaf9b4ad480486061e24aca18e016bd83.html#aaf9b4ad480486061e24aca18e016bd83", null ],
+    [ "Download", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_ae8c4353dbc7633c2376bcfa4f922b63c.html#ae8c4353dbc7633c2376bcfa4f922b63c", null ],
+    [ "HandleResponse", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_ae9c6480392fefcd0f98f710908d7a345.html#ae9c6480392fefcd0f98f710908d7a345", null ],
+    [ "PreCopy", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a93aa92a2c338085d133b610770483be1.html#a93aa92a2c338085d133b610770483be1", null ],
+    [ "ProgressUpdated", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_aa51483b11c268c3cec490dd55c5b3e54.html#aa51483b11c268c3cec490dd55c5b3e54", null ],
+    [ "ServerCertificateValidation", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_ae32033369aa89ccbffa4161162def0ce.html#ae32033369aa89ccbffa4161162def0ce", null ],
+    [ "SetupDownloadRequest", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a779d5e405d61eb05a9d3eb72ae60cec2.html#a779d5e405d61eb05a9d3eb72ae60cec2", null ],
+    [ "Verify", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a1fc035c49f03aa55f2afa6f0589c6687.html#a1fc035c49f03aa55f2afa6f0589c6687", null ],
+    [ "_aborted", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_ab2724b16ea8f067324c8968d1591ca0a.html#ab2724b16ea8f067324c8968d1591ca0a", null ],
+    [ "_fileStream", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a2deb5251e09459acc735aed03ed1b174.html#a2deb5251e09459acc735aed03ed1b174", null ],
+    [ "CHUNK_SIZE", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_adbdfb2db8c143bbd9dee40918f73dbfa.html#adbdfb2db8c143bbd9dee40918f73dbfa", null ],
+    [ "DisplayText", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_ac53255dd157f61a3651cce85458a3c0c.html#ac53255dd157f61a3651cce85458a3c0c", null ],
+    [ "FilePath", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_ae98cc7184a6e056f312c1db276be06c3.html#ae98cc7184a6e056f312c1db276be06c3", null ],
+    [ "ProtocolVersion", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a623bf638f26763dbe27f73b211284063.html#a623bf638f26763dbe27f73b211284063", null ],
+    [ "SecurityProtocol", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a1fe1c607a110b1b2b3c2b26d767bdae5.html#a1fe1c607a110b1b2b3c2b26d767bdae5", null ],
+    [ "TEMP_EXTENSION", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a62ddc77d4a08ed30713999b8c57a1c81.html#a62ddc77d4a08ed30713999b8c57a1c81", null ],
+    [ "Tls12", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a43b18f9864b1292273cb66b955d5a7f2.html#a43b18f9864b1292273cb66b955d5a7f2", null ],
+    [ "Url", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a9f4b0fa2a6008f0820fdae86c84cff64.html#a9f4b0fa2a6008f0820fdae86c84cff64", null ],
+    [ "Request", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_add1b75ac7d4ef9f2946e41ce57984a69.html#add1b75ac7d4ef9f2946e41ce57984a69", null ],
+    [ "OnComplete", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a22bb19eaa95d5c1adfe64fa7676d4e74.html#a22bb19eaa95d5c1adfe64fa7676d4e74", null ],
+    [ "OnUpdateProgress", "d4/d95/classTerraria_1_1ModLoader_1_1UI_1_1DownloadManager_1_1DownloadFile_a7db3d794e7fb59fd51cf1bdc21a79ba6.html#a7db3d794e7fb59fd51cf1bdc21a79ba6", null ]
+];

@@ -1,0 +1,26 @@
+var classTerraria_1_1Audio_1_1SoundEngine =
+[
+    [ "FindActiveSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a5612371b23bddb9f4fcbb587496aaf4e.html#a5612371b23bddb9f4fcbb587496aaf4e", null ],
+    [ "GetActiveSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a7b57cae1830c4f9d93c4b1df8494a34c.html#a7b57cae1830c4f9d93c4b1df8494a34c", null ],
+    [ "Initialize", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a20e71ac13e78865f7d66bbd66d47af3a.html#a20e71ac13e78865f7d66bbd66d47af3a", null ],
+    [ "Load", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a5781898c653b70da622963d3106c2b4d.html#a5781898c653b70da622963d3106c2b4d", null ],
+    [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_acbfa919f2fcb5344afc7cf71816b1f9c.html#acbfa919f2fcb5344afc7cf71816b1f9c", null ],
+    [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af55950ae09b294fad1dd58e37fecf28b.html#af55950ae09b294fad1dd58e37fecf28b", null ],
+    [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ad32356a02bf1ea71dcac2dc15049acd2.html#ad32356a02bf1ea71dcac2dc15049acd2", null ],
+    [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a65b4b1502c673e839c9bd620e23b2c94.html#a65b4b1502c673e839c9bd620e23b2c94", null ],
+    [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a304ad5bca70721f206105349294d81a8.html#a304ad5bca70721f206105349294d81a8", null ],
+    [ "PlaySound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a99cfb32eaaca1b0e07436f1cb1d4ebeb.html#a99cfb32eaaca1b0e07436f1cb1d4ebeb", null ],
+    [ "PlayTrackedLoopedSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a09bac92d6cfcafc2ecf11b17d8a2e97c.html#a09bac92d6cfcafc2ecf11b17d8a2e97c", null ],
+    [ "PlayTrackedSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ae0319a3b2346b9bac36e6b8c6ea74a11.html#ae0319a3b2346b9bac36e6b8c6ea74a11", null ],
+    [ "Reload", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ac39cfa59a02dbd31643ace619c391161.html#ac39cfa59a02dbd31643ace619c391161", null ],
+    [ "StopAmbientSounds", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a94ad1836876e6dcdb6870ee867684655.html#a94ad1836876e6dcdb6870ee867684655", null ],
+    [ "StopTrackedSounds", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ae933413e66144394de53bdefdcf70da9.html#ae933413e66144394de53bdefdcf70da9", null ],
+    [ "TestAudioSupport", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a098be025b0ec6bf3bc2545e7daefdcce.html#a098be025b0ec6bf3bc2545e7daefdcce", null ],
+    [ "TryGetActiveSound", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a71bdfece255315e0ef664cb459fb631c.html#a71bdfece255315e0ef664cb459fb631c", null ],
+    [ "Update", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ab5943bb7fb36bdd669ae95cfc28393dc.html#ab5943bb7fb36bdd669ae95cfc28393dc", null ],
+    [ "XYToOptionalPosition", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a98075752b5a126176b1fe59e1a9eb6db.html#a98075752b5a126176b1fe59e1a9eb6db", null ],
+    [ "AreSoundsPaused", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af2fc5cd6f7dfd0705ed6d63538571258.html#af2fc5cd6f7dfd0705ed6d63538571258", null ],
+    [ "LegacySoundPlayer", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a89c0a29173b1de6b393fb42cb713387e.html#a89c0a29173b1de6b393fb42cb713387e", null ],
+    [ "SoundPlayer", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a134ca697ce4e0d578a3d38ee20eab9e3.html#a134ca697ce4e0d578a3d38ee20eab9e3", null ],
+    [ "IsAudioSupported", "d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a449c228bdee48275095a470326bf800d.html#a449c228bdee48275095a470326bf800d", null ]
+];

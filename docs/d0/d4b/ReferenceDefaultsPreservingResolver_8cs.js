@@ -1,0 +1,6 @@
+var ReferenceDefaultsPreservingResolver_8cs =
+[
+    [ "Terraria.ModLoader.Config.ReferenceDefaultsPreservingResolver", "d2/d93/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver.html", "d2/d93/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver" ],
+    [ "Terraria.ModLoader.Config.ReferenceDefaultsPreservingResolver.ValueProviderDecorator", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator.html", "d8/d0f/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1ValueProviderDecorator" ],
+    [ "Terraria.ModLoader.Config.ReferenceDefaultsPreservingResolver.NullToDefaultValueProvider", "d2/d7d/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1NullToDefaultValueProvider.html", "d2/d7d/classTerraria_1_1ModLoader_1_1Config_1_1ReferenceDefaultsPreservingResolver_1_1NullToDefaultValueProvider" ]
+];

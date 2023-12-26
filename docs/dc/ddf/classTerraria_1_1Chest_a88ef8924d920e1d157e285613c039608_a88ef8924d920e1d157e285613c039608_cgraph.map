@@ -1,0 +1,35 @@
+<map id="Terraria.Chest.PutItemInNearbyChest" name="Terraria.Chest.PutItemInNearbyChest">
+<area shape="rect" id="Node000001" title="Attempts to move the given item into any chests near the given position. Cannot place items into a ch..." alt="" coords="5,214,184,254"/>
+<area shape="rect" id="Node000002" href="$db/d79/classTerraria_1_1Item_a081e14dafe216c14bf115f75a341431b.html#a081e14dafe216c14bf115f75a341431b" title=" " alt="" coords="272,33,419,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,212,124,180,152,140,188,101,231,68,258,55,260,60,233,72,192,105,156,144,129,183,109,215"/>
+<area shape="rect" id="Node000006" href="$dc/ddf/classTerraria_1_1Chest_a6a629d87ba9cfe23b7d632a346d01c9b.html#a6a629d87ba9cfe23b7d632a346d01c9b" title="Determines if the chest at F:Terraria.Main.tile[x , y ] is locked." alt="" coords="259,107,431,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="119,212,169,176,231,142,256,133,257,138,233,147,172,181,122,216"/>
+<area shape="rect" id="Node000007" href="$dc/ddf/classTerraria_1_1Chest_afbdc85a6c5dc745c33ff9d214b0a4786.html#afbdc85a6c5dc745c33ff9d214b0a4786" title=" " alt="" coords="255,157,435,197"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="182,211,244,197,245,202,183,217"/>
+<area shape="rect" id="Node000008" href="$db/d79/classTerraria_1_1Item_a4cbdcbd7e1256eee0e1a3c7b9fd2541f.html#a4cbdcbd7e1256eee0e1a3c7b9fd2541f" title=" " alt="" coords="247,221,444,247"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="184,231,233,231,233,237,184,237"/>
+<area shape="rect" id="Node000009" href="$db/d79/classTerraria_1_1Item_adb2554f9d394eca69180ff503efd10d9.html#adb2554f9d394eca69180ff503efd10d9" title=" " alt="" coords="253,295,438,320"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="165,251,289,288,287,293,163,257"/>
+<area shape="rect" id="Node000010" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a894059b51bd5b3ca20b16bcc87e217aa.html#a894059b51bd5b3ca20b16bcc87e217aa" title="Stacks source &#160;onto destination &#160;if CanStack permits the transfer." alt="" coords="232,345,459,385"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="121,252,171,291,233,329,253,337,250,342,231,334,168,295,117,256"/>
+<area shape="rect" id="Node000014" href="$dc/ddf/classTerraria_1_1Chest_ab9291b2faefc82b66cc652bcf908a92f.html#ab9291b2faefc82b66cc652bcf908a92f" title="Visually moves item &#160;from position &#160;to chestPosition . &#160;&#160;If called on F:Terraria.ID...." alt="" coords="258,413,433,453"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="110,253,158,322,193,361,234,394,251,405,249,409,230,399,189,365,154,325,105,256"/>
+<area shape="rect" id="Node000003" href="$db/d79/classTerraria_1_1Item_a6fda529e7933f00dc9602a761f579d7f.html#a6fda529e7933f00dc9602a761f579d7f" title=" " alt="" coords="555,5,693,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,36,541,24,541,29,419,41"/>
+<area shape="rect" id="Node000004" href="$db/d77/classTerraria_1_1ModLoader_1_1ModType_aeb73d9b078163fba8a510ff7d51033c3.html#aeb73d9b078163fba8a510ff7d51033c3" title="Create a copy of this instanced global. Called when an entity is cloned." alt="" coords="518,55,730,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="419,51,505,60,504,65,419,56"/>
+<area shape="rect" id="Node000005" href="$d4/d23/classTerraria_1_1ModLoader_1_1Core_1_1Cloning_ad5d16b3fb4335429f23e46f8defc0a91.html#ad5d16b3fb4335429f23e46f8defc0a91" title=" " alt="" coords="825,55,1021,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="730,73,811,73,811,78,730,78"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="305,108,296,98,300,88,317,82,345,80,381,84,391,89,395,94,390,97,387,93,379,89,345,85,318,87,304,92,301,98,309,105"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="305,296,296,286,300,276,317,270,345,268,381,272,391,277,395,282,390,285,387,281,379,277,345,273,318,275,304,280,301,286,309,293"/>
+<area shape="rect" id="Node000011" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_aa56d85982ee46e9f593f2373867c4a76.html#aa56d85982ee46e9f593f2373867c4a76" title="Returns false if item prefixes don&#39;t match. Then calls all GlobalItem.CanStack hooks until one return..." alt="" coords="511,281,737,321"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="433,342,522,321,524,326,434,347"/>
+<area shape="rect" id="Node000012" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a097bd8d87927fe491386703103c48523.html#a097bd8d87927fe491386703103c48523" title="Stacks destination &#160;onto source &#160;&#160;This method should not be called unless M:Terraria...." alt="" coords="511,345,737,385"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="459,362,497,362,497,367,459,367"/>
+<area shape="rect" id="Node000013" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a27efe59ba3cc753ee6acafdd5fe00738.html#a27efe59ba3cc753ee6acafdd5fe00738" title="Calls the GlobalItem.OnStack hooks in destination , then the ModItem.OnStack hook in destination &#160;&#160;On..." alt="" coords="809,345,1036,385"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="738,362,795,362,795,367,738,367"/>
+<area shape="rect" id="Node000015" href="$d2/d7b/classTerraria_1_1GameContent_1_1Drawing_1_1ParticleOrchestrator_a60735a46bedf5f74dda2923783031edf.html#a60735a46bedf5f74dda2923783031edf" title=" " alt="" coords="507,409,741,464"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="433,431,493,432,493,437,433,437"/>
+<area shape="rect" id="Node000016" href="$da/d6f/classTerraria_1_1GameContent_1_1NetModules_1_1NetParticlesModule_abc25519a88c755eeee3b887349125ff5.html#abc25519a88c755eeee3b887349125ff5" title=" " alt="" coords="789,417,1056,457"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="741,434,775,434,775,439,741,439"/>
+</map>

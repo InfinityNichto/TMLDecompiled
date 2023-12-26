@@ -1,0 +1,31 @@
+<map id="Terraria.DataStructures.EntitySource_Parent" name="Terraria.DataStructures.EntitySource_Parent">
+<area shape="rect" id="Node000001" title="Use when the parent can be considered the &#39;owner&#39; or &#39;responsible for&#39; the effect...." alt="" coords="1050,217,1218,347"/>
+<area shape="rect" id="Node000003" href="$d1/dfe/classTerraria_1_1DataStructures_1_1EntitySource__Buff.html" title="Intended for mods to use when spawning projectiles periodically from buffs." alt="" coords="5,395,175,539"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1037,291,837,305,591,326,356,357,260,376,188,397,176,402,174,398,186,392,259,371,355,352,591,321,837,299,1036,286"/>
+<area shape="rect" id="Node000004" href="$d4/d47/classTerraria_1_1DataStructures_1_1EntitySource__Caught.html" title="Used when NPCs or other entities are caught by things like bug nets. Normally converting the caught e..." alt="" coords="199,412,421,521"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1036,290,913,300,761,320,595,351,513,372,434,397,395,414,392,409,432,392,512,367,594,346,760,314,912,295,1036,285"/>
+<area shape="rect" id="Node000005" href="$d4/df3/classTerraria_1_1DataStructures_1_1EntitySource__Death.html" title="Used when dropping coins and items when a player dies. &#160;&#160;Recommended for use by mods when spawning go..." alt="" coords="445,412,613,521"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1037,295,947,308,842,328,732,357,626,397,595,414,593,409,624,392,730,352,841,323,946,303,1036,290"/>
+<area shape="rect" id="Node000006" href="$da/df7/classTerraria_1_1DataStructures_1_1EntitySource__DropAsItem.html" title="Used when projectiles convert themselves to items in the world as a result of hitting a block." alt="" coords="637,412,831,521"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1038,317,943,353,845,397,814,414,812,409,842,392,941,348,1036,312"/>
+<area shape="rect" id="Node000007" href="$de/d55/classTerraria_1_1DataStructures_1_1EntitySource__Gift.html" title="Used when NPCs or pets/minions give gifts or rewards to a player." alt="" coords="855,412,1023,521"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1058,358,999,414,995,410,1054,355"/>
+<area shape="rect" id="Node000008" href="$d6/d30/classTerraria_1_1DataStructures_1_1EntitySource__HitEffect.html" title=" " alt="" coords="1047,412,1221,521"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1137,361,1137,412,1131,412,1131,361"/>
+<area shape="rect" id="Node000009" href="$d0/d29/classTerraria_1_1DataStructures_1_1EntitySource__ItemUse.html" title="Use the interface, T:Terraria.DataStructures.IEntitySource_WithStatsFromItem instead when checking en..." alt="" coords="1245,402,1453,531"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1221,354,1275,400,1272,404,1218,358"/>
+<area shape="rect" id="Node000012" href="$d2/dc7/classTerraria_1_1DataStructures_1_1EntitySource__Loot.html" title="Used when an NPC or Projectile is killed and drops loot. &#160;&#160;Vanilla projectile examples are geodes and..." alt="" coords="1477,412,1645,521"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1232,305,1346,341,1407,365,1466,392,1494,409,1492,414,1463,397,1405,370,1344,346,1230,310"/>
+<area shape="rect" id="Node000013" href="$d7/dda/classTerraria_1_1DataStructures_1_1EntitySource__Mount.html" title="Used for a effects from a mounted player." alt="" coords="1669,412,1901,521"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1232,293,1323,307,1431,328,1546,356,1658,392,1697,409,1695,414,1656,397,1544,361,1430,333,1322,312,1231,298"/>
+<area shape="rect" id="Node000014" href="$d3/df3/classTerraria_1_1DataStructures_1_1EntitySource__OnHit.html" title="Use the interface, T:Terraria.DataStructures.IEntitySource_OnHit instead when checking entity sources..." alt="" coords="1925,402,2143,531"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1232,283,1369,291,1541,309,1634,323,1729,341,1823,364,1914,392,1932,399,1930,404,1912,397,1821,369,1728,347,1633,328,1540,314,1369,296,1232,288"/>
+<area shape="rect" id="Node000015" href="$d1/dc7/classTerraria_1_1DataStructures_1_1EntitySource__OnHurt.html" title="Use the interface, T:Terraria.DataStructures.IEntitySource_OnHurt instead when checking entity source..." alt="" coords="2167,402,2405,531"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1232,287,1445,301,1712,325,1970,355,2076,373,2156,392,2177,399,2175,404,2155,397,2075,378,1970,360,1712,330,1445,307,1232,292"/>
+<area shape="rect" id="Node000002" href="$d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource.html" title="This object encapsulates context information about the source of a particular spawning event of an It..." alt="" coords="1030,5,1238,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1137,183,1137,217,1131,217,1131,183"/>
+<area shape="rect" id="Node000010" href="$d4/d99/classTerraria_1_1DataStructures_1_1EntitySource__ItemUse__OnHurt.html" title="Combination of T:Terraria.DataStructures.IEntitySource_OnHurt and T:Terraria.DataStructures...." alt="" coords="1119,587,1330,731"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1302,544,1273,588,1269,585,1297,541"/>
+<area shape="rect" id="Node000011" href="$dd/dee/classTerraria_1_1DataStructures_1_1EntitySource__ItemUse__WithAmmo.html" title=" " alt="" coords="1355,597,1593,721"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1401,542,1436,595,1431,598,1396,544"/>
+</map>
