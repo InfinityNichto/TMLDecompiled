@@ -9,5 +9,5 @@ Source code browser available at:
 [![click-me - infinitynichto.github.io/TMLDecompiled](https://img.shields.io/badge/click--me-infinitynichto.github.io%2FTMLDecompiled-informational?logo=dependabot&logoColor=informational)](https://infinitynichto.github.io/TMLDecompiled) <br>
 Last updated: `26 December 2023` <br><br>
 Other links: <br>
-• The source code browser for Terraria: https://github.com/InfinityNichto/TerrariaDecompiled <br>
+[![click-me - infinitynichto.github.io/TerrariaDecompiled](https://img.shields.io/badge/click--me-infinitynichto.github.io%2FTerrariaDecompiled-informational?logo=dependabot&logoColor=informational)](https://infinitynichto.github.io/TerrariaDecompiled) <br>
 • Asset browser upcoming!
