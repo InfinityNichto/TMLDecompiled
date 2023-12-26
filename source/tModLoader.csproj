@@ -1,0 +1,671 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>tModLoader</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Terraria.Libraries.ReLogic.ReLogic.dll" />
+    <None Remove="Terraria.GameContent.UI.States.HubDevelopMods.png" />
+    <None Remove="Terraria.GameContent.UI.States.HubDownloadMods.png" />
+    <None Remove="Terraria.GameContent.UI.States.HubManageMods.png" />
+    <None Remove="Terraria.GameContent.UI.States.HubModPacks.png" />
+    <None Remove="Terraria.ModLoader.Config.UI.ButtonCollapsed.png" />
+    <None Remove="Terraria.ModLoader.Config.UI.ButtonConfig.png" />
+    <None Remove="Terraria.ModLoader.Config.UI.ButtonExpanded.png" />
+    <None Remove="Terraria.ModLoader.Config.UI.ButtonPlus.png" />
+    <None Remove="Terraria.ModLoader.Config.UI.ButtonUpDown.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body_Shader.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head_Shader.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs_Shader.png" />
+    <None Remove="Terraria.ModLoader.Default.iconTemplate.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AetherBreaker_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Back.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Back_Back.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Coolmike5000_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dinidini_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.dschosen_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Elfinlocks_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Elfinlocks_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Elfinlocks_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Elfinlocks_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Elfinlocks_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Elfinlocks_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Frosty_Hat.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Frosty_Hat_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Frosty_Hoodie.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Frosty_Hoodie_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Frosty_Pants.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Frosty_Pants_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Glory_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Glory_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Glory_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Glory_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Glory_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Glory_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Aura.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Head_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Guildpack_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.HER0zero_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.HER0zero_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.HER0zero_Effect.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.HER0zero_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.HER0zero_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.HER0zero_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.HER0zero_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Linus_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Mayne_Wings_Wings_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Orian_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Orian_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Orian_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Orian_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Orian_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Orian_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.POCKETS_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Polyblank_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Polyblank_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Polyblank_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Polyblank_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Polyblank_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Polyblank_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Remeus_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Remeus_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Remeus_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Remeus_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Remeus_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Remeus_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Head_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Saethar_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Squid_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Squid_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Squid_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Squid_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Squid_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Squid_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Tantamount_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.toplayz_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.toplayz_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.toplayz_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.toplayz_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.toplayz_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.toplayz_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.WitchDaggah_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.WitchDaggah_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Lens.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Blue_Face.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Blue_Face_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Face.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Face_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Mask.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Mask_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Mask_Scar_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.xAqult_Wings_Wings_Glow.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Body_Body.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Head_Head.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Legs_Legs.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.Patreon.Zeph_Wings_Wings.png" />
+    <None Remove="Terraria.ModLoader.Default.StartBag.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedChest.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedDresser.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedItem.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedNonSolidTile.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedSemiSolidTile.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedSolidTile.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedSupremeFurniture.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedTile.png" />
+    <None Remove="Terraria.ModLoader.Default.UnloadedWall.png" />
+    <None Remove="Terraria.ModLoader.Logo.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonDowngrade.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonDownload.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonDownloadMultiple.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonError.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonExclamation.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonModConfig.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonModInfo.png" />
+    <None Remove="Terraria.ModLoader.UI.ButtonTranslationMod.png" />
+    <None Remove="Terraria.ModLoader.UI.CopyCodeButton.png" />
+    <None Remove="Terraria.ModLoader.UI.InfoDisplayPageArrow.png" />
+    <None Remove="Terraria.ModLoader.UI.Loader.png" />
+    <None Remove="Terraria.ModLoader.UI.LoaderBG.png" />
+    <None Remove="Terraria.ModLoader.UI.tModLoaderTitleLinkButtons.png" />
+    <None Remove="Terraria.ModLoader.UI.UIModBrowserIcons.png" />
+    <None Remove="Terraria.GameContent.Creative.Content.Sacrifices.tsv" />
+    <None Remove="Terraria.IO.Data.ResourcePacksDefaultInfo.tsv" />
+    <None Remove="Terraria.GameContent.Metadata.MaterialData.Materials.json" />
+    <None Remove="Terraria.GameContent.Metadata.MaterialData.Tiles.json" />
+    <None Remove="Terraria.GameContent.WorldBuilding.Configuration.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.Game.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.Items.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.Main.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.de_DE.Town.json" />
+    <None Remove="Terraria.Localization.Content.en_US.Game.json" />
+    <None Remove="Terraria.Localization.Content.en_US.Items.json" />
+    <None Remove="Terraria.Localization.Content.en_US.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.en_US.Main.json" />
+    <None Remove="Terraria.Localization.Content.en_US.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.en_US.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.en_US.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.en_US.Town.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.Game.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.Items.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.Main.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.es_ES.Town.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.Game.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.Items.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.Main.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.fr_FR.Town.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.Game.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.Items.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.Main.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.it_IT.Town.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.Game.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.Items.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.Main.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.pl_PL.Town.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.Game.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.Items.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.Main.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.pt_BR.Town.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.Game.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.Items.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.Main.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.ru_RU.Town.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.Game.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.Items.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.Legacy.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.Main.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.NPCs.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.Projectiles.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.tModLoader.json" />
+    <None Remove="Terraria.Localization.Content.zh_Hans.Town.json" />
+    <EmbeddedResource Include="Terraria.Libraries.ReLogic.ReLogic.dll" LogicalName="Terraria.Libraries.ReLogic.ReLogic.dll" />
+    <EmbeddedResource Include="Terraria.GameContent.UI.States.HubDevelopMods.png" LogicalName="Terraria.GameContent.UI.States.HubDevelopMods.png" />
+    <EmbeddedResource Include="Terraria.GameContent.UI.States.HubDownloadMods.png" LogicalName="Terraria.GameContent.UI.States.HubDownloadMods.png" />
+    <EmbeddedResource Include="Terraria.GameContent.UI.States.HubManageMods.png" LogicalName="Terraria.GameContent.UI.States.HubManageMods.png" />
+    <EmbeddedResource Include="Terraria.GameContent.UI.States.HubModPacks.png" LogicalName="Terraria.GameContent.UI.States.HubModPacks.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Config.UI.ButtonCollapsed.png" LogicalName="Terraria.ModLoader.Config.UI.ButtonCollapsed.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Config.UI.ButtonConfig.png" LogicalName="Terraria.ModLoader.Config.UI.ButtonConfig.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Config.UI.ButtonExpanded.png" LogicalName="Terraria.ModLoader.Config.UI.ButtonExpanded.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Config.UI.ButtonPlus.png" LogicalName="Terraria.ModLoader.Config.UI.ButtonPlus.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Config.UI.ButtonUpDown.png" LogicalName="Terraria.ModLoader.Config.UI.ButtonUpDown.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body_Glow.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body_Shader.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Body_Body_Shader.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head_Glow.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head_Shader.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Head_Head_Shader.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs_Glow.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs_Shader.png" LogicalName="Terraria.ModLoader.Default.Developer.Jofairden.Jofairden_Legs_Legs_Shader.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.iconTemplate.png" LogicalName="Terraria.ModLoader.Default.iconTemplate.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AetherBreaker_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.AetherBreaker_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Back.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Back.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Back_Back.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Back_Back.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.AlejandroAkbal_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Coolmike5000_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Coolmike5000_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dinidini_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.dinidini_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.dschosen_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.dschosen_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Elfinlocks_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Elfinlocks_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Elfinlocks_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Elfinlocks_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Elfinlocks_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Elfinlocks_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Elfinlocks_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Elfinlocks_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Elfinlocks_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Elfinlocks_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Elfinlocks_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Elfinlocks_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Frosty_Hat.png" LogicalName="Terraria.ModLoader.Default.Patreon.Frosty_Hat.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Frosty_Hat_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Frosty_Hat_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Frosty_Hoodie.png" LogicalName="Terraria.ModLoader.Default.Patreon.Frosty_Hoodie.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Frosty_Hoodie_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Frosty_Hoodie_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Frosty_Pants.png" LogicalName="Terraria.ModLoader.Default.Patreon.Frosty_Pants.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Frosty_Pants_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Frosty_Pants_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Glory_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Glory_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Glory_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Glory_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Glory_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Glory_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Glory_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Glory_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Glory_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Glory_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Glory_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Glory_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Aura.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Aura.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Head_Glow.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Head_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Guildpack_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Guildpack_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.HER0zero_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.HER0zero_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.HER0zero_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.HER0zero_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.HER0zero_Effect.png" LogicalName="Terraria.ModLoader.Default.Patreon.HER0zero_Effect.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.HER0zero_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.HER0zero_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.HER0zero_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.HER0zero_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.HER0zero_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.HER0zero_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.HER0zero_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.HER0zero_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.KittyKitCatCat_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Linus_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Linus_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Mayne_Wings_Wings_Glow.png" LogicalName="Terraria.ModLoader.Default.Patreon.Mayne_Wings_Wings_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Orian_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Orian_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Orian_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Orian_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Orian_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Orian_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Orian_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Orian_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Orian_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Orian_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Orian_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Orian_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.POCKETS_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.POCKETS_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Polyblank_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Polyblank_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Polyblank_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Polyblank_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Polyblank_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Polyblank_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Polyblank_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Polyblank_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Polyblank_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Polyblank_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Polyblank_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Polyblank_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Remeus_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Remeus_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Remeus_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Remeus_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Remeus_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Remeus_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Remeus_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Remeus_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Remeus_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Remeus_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Remeus_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Remeus_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Head_Glow.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Head_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Saethar_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Saethar_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Sailing_Squid_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Squid_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Squid_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Squid_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Squid_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Squid_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Squid_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Squid_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Squid_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Squid_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Squid_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Squid_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Squid_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Tantamount_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Tantamount_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.toplayz_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.toplayz_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.toplayz_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.toplayz_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.toplayz_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.toplayz_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.toplayz_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.toplayz_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.toplayz_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.toplayz_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.toplayz_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.toplayz_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.WitchDaggah_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.WitchDaggah_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.WitchDaggah_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.WitchDaggah_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Lens.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Lens.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Blue_Face.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Blue_Face.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Blue_Face_Glow.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Blue_Face_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Face.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Face.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Face_Glow.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Lens_Face_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Mask.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Mask.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Mask_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Mask_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Mask_Scar_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Mask_Scar_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.xAqult_Wings_Wings_Glow.png" LogicalName="Terraria.ModLoader.Default.Patreon.xAqult_Wings_Wings_Glow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Body_Body.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Body_Body.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Head_Head.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Head_Head.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Legs_Legs.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Legs_Legs.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.Patreon.Zeph_Wings_Wings.png" LogicalName="Terraria.ModLoader.Default.Patreon.Zeph_Wings_Wings.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.StartBag.png" LogicalName="Terraria.ModLoader.Default.StartBag.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedChest.png" LogicalName="Terraria.ModLoader.Default.UnloadedChest.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedDresser.png" LogicalName="Terraria.ModLoader.Default.UnloadedDresser.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedItem.png" LogicalName="Terraria.ModLoader.Default.UnloadedItem.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedNonSolidTile.png" LogicalName="Terraria.ModLoader.Default.UnloadedNonSolidTile.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedSemiSolidTile.png" LogicalName="Terraria.ModLoader.Default.UnloadedSemiSolidTile.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedSolidTile.png" LogicalName="Terraria.ModLoader.Default.UnloadedSolidTile.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedSupremeFurniture.png" LogicalName="Terraria.ModLoader.Default.UnloadedSupremeFurniture.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedTile.png" LogicalName="Terraria.ModLoader.Default.UnloadedTile.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Default.UnloadedWall.png" LogicalName="Terraria.ModLoader.Default.UnloadedWall.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.Logo.png" LogicalName="Terraria.ModLoader.Logo.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonDowngrade.png" LogicalName="Terraria.ModLoader.UI.ButtonDowngrade.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonDownload.png" LogicalName="Terraria.ModLoader.UI.ButtonDownload.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonDownloadMultiple.png" LogicalName="Terraria.ModLoader.UI.ButtonDownloadMultiple.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonError.png" LogicalName="Terraria.ModLoader.UI.ButtonError.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonExclamation.png" LogicalName="Terraria.ModLoader.UI.ButtonExclamation.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonModConfig.png" LogicalName="Terraria.ModLoader.UI.ButtonModConfig.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonModInfo.png" LogicalName="Terraria.ModLoader.UI.ButtonModInfo.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.ButtonTranslationMod.png" LogicalName="Terraria.ModLoader.UI.ButtonTranslationMod.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.CopyCodeButton.png" LogicalName="Terraria.ModLoader.UI.CopyCodeButton.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.InfoDisplayPageArrow.png" LogicalName="Terraria.ModLoader.UI.InfoDisplayPageArrow.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.Loader.png" LogicalName="Terraria.ModLoader.UI.Loader.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.LoaderBG.png" LogicalName="Terraria.ModLoader.UI.LoaderBG.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.tModLoaderTitleLinkButtons.png" LogicalName="Terraria.ModLoader.UI.tModLoaderTitleLinkButtons.png" />
+    <EmbeddedResource Include="Terraria.ModLoader.UI.UIModBrowserIcons.png" LogicalName="Terraria.ModLoader.UI.UIModBrowserIcons.png" />
+    <EmbeddedResource Include="Terraria.GameContent.Creative.Content.Sacrifices.tsv" LogicalName="Terraria.GameContent.Creative.Content.Sacrifices.tsv" />
+    <EmbeddedResource Include="Terraria.IO.Data.ResourcePacksDefaultInfo.tsv" LogicalName="Terraria.IO.Data.ResourcePacksDefaultInfo.tsv" />
+    <EmbeddedResource Include="Terraria.GameContent.Metadata.MaterialData.Materials.json" LogicalName="Terraria.GameContent.Metadata.MaterialData.Materials.json" />
+    <EmbeddedResource Include="Terraria.GameContent.Metadata.MaterialData.Tiles.json" LogicalName="Terraria.GameContent.Metadata.MaterialData.Tiles.json" />
+    <EmbeddedResource Include="Terraria.GameContent.WorldBuilding.Configuration.json" LogicalName="Terraria.GameContent.WorldBuilding.Configuration.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.Game.json" LogicalName="Terraria.Localization.Content.de_DE.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.Items.json" LogicalName="Terraria.Localization.Content.de_DE.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.Legacy.json" LogicalName="Terraria.Localization.Content.de_DE.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.Main.json" LogicalName="Terraria.Localization.Content.de_DE.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.NPCs.json" LogicalName="Terraria.Localization.Content.de_DE.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.Projectiles.json" LogicalName="Terraria.Localization.Content.de_DE.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.tModLoader.json" LogicalName="Terraria.Localization.Content.de_DE.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.de_DE.Town.json" LogicalName="Terraria.Localization.Content.de_DE.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.Game.json" LogicalName="Terraria.Localization.Content.en_US.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.Items.json" LogicalName="Terraria.Localization.Content.en_US.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.Legacy.json" LogicalName="Terraria.Localization.Content.en_US.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.Main.json" LogicalName="Terraria.Localization.Content.en_US.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.NPCs.json" LogicalName="Terraria.Localization.Content.en_US.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.Projectiles.json" LogicalName="Terraria.Localization.Content.en_US.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.tModLoader.json" LogicalName="Terraria.Localization.Content.en_US.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.en_US.Town.json" LogicalName="Terraria.Localization.Content.en_US.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.Game.json" LogicalName="Terraria.Localization.Content.es_ES.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.Items.json" LogicalName="Terraria.Localization.Content.es_ES.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.Legacy.json" LogicalName="Terraria.Localization.Content.es_ES.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.Main.json" LogicalName="Terraria.Localization.Content.es_ES.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.NPCs.json" LogicalName="Terraria.Localization.Content.es_ES.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.Projectiles.json" LogicalName="Terraria.Localization.Content.es_ES.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.tModLoader.json" LogicalName="Terraria.Localization.Content.es_ES.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.es_ES.Town.json" LogicalName="Terraria.Localization.Content.es_ES.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.Game.json" LogicalName="Terraria.Localization.Content.fr_FR.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.Items.json" LogicalName="Terraria.Localization.Content.fr_FR.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.Legacy.json" LogicalName="Terraria.Localization.Content.fr_FR.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.Main.json" LogicalName="Terraria.Localization.Content.fr_FR.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.NPCs.json" LogicalName="Terraria.Localization.Content.fr_FR.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.Projectiles.json" LogicalName="Terraria.Localization.Content.fr_FR.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.tModLoader.json" LogicalName="Terraria.Localization.Content.fr_FR.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.fr_FR.Town.json" LogicalName="Terraria.Localization.Content.fr_FR.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.Game.json" LogicalName="Terraria.Localization.Content.it_IT.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.Items.json" LogicalName="Terraria.Localization.Content.it_IT.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.Legacy.json" LogicalName="Terraria.Localization.Content.it_IT.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.Main.json" LogicalName="Terraria.Localization.Content.it_IT.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.NPCs.json" LogicalName="Terraria.Localization.Content.it_IT.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.Projectiles.json" LogicalName="Terraria.Localization.Content.it_IT.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.tModLoader.json" LogicalName="Terraria.Localization.Content.it_IT.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.it_IT.Town.json" LogicalName="Terraria.Localization.Content.it_IT.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.Game.json" LogicalName="Terraria.Localization.Content.pl_PL.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.Items.json" LogicalName="Terraria.Localization.Content.pl_PL.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.Legacy.json" LogicalName="Terraria.Localization.Content.pl_PL.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.Main.json" LogicalName="Terraria.Localization.Content.pl_PL.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.NPCs.json" LogicalName="Terraria.Localization.Content.pl_PL.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.Projectiles.json" LogicalName="Terraria.Localization.Content.pl_PL.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.tModLoader.json" LogicalName="Terraria.Localization.Content.pl_PL.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pl_PL.Town.json" LogicalName="Terraria.Localization.Content.pl_PL.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.Game.json" LogicalName="Terraria.Localization.Content.pt_BR.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.Items.json" LogicalName="Terraria.Localization.Content.pt_BR.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.Legacy.json" LogicalName="Terraria.Localization.Content.pt_BR.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.Main.json" LogicalName="Terraria.Localization.Content.pt_BR.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.NPCs.json" LogicalName="Terraria.Localization.Content.pt_BR.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.Projectiles.json" LogicalName="Terraria.Localization.Content.pt_BR.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.tModLoader.json" LogicalName="Terraria.Localization.Content.pt_BR.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.pt_BR.Town.json" LogicalName="Terraria.Localization.Content.pt_BR.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.Game.json" LogicalName="Terraria.Localization.Content.ru_RU.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.Items.json" LogicalName="Terraria.Localization.Content.ru_RU.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.Legacy.json" LogicalName="Terraria.Localization.Content.ru_RU.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.Main.json" LogicalName="Terraria.Localization.Content.ru_RU.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.NPCs.json" LogicalName="Terraria.Localization.Content.ru_RU.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.Projectiles.json" LogicalName="Terraria.Localization.Content.ru_RU.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.tModLoader.json" LogicalName="Terraria.Localization.Content.ru_RU.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.ru_RU.Town.json" LogicalName="Terraria.Localization.Content.ru_RU.Town.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.Game.json" LogicalName="Terraria.Localization.Content.zh_Hans.Game.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.Items.json" LogicalName="Terraria.Localization.Content.zh_Hans.Items.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.Legacy.json" LogicalName="Terraria.Localization.Content.zh_Hans.Legacy.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.Main.json" LogicalName="Terraria.Localization.Content.zh_Hans.Main.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.NPCs.json" LogicalName="Terraria.Localization.Content.zh_Hans.NPCs.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.Projectiles.json" LogicalName="Terraria.Localization.Content.zh_Hans.Projectiles.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.tModLoader.json" LogicalName="Terraria.Localization.Content.zh_Hans.tModLoader.json" />
+    <EmbeddedResource Include="Terraria.Localization.Content.zh_Hans.Town.json" LogicalName="Terraria.Localization.Content.zh_Hans.Town.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="FNA" />
+    <Reference Include="ReLogic">
+      <HintPath>..\..\program\TML\tModLoader\Libraries\ReLogic\1.0.0\ReLogic.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="Ionic.Zip.Reduced" />
+    <Reference Include="MonoMod.Utils" />
+    <Reference Include="RailSDK.Net" />
+    <Reference Include="Steamworks.NET" />
+    <Reference Include="Hjson" />
+    <Reference Include="log4net" />
+    <Reference Include="MonoMod.RuntimeDetour" />
+    <Reference Include="System.CodeDom">
+      <HintPath>..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\6.0.25\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil" />
+    <Reference Include="System.Reflection.MetadataLoadContext" />
+    <Reference Include="Microsoft.CodeAnalysis">
+      <HintPath>..\..\..\..\.nuget\packages\microsoft.codeanalysis.common\4.2.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.CSharp">
+      <HintPath>..\..\..\..\.nuget\packages\microsoft.codeanalysis.csharp\4.2.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MP3Sharp" />
+    <Reference Include="NVorbis" />
+    <Reference Include="CsvHelper" />
+    <Reference Include="SteelSeriesEngineWrapper" />
+    <Reference Include="tModPorter" />
+    <Reference Include="Basic.Reference.Assemblies.Net60" />
+  </ItemGroup>
+</Project>

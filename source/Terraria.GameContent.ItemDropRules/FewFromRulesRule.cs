@@ -1,0 +1,79 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Terraria.GameContent.ItemDropRules;
+
+/// <summary>
+/// Runs multiple drop rules if successes.
+/// </summary>
+public class FewFromRulesRule : IItemDropRule, INestedItemDropRule
+{
+	public int amount;
+
+	public IItemDropRule[] options;
+
+	public int chanceDenominator;
+
+	public List<IItemDropRuleChainAttempt> ChainedRules { get; private set; }
+
+	public FewFromRulesRule(int amount, int chanceNumerator, params IItemDropRule[] options)
+	{
+		if (amount > options.Length)
+		{
+			throw new ArgumentOutOfRangeException("amount", "amount must be less than the number of options");
+		}
+		this.amount = amount;
+		chanceDenominator = chanceNumerator;
+		this.options = options;
+		ChainedRules = new List<IItemDropRuleChainAttempt>();
+	}
+
+	public bool CanDrop(DropAttemptInfo info)
+	{
+		return true;
+	}
+
+	public ItemDropAttemptResult TryDroppingItem(DropAttemptInfo info)
+	{
+		ItemDropAttemptResult result = default(ItemDropAttemptResult);
+		result.State = ItemDropAttemptResultState.DidNotRunCode;
+		return result;
+	}
+
+	public ItemDropAttemptResult TryDroppingItem(DropAttemptInfo info, ItemDropRuleResolveAction resolveAction)
+	{
+		ItemDropAttemptResult result;
+		if (info.rng.Next(chanceDenominator) == 0)
+		{
+			List<IItemDropRule> savedDropIds = options.ToList();
+			int count = 0;
+			int num = info.rng.Next(savedDropIds.Count);
+			resolveAction(savedDropIds[num], info);
+			savedDropIds.RemoveAt(num);
+			while (++count < amount)
+			{
+				num = info.rng.Next(savedDropIds.Count);
+				resolveAction(savedDropIds[num], info);
+				savedDropIds.RemoveAt(num);
+			}
+			result = default(ItemDropAttemptResult);
+			result.State = ItemDropAttemptResultState.Success;
+			return result;
+		}
+		result = default(ItemDropAttemptResult);
+		result.State = ItemDropAttemptResultState.FailedRandomRoll;
+		return result;
+	}
+
+	public void ReportDroprates(List<DropRateInfo> drops, DropRateInfoChainFeed ratesInfo)
+	{
+		float personalDroprate = 1f / (float)chanceDenominator;
+		float multiplier = (float)amount / (float)options.Length * personalDroprate;
+		for (int i = 0; i < options.Length; i++)
+		{
+			options[i].ReportDroprates(drops, ratesInfo.With(multiplier));
+		}
+		Chains.ReportDroprates(ChainedRules, personalDroprate, drops, ratesInfo);
+	}
+}

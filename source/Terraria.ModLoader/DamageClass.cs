@@ -1,0 +1,157 @@
+using Terraria.Localization;
+
+namespace Terraria.ModLoader;
+
+/// <summary>
+/// <see cref="T:Terraria.ModLoader.DamageClass" /> is used to determine the application of item effects, damage/stat scaling, and class bonuses.
+/// </summary>
+/// <remarks>
+/// New classes can be created and can be set to inherit these applications from other classes. 
+/// <para>For a more in-depth explanation and demonstration refer to <see href="https://github.com/tModLoader/tModLoader/blob/stable/ExampleMod/Content/DamageClasses/ExampleDamageClass.cs">ExampleMod's ExampleDamageClass.cs</see>.</para>
+/// </remarks>
+public abstract class DamageClass : ModType, ILocalizedModType, IModType
+{
+	/// <summary>
+	/// Default damage class for non-classed weapons and items, does not benefit from Generic bonuses
+	/// </summary>
+	public static DamageClass Default { get; private set; } = new DefaultDamageClass();
+
+
+	/// <summary>
+	/// Base damage class for all weapons. All vanilla damage classes inherit bonuses applied to this class.
+	/// Accessories which benefit all classes provide bonuses via the Generic class
+	/// </summary>
+	public static DamageClass Generic { get; private set; } = new GenericDamageClass();
+
+
+	public static DamageClass Melee { get; private set; } = new MeleeDamageClass();
+
+
+	/// <summary>
+	/// This is a damage class used by various projectile-only vanilla melee weapons. Attack speed has no effect on items with this damage class.
+	/// </summary>
+	public static DamageClass MeleeNoSpeed { get; private set; } = new MeleeNoSpeedDamageClass();
+
+
+	public static DamageClass Ranged { get; private set; } = new RangedDamageClass();
+
+
+	public static DamageClass Magic { get; private set; } = new MagicDamageClass();
+
+
+	public static DamageClass Summon { get; private set; } = new SummonDamageClass();
+
+
+	/// <summary>
+	/// This is a damage class used solely by vanilla whips. It benefits from melee attackSpeed bonuses.
+	/// </summary>
+	public static DamageClass SummonMeleeSpeed { get; private set; } = new SummonMeleeSpeedDamageClass();
+
+
+	/// <summary>
+	/// This is a damage class used solely by vanilla forbidden storm. It scales with both magic and summon damage modifiers.
+	/// </summary>
+	public static DamageClass MagicSummonHybrid { get; private set; } = new MagicSummonHybridDamageClass();
+
+
+	/// <summary>
+	/// Class provided for modders who want to coordinate throwing accessories and items. Not used by any vanilla items.
+	/// </summary>
+	public static DamageClass Throwing { get; private set; } = new ThrowingDamageClass();
+
+
+	/// <summary>
+	/// The internal ID of this <see cref="T:Terraria.ModLoader.DamageClass" />.
+	/// </summary>
+	public int Type { get; internal set; }
+
+	public virtual string LocalizationCategory => "DamageClasses";
+
+	/// <summary>
+	/// This is the name that will show up when an item tooltip displays 'X [ClassName]'.
+	/// </summary>
+	/// <remarks>
+	/// This should include the 'damage' part.
+	/// Note that vanilla entries all start with a space that will need to be trimmed if used in other contexts.
+	/// </remarks>
+	public virtual LocalizedText DisplayName => this.GetLocalization("DisplayName", base.PrettyPrintName);
+
+	/// <summary>
+	/// This lets you decide whether or not your damage class will use standard crit chance calculations.
+	/// Setting this to <see langword="false" /> will also hide the critical strike chance line in the tooltip of any item that uses this <see cref="T:Terraria.ModLoader.DamageClass" />.
+	/// </summary>
+	public virtual bool UseStandardCritCalcs => true;
+
+	/// <summary>
+	/// This lets you define the classes that this <see cref="T:Terraria.ModLoader.DamageClass" /> will benefit from (other than itself) for the purposes of stat bonuses, such as damage and crit chance.
+	/// This is used to allow extensive specifications for what your damage class can and can't benefit from in terms of other classes' stat bonuses.
+	/// </summary>
+	/// <param name="damageClass">The <see cref="T:Terraria.ModLoader.DamageClass" /> which you want this <see cref="T:Terraria.ModLoader.DamageClass" /> to benefit from statistically.</param>
+	/// <returns>By default this will return <see cref="F:Terraria.ModLoader.StatInheritanceData.Full" /> for <see cref="P:Terraria.ModLoader.DamageClass.Generic" /> and <see cref="F:Terraria.ModLoader.StatInheritanceData.None" /> for any other.</returns>
+	public virtual StatInheritanceData GetModifierInheritance(DamageClass damageClass)
+	{
+		if (damageClass != Generic)
+		{
+			return StatInheritanceData.None;
+		}
+		return StatInheritanceData.Full;
+	}
+
+	/// <summary> 
+	/// This lets you define the classes that this <see cref="T:Terraria.ModLoader.DamageClass" /> will count as (other than itself) for the purpose of armor and accessory effects, such as Spectre armor's bolts on magic attacks, or Magma Stone's Hellfire debuff on melee attacks.<br />
+	/// For a more in-depth explanation and demonstration, see <see href="https://github.com/tModLoader/tModLoader/blob/stable/ExampleMod/Content/DamageClasses/ExampleDamageClass.cs">ExampleMod's ExampleDamageClass.cs</see>
+	/// </summary>
+	/// <remarks>Return <see langword="true" /> for each <see cref="T:Terraria.ModLoader.DamageClass" /> you want to inherit from</remarks>
+	/// <param name="damageClass">The <see cref="T:Terraria.ModLoader.DamageClass" /> you want to inherit effects from.</param>
+	/// <returns><see langword="false" /> by default - which does not let any other classes' effects trigger on this <see cref="T:Terraria.ModLoader.DamageClass" />.</returns>
+	public virtual bool GetEffectInheritance(DamageClass damageClass)
+	{
+		return false;
+	}
+
+	/// <summary> 
+	/// This lets you define default stat modifiers for all items of this class (e.g. base crit chance).
+	/// </summary>
+	/// <param name="player">The player to apply stat modifications to</param>
+	public virtual void SetDefaultStats(Player player)
+	{
+	}
+
+	/// <summary>
+	/// Overriding this lets you disable standard statistical tooltip lines displayed on items associated with this <see cref="T:Terraria.ModLoader.DamageClass" />. All tooltip lines are enabled by default.
+	/// </summary>
+	/// <remarks>To disable tooltip lines you should return <see langword="false" /> for each of those cases.</remarks>
+	/// <param name="player">The player to apply tooltip changes to</param>
+	/// <param name="lineName">The tooltip line to change visibility for. Usable values are: "Damage", "CritChance", "Speed", and "Knockback"</param>
+	public virtual bool ShowStatTooltipLine(Player player, string lineName)
+	{
+		return true;
+	}
+
+	protected sealed override void Register()
+	{
+		ModTypeLookup<DamageClass>.Register(this);
+		Type = DamageClassLoader.Add(this);
+	}
+
+	public sealed override void SetupContent()
+	{
+		SetStaticDefaults();
+	}
+
+	/// <inheritdoc cref="M:Terraria.ModLoader.DamageClass.CountsAsClass(Terraria.ModLoader.DamageClass)" />
+	public bool CountsAsClass<T>() where T : DamageClass
+	{
+		return CountsAsClass(ModContent.GetInstance<T>());
+	}
+
+	/// <summary>
+	/// This is used to check if this <see cref="T:Terraria.ModLoader.DamageClass" /> has been set to inherit effects from the provided <see cref="T:Terraria.ModLoader.DamageClass" />, as dictated by <see cref="M:Terraria.ModLoader.DamageClass.GetEffectInheritance(Terraria.ModLoader.DamageClass)" />
+	/// </summary>
+	/// <param name="damageClass">The DamageClass you want to check if effects are inherited by this DamageClass.</param>
+	/// <returns><see langword="true" /> if this damage class is inheriting effects from <paramref name="damageClass" />, <see langword="false" /> otherwise</returns>
+	public bool CountsAsClass(DamageClass damageClass)
+	{
+		return DamageClassLoader.effectInheritanceCache[Type, damageClass.Type];
+	}
+}
