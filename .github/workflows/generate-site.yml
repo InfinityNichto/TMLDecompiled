@@ -30,100 +30,11 @@ jobs:
         rm -r ./docs doxygen
         mv html docs
 
-    - name: Divide and Add Changes (Step 1/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=1
-        end_index=$chunk_size
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 2/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((chunk_size + 1))
-        end_index=$((2 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 3/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((2 * chunk_size + 1))
-        end_index=$((3 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 4/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((3 * chunk_size + 1))
-        end_index=$((4 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 5/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((4 * chunk_size + 1))
-        end_index=$((5 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 6/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((5 * chunk_size + 1))
-        end_index=$((6 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 7/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((6 * chunk_size + 1))
-        end_index=$((7 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 8/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((7 * chunk_size + 1))
-        end_index=$((8 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 9/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((8 * chunk_size + 1))
-        end_index=$((9 * chunk_size))
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
-    - name: Divide and Add Changes (Step 10/10)
-      run: |
-        total_files=$(git ls-files | wc -l)
-        chunk_size=$((total_files / 10))
-        start_index=$((9 * chunk_size + 1))
-        end_index=$total_files
-        files_to_add=$(git ls-files | sed -n "${start_index},${end_index}p")
-        git add $files_to_add
-
     - name: Commit and push
       run: |
         git config user.name "InfinityNichto"
         git config user.email "u5170201@gmail.com"
+        git add .
         git commit -m "Commit docs"
         git pull origin master
         git push origin master
