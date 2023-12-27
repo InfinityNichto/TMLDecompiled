@@ -1,20 +1,16 @@
 <map id="Terraria.ModLoader.SandstormInABottleJump.ShowVisuals" name="Terraria.ModLoader.SandstormInABottleJump.ShowVisuals">
-<area shape="rect" id="Node000001" title="Spawn effects that should appear while the player is performing this jump here. &#160;Only runs while the ..." alt="" coords="5,128,225,168"/>
-<area shape="rect" id="Node000002" href="$dc/de5/classTerraria_1_1Dust_a977a36a9376966862406a3094e3b70ab.html#a977a36a9376966862406a3094e3b70ab" title="Attempts to spawn a single Dust into the game world. The Position, Width, and Height parameters dicta..." alt="" coords="275,87,443,113"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,125,280,113,281,118,218,131"/>
-<area shape="rect" id="Node000008" href="$d1/ddf/classTerraria_1_1Gore_a99c43465db05b0c96da5f5d941e780d1.html#a99c43465db05b0c96da5f5d941e780d1" title=" " alt="" coords="273,171,444,197"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="226,162,260,167,260,172,225,167"/>
-<area shape="rect" id="Node000003" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_ac4ecc6320b69ab939b9c45eaf7d89000.html#ac4ecc6320b69ab939b9c45eaf7d89000" title=" " alt="" coords="517,5,693,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,85,491,55,518,47,520,52,493,60,399,90"/>
-<area shape="rect" id="Node000005" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" title=" " alt="" coords="492,69,719,109"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,94,478,92,478,97,443,99"/>
-<area shape="rect" id="Node000007" href="$de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" title=" " alt="" coords="497,134,713,159"/>
-<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="427,110,525,129,524,134,426,115"/>
-<area shape="rect" id="Node000004" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_a173f09196ff526b107c0223c2d58c59a.html#a173f09196ff526b107c0223c2d58c59a" title=" " alt="" coords="791,5,969,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="693,23,777,23,777,28,693,28"/>
-<area shape="rect" id="Node000006" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists." alt="" coords="767,69,993,109"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="719,87,753,87,753,92,719,92"/>
-<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="319,173,311,163,315,153,332,147,359,145,393,149,403,153,406,159,402,162,399,157,392,154,359,150,333,152,319,157,316,162,323,169"/>
-<area shape="rect" id="Node000009" href="$d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource_aad02a637d76bfd16f138769722291901.html#aad02a637d76bfd16f138769722291901" title=" " alt="" coords="496,184,715,224"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="445,188,482,191,482,197,444,194"/>
+<area shape="rect" id="Node000001" title="Spawn effects that should appear while the player is performing this jump here. &#160;Only runs while the ..." alt="" coords="5,92,225,132"/>
+<area shape="rect" id="Node000002" href="$dc/de5/classTerraria_1_1Dust_a977a36a9376966862406a3094e3b70ab.html#a977a36a9376966862406a3094e3b70ab" title="Attempts to spawn a single Dust into the game world. The Position, Width, and Height parameters dicta..." alt="" coords="275,62,443,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,93,262,87,262,92,226,98"/>
+<area shape="rect" id="Node000006" href="$d1/ddf/classTerraria_1_1Gore_a99c43465db05b0c96da5f5d941e780d1.html#a99c43465db05b0c96da5f5d941e780d1" title=" " alt="" coords="273,135,444,161"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="226,126,260,131,260,136,225,131"/>
+<area shape="rect" id="Node000003" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" title=" " alt="" coords="492,5,719,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,59,491,45,492,51,423,65"/>
+<area shape="rect" id="Node000005" href="$de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" title=" " alt="" coords="497,70,713,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,75,484,76,483,81,443,80"/>
+<area shape="rect" id="Node000004" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists." alt="" coords="767,5,993,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="719,23,753,23,753,28,719,28"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="319,137,311,127,315,117,332,111,359,109,393,113,403,117,406,123,402,126,399,121,392,118,359,114,333,116,319,121,316,126,323,133"/>
+<area shape="rect" id="Node000007" href="$d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource_aad02a637d76bfd16f138769722291901.html#aad02a637d76bfd16f138769722291901" title=" " alt="" coords="496,128,715,168"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="444,145,482,145,482,151,444,151"/>
 </map>

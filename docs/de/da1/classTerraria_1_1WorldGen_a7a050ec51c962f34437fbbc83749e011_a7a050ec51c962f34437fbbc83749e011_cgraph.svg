@@ -119,20 +119,20 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node7 -->
-<g id="Node000007" class="node">
-<title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_ab0d9539580ad7e7b94eeb1cd570e4561.html#ab0d9539580ad7e7b94eeb1cd570e4561" target="_top" xlink:title=" ">
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_ab0d9539580ad7e7b94eeb1cd570e4561.html#ab0d9539580ad7e7b94eeb1cd570e4561" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="604,-30 458,-30 458,0 604,0 604,-30"/>
 <text text-anchor="start" x="466" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.Housing</text>
 <text text-anchor="middle" x="531" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">_GetTestedRoomBounds</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node7 -->
-<g id="edge6_Node000002_Node000007" class="edge">
-<title>Node2&#45;&gt;Node7</title>
-<g id="a_edge6_Node000002_Node000007"><a xlink:title=" ">
+<!-- Node2&#45;&gt;Node6 -->
+<g id="edge5_Node000002_Node000006" class="edge">
+<title>Node2&#45;&gt;Node6</title>
+<g id="a_edge5_Node000002_Node000006"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M389.99,-47.94C411.06,-42.99 434.67,-37.43 456.4,-32.32"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="457.31,-35.7 466.24,-30 455.7,-28.89 457.31,-35.7"/>
 </a>
@@ -141,10 +141,10 @@ var sectionId = 'dynsection-0';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../dc/d56/classTerraria_1_1ModLoader_1_1ModNPC_a6916cc867d0e74e427037430a6bcdea4.html#a6916cc867d0e74e427037430a6bcdea4" target="_top" xlink:title="Allows you to define special conditions required for this town NPC&#39;s house. For example,...">
-<polygon fill="white" stroke="#666666" points="813.5,-102 656.5,-102 656.5,-72 813.5,-72 813.5,-102"/>
-<text text-anchor="start" x="664.5" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.ModNPC.</text>
-<text text-anchor="middle" x="735" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">CheckConditions</text>
+<g id="a_Node000005"><a xlink:href="../../dd/dc6/classTerraria_1_1ModLoader_1_1NPCLoader_a1e9eae6ec444b4a23e1a809cfea3be94.html#a1e9eae6ec444b4a23e1a809cfea3be94" target="_top" xlink:title="Gets the ModNPC template instance corresponding to the specified type (not the clone/new instance whi...">
+<polygon fill="white" stroke="#666666" points="819,-78 651,-78 651,-48 819,-48 819,-78"/>
+<text text-anchor="start" x="659" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.NPCLoader.</text>
+<text text-anchor="middle" x="735" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">GetNPC</text>
 </a>
 </g>
 </g>
@@ -152,27 +152,8 @@ var sectionId = 'dynsection-0';
 <g id="edge4_Node000004_Node000005" class="edge">
 <title>Node4&#45;&gt;Node5</title>
 <g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M615.04,-72.87C625.43,-74.1 636.08,-75.37 646.53,-76.61"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="646.14,-80.09 656.48,-77.79 646.97,-73.13 646.14,-80.09"/>
-</a>
-</g>
-</g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../dd/dc6/classTerraria_1_1ModLoader_1_1NPCLoader_a1e9eae6ec444b4a23e1a809cfea3be94.html#a1e9eae6ec444b4a23e1a809cfea3be94" target="_top" xlink:title="Gets the ModNPC template instance corresponding to the specified type (not the clone/new instance whi...">
-<polygon fill="white" stroke="#666666" points="819,-54 651,-54 651,-24 819,-24 819,-54"/>
-<text text-anchor="start" x="659" y="-42" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.NPCLoader.</text>
-<text text-anchor="middle" x="735" y="-31" font-family="Helvetica,sans-Serif" font-size="10.00">GetNPC</text>
-</a>
-</g>
-</g>
-<!-- Node4&#45;&gt;Node6 -->
-<g id="edge5_Node000004_Node000006" class="edge">
-<title>Node4&#45;&gt;Node6</title>
-<g id="a_edge5_Node000004_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M615.04,-53.13C623.56,-52.12 632.26,-51.09 640.89,-50.06"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="641.44,-53.52 650.96,-48.87 640.62,-46.57 641.44,-53.52"/>
+<path fill="none" stroke="#63b8ff" d="M615.04,-63C623.56,-63 632.26,-63 640.89,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="640.96,-66.5 650.96,-63 640.96,-59.5 640.96,-66.5"/>
 </a>
 </g>
 </g>

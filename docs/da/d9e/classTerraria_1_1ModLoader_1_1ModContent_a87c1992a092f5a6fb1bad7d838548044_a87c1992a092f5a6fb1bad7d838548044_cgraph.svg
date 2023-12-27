@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 1010;
+var viewWidth = 809;
 var viewHeight = 107;
 var sectionId = 'dynsection-0';
 </script>
@@ -83,20 +83,20 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node7 -->
-<g id="Node000007" class="node">
-<title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../da/d9e/classTerraria_1_1ModLoader_1_1ModContent_a36011c8c9665e7a7e81b09eece29c1ba.html#a36011c8c9665e7a7e81b09eece29c1ba" target="_top" xlink:title="Gets the asset with the specified name. Throws an Exception if the asset does not exist.">
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../da/d9e/classTerraria_1_1ModLoader_1_1ModContent_a36011c8c9665e7a7e81b09eece29c1ba.html#a36011c8c9665e7a7e81b09eece29c1ba" target="_top" xlink:title="Gets the asset with the specified name. Throws an Exception if the asset does not exist.">
 <polygon fill="white" stroke="#666666" points="386,-78 211,-78 211,-48 386,-48 386,-78"/>
 <text text-anchor="start" x="219" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.ModContent.</text>
 <text text-anchor="middle" x="298.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Request&lt; T &gt;</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node7 -->
-<g id="edge6_Node000001_Node000007" class="edge">
-<title>Node1&#45;&gt;Node7</title>
-<g id="a_edge6_Node000001_Node000007"><a xlink:title=" ">
+<!-- Node1&#45;&gt;Node6 -->
+<g id="edge5_Node000001_Node000006" class="edge">
+<title>Node1&#45;&gt;Node6</title>
+<g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M175.02,-48.93C183.49,-49.91 192.13,-50.9 200.7,-51.88"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="200.38,-55.37 210.71,-53.03 201.18,-48.42 200.38,-55.37"/>
 </a>
@@ -121,20 +121,20 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../dc/d1f/classTerraria_1_1ModLoader_1_1ModLoader_ad8a92830e19b676fefe1623538bd222f.html#ad8a92830e19b676fefe1623538bd222f" target="_top" xlink:title="Safely attempts to get the instance of the Mod with the specified name.">
+<!-- Node5 -->
+<g id="Node000005" class="node">
+<title>Node5</title>
+<g id="a_Node000005"><a xlink:href="../../dc/d1f/classTerraria_1_1ModLoader_1_1ModLoader_ad8a92830e19b676fefe1623538bd222f.html#ad8a92830e19b676fefe1623538bd222f" target="_top" xlink:title="Safely attempts to get the instance of the Mod with the specified name.">
 <polygon fill="white" stroke="#666666" points="594,-30 425,-30 425,0 594,0 594,-30"/>
 <text text-anchor="start" x="433" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.ModLoader.</text>
 <text text-anchor="middle" x="509.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">TryGetMod</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node6 -->
-<g id="edge5_Node000002_Node000006" class="edge">
-<title>Node2&#45;&gt;Node6</title>
-<g id="a_edge5_Node000002_Node000006"><a xlink:title=" ">
+<!-- Node2&#45;&gt;Node5 -->
+<g id="edge4_Node000002_Node000005" class="edge">
+<title>Node2&#45;&gt;Node5</title>
+<g id="a_edge4_Node000002_Node000005"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M386.02,-15C395.42,-15 405.02,-15 414.51,-15"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="414.74,-18.5 424.74,-15 414.74,-11.5 414.74,-18.5"/>
 </a>
@@ -159,47 +159,28 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node5 -->
-<g id="Node000005" class="node">
-<title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a9f1901e50105d9873d2fdf8816e122de.html#a9f1901e50105d9873d2fdf8816e122de" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1002,-99 837,-99 837,-69 1002,-69 1002,-99"/>
-<text text-anchor="start" x="845" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language</text>
-<text text-anchor="middle" x="919.5" y="-76" font-family="Helvetica,sans-Serif" font-size="10.00">Manager.GetTextValue</text>
-</a>
-</g>
-</g>
-<!-- Node4&#45;&gt;Node5 -->
-<g id="edge4_Node000004_Node000005" class="edge">
-<title>Node4&#45;&gt;Node5</title>
-<g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M801.29,-84C809.63,-84 818.12,-84 826.54,-84"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="826.76,-87.5 836.76,-84 826.76,-80.5 826.76,-87.5"/>
-</a>
-</g>
-</g>
-<!-- Node7&#45;&gt;Node3 -->
-<g id="edge8_Node000007_Node000003" class="edge">
-<title>Node7&#45;&gt;Node3</title>
-<g id="a_edge8_Node000007_Node000003"><a xlink:title=" ">
+<!-- Node6&#45;&gt;Node3 -->
+<g id="edge7_Node000006_Node000003" class="edge">
+<title>Node6&#45;&gt;Node3</title>
+<g id="a_edge7_Node000006_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M386.02,-63C394.49,-63 403.13,-63 411.7,-63"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="411.71,-66.5 421.71,-63 411.71,-59.5 411.71,-66.5"/>
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node4 -->
-<g id="edge7_Node000007_Node000004" class="edge">
-<title>Node7&#45;&gt;Node4</title>
-<g id="a_edge7_Node000007_Node000004"><a xlink:title=" ">
+<!-- Node6&#45;&gt;Node4 -->
+<g id="edge6_Node000006_Node000004" class="edge">
+<title>Node6&#45;&gt;Node4</title>
+<g id="a_edge6_Node000006_Node000004"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M364,-78.06C382.61,-81.75 403.02,-85.16 422,-87 488.86,-93.49 564.67,-92.51 622.56,-90.03"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="622.96,-93.52 632.79,-89.57 622.64,-86.53 622.96,-93.52"/>
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node6 -->
-<g id="edge9_Node000007_Node000006" class="edge">
-<title>Node7&#45;&gt;Node6</title>
-<g id="a_edge9_Node000007_Node000006"><a xlink:title=" ">
+<!-- Node6&#45;&gt;Node5 -->
+<g id="edge8_Node000006_Node000005" class="edge">
+<title>Node6&#45;&gt;Node5</title>
+<g id="a_edge8_Node000006_Node000005"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M365.06,-47.94C386.75,-42.96 411.05,-37.38 433.4,-32.25"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="434.21,-35.65 443.18,-30 432.65,-28.83 434.21,-35.65"/>
 </a>

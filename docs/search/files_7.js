@@ -10,7 +10,7 @@ var searchData=
   ['hatrackslot_2ecs_7',['HatRackSlot.cs',['../dd/de4/HatRackSlot_8cs.html',1,'']]],
   ['headerattribute_2ecs_8',['HeaderAttribute.cs',['../dc/dd4/HeaderAttribute_8cs.html',1,'']]],
   ['headerelement_2ecs_9',['HeaderElement.cs',['../d7/d2e/HeaderElement_8cs.html',1,'']]],
-  ['helpcommand_2ecs_10',['helpcommand.cs',['../db/d93/Terraria_8ModLoader_8Default_2HelpCommand_8cs.html',1,'(Global Namespace)'],['../d1/d80/Terraria_8Chat_8Commands_2HelpCommand_8cs.html',1,'(Global Namespace)']]],
+  ['helpcommand_2ecs_10',['HelpCommand.cs',['../d1/d80/Terraria_8Chat_8Commands_2HelpCommand_8cs.html',1,'(Global Namespace)'],['../db/d93/Terraria_8ModLoader_8Default_2HelpCommand_8cs.html',1,'(Global Namespace)']]],
   ['helperinfo_2ecs_11',['HelperInfo.cs',['../d3/d3a/HelperInfo_8cs.html',1,'']]],
   ['her0zero_5fbody_2ecs_12',['HER0zero_Body.cs',['../d3/d9e/HER0zero__Body_8cs.html',1,'']]],
   ['her0zero_5fhead_2ecs_13',['HER0zero_Head.cs',['../d1/de7/HER0zero__Head_8cs.html',1,'']]],

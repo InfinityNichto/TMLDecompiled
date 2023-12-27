@@ -1,110 +1,108 @@
 <map id="Terraria.DelegateMethods.SpreadWater" name="Terraria.DelegateMethods.SpreadWater">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,305,200,345"/>
-<area shape="rect" id="Node000002" href="$dc/de5/classTerraria_1_1Dust_a66a210f6393d4cdbd9f383c494cdec25.html#a66a210f6393d4cdbd9f383c494cdec25" title=" " alt="" coords="269,263,443,288"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,303,276,288,277,293,201,308"/>
-<area shape="rect" id="Node000003" href="$dc/de5/classTerraria_1_1Dust_acb51111c9d1ff81d2e7f55da6ff8831f.html#acb51111c9d1ff81d2e7f55da6ff8831f" title=" " alt="" coords="253,312,459,337"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,322,239,322,239,327,200,327"/>
-<area shape="rect" id="Node000010" href="$de/da1/classTerraria_1_1WorldGen_a164baab2268f972844b58fbb470b7c65.html#a164baab2268f972844b58fbb470b7c65" title=" " alt="" coords="248,464,464,489"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="139,343,323,455,321,459,136,347"/>
-<area shape="rect" id="Node000004" href="$dc/de5/classTerraria_1_1Dust_a977a36a9376966862406a3094e3b70ab.html#a977a36a9376966862406a3094e3b70ab" title="Attempts to spawn a single Dust into the game world. The Position, Width, and Height parameters dicta..." alt="" coords="792,63,960,88"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="434,309,463,297,478,285,487,273,496,260,510,245,575,194,629,158,687,129,763,97,786,89,788,94,765,102,689,133,632,163,579,199,514,249,500,263,491,276,481,289,465,302,436,314"/>
-<area shape="rect" id="Node000005" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_ac4ecc6320b69ab939b9c45eaf7d89000.html#ac4ecc6320b69ab939b9c45eaf7d89000" title=" " alt="" coords="1061,55,1237,95"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="960,73,1048,73,1048,78,960,78"/>
-<area shape="rect" id="Node000007" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" title=" " alt="" coords="1036,119,1263,159"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="938,85,989,97,1058,113,1056,119,987,102,937,91"/>
-<area shape="rect" id="Node000009" href="$de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" title=" " alt="" coords="1041,5,1257,31"/>
-<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="937,60,1074,31,1075,36,938,65"/>
-<area shape="rect" id="Node000006" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_a173f09196ff526b107c0223c2d58c59a.html#a173f09196ff526b107c0223c2d58c59a" title=" " alt="" coords="1335,55,1513,95"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1237,73,1321,73,1321,78,1237,78"/>
-<area shape="rect" id="Node000008" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists." alt="" coords="1311,119,1537,159"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1263,137,1297,137,1297,142,1263,142"/>
-<area shape="rect" id="Node000011" href="$de/da1/classTerraria_1_1WorldGen_ab8305889f68cb64b5ae7f140a0b3251f.html#ab8305889f68cb64b5ae7f140a0b3251f" title=" " alt="" coords="512,425,716,465"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="458,461,498,456,499,462,459,467"/>
-<area shape="rect" id="Node000012" href="$da/d46/classTerraria_1_1Liquid_a0192f4a318c56e74150ac22171b484fb.html#a0192f4a318c56e74150ac22171b484fb" title=" " alt="" coords="524,489,704,529"/>
-<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="459,487,511,493,510,498,458,492"/>
-<area shape="rect" id="Node000013" href="$de/da1/classTerraria_1_1WorldGen_adf59bfc3a2909993f72f0c69a5eaf553.html#adf59bfc3a2909993f72f0c69a5eaf553" title=" " alt="" coords="519,553,709,579"/>
-<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="386,487,444,512,513,538,544,547,542,552,511,543,442,517,384,492"/>
-<area shape="rect" id="Node000014" href="$d6/d21/structTerraria_1_1Tile_aae758079f57e61378841aaf0fc884e71.html#aae758079f57e61378841aaf0fc884e71" title="Legacy code, use P:Terraria.Tile.LiquidType instead." alt="" coords="1065,491,1234,516"/>
-<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="373,487,431,536,471,563,513,588,580,618,635,637,691,650,764,661,830,675,883,687,907,690,932,687,958,678,986,661,1001,647,1008,632,1011,598,1013,562,1020,544,1034,527,1051,515,1054,520,1038,531,1025,546,1018,563,1016,598,1013,633,1005,650,990,665,960,683,933,692,907,695,882,693,829,680,764,666,690,655,633,642,578,623,511,592,468,568,428,540,369,491"/>
-<area shape="rect" id="Node000015" href="$d6/d21/structTerraria_1_1Tile_a38bb9749f89eeb6c767e86efa96dbc91.html#a38bb9749f89eeb6c767e86efa96dbc91" title="Legacy code, use P:Terraria.Tile.HasUnactuatedTile instead." alt="" coords="539,260,689,285"/>
-<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="366,462,447,366,510,296,526,288,528,293,514,300,451,370,370,465"/>
-<area shape="rect" id="Node000016" href="$de/da1/classTerraria_1_1WorldGen_a44be8e88cfbc0e27b42eea0f79c37c3c.html#a44be8e88cfbc0e27b42eea0f79c37c3c" title=" " alt="" coords="513,375,715,400"/>
-<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="384,461,442,436,511,410,542,401,544,406,513,415,444,441,386,466"/>
-<area shape="rect" id="Node000027" href="$d2/dfe/classTerraria_1_1NetMessage_a513706d218e38b1dd4765feb618a6b8a.html#a513706d218e38b1dd4765feb618a6b8a" title=" " alt="" coords="518,998,710,1038"/>
-<area shape="poly" id="edge28_Node000010_Node000027" title=" " alt="" coords="366,488,600,984,595,986,361,491"/>
-<area shape="rect" id="Node000103" href="$d2/dfe/classTerraria_1_1NetMessage_ae11bf2a8ffaedfadebaa364735a89929.html#ae11bf2a8ffaedfadebaa364735a89929" title=" " alt="" coords="519,727,709,767"/>
-<area shape="poly" id="edge55_Node000010_Node000103" title=" " alt="" coords="365,489,384,530,416,588,459,651,485,681,514,707,532,719,529,723,510,711,481,684,455,655,411,591,379,533,360,491"/>
-<area shape="rect" id="Node000104" href="$de/da1/classTerraria_1_1WorldGen_ae3b5adc363d3e7e034448d39efbe155e.html#ae3b5adc363d3e7e034448d39efbe155e" title=" " alt="" coords="521,310,707,350"/>
-<area shape="poly" id="edge58_Node000010_Node000104" title=" " alt="" coords="369,462,428,413,468,385,511,360,526,353,528,358,513,364,471,389,432,417,373,466"/>
-<area shape="poly" id="edge22_Node000016_Node000004" title=" " alt="" coords="698,373,714,360,736,328,743,296,742,264,737,231,731,197,730,164,739,130,762,97,778,85,781,90,766,101,744,133,736,164,737,197,742,230,748,263,749,297,740,330,718,364,701,377"/>
-<area shape="rect" id="Node000017" href="$d6/d21/structTerraria_1_1Tile_a9a3f37926e6d7f23ba057d6c0aeab1a5.html#a9a3f37926e6d7f23ba057d6c0aeab1a5" title="Legacy code, use P:Terraria.Tile.HasTile instead." alt="" coords="805,112,947,137"/>
-<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="698,372,714,360,732,335,740,309,740,282,737,255,734,228,734,201,743,173,762,147,790,129,793,134,766,151,747,176,740,202,739,228,742,255,745,282,745,309,737,337,718,364,701,377"/>
-<area shape="rect" id="Node000018" href="$d6/d21/structTerraria_1_1Tile_a51bea62ea9c2d895b6242d337728b4b6.html#a51bea62ea9c2d895b6242d337728b4b6" title="Legacy code, use P:Terraria.Tile.CheckingLiquid instead." alt="" coords="776,161,976,187"/>
-<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="696,372,714,360,729,341,736,321,737,280,738,238,746,216,762,196,767,192,770,196,766,200,751,219,743,239,742,280,741,322,734,343,718,364,699,377"/>
-<area shape="rect" id="Node000019" href="$d6/d21/structTerraria_1_1Tile_a083f90a80ef987726fd28c52ffc4787e.html#a083f90a80ef987726fd28c52ffc4787e" title="Legacy code, use P:Terraria.Tile.TileColor instead." alt="" coords="809,211,943,236"/>
-<area shape="poly" id="edge18_Node000016_Node000019" title=" " alt="" coords="694,372,714,360,726,347,733,333,737,304,742,274,749,259,762,245,794,228,797,233,766,249,754,262,747,276,742,305,738,335,731,350,718,364,697,377"/>
-<area shape="rect" id="Node000020" href="$de/d1d/classTerraria_1_1Collision_a6489a1a9d15c3b1a4923f127560e5092.html#a6489a1a9d15c3b1a4923f127560e5092" title=" " alt="" coords="775,260,977,285"/>
-<area shape="poly" id="edge19_Node000016_Node000020" title=" " alt="" coords="689,372,714,360,730,345,738,329,746,312,762,296,776,288,779,293,766,300,750,315,742,331,734,348,718,364,692,377"/>
-<area shape="rect" id="Node000021" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_ae19203d3df8949fc951f1a2545cd68d5.html#ae19203d3df8949fc951f1a2545cd68d5" title=" " alt="" coords="787,310,965,350"/>
-<area shape="poly" id="edge20_Node000016_Node000021" title=" " alt="" coords="672,372,773,350,774,355,673,377"/>
-<area shape="rect" id="Node000022" href="$d6/d21/structTerraria_1_1Tile_afac1102270d7f948e822bfbe76d4533d.html#afac1102270d7f948e822bfbe76d4533d" title="Legacy code, use P:Terraria.Tile.IsHalfBlock instead." alt="" coords="795,375,957,400"/>
-<area shape="poly" id="edge21_Node000016_Node000022" title=" " alt="" coords="715,385,781,385,781,390,715,390"/>
-<area shape="rect" id="Node000023" href="$de/d1f/classTerraria_1_1Minecart_a6066176bc8dc2c84bc14e64dcedac0c6.html#a6066176bc8dc2c84bc14e64dcedac0c6" title=" " alt="" coords="773,424,979,449"/>
-<area shape="poly" id="edge23_Node000016_Node000023" title=" " alt="" coords="683,397,795,419,794,424,682,403"/>
-<area shape="rect" id="Node000024" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af55950ae09b294fad1dd58e37fecf28b.html#af55950ae09b294fad1dd58e37fecf28b" title="Attempts to play a sound style with the provided sound style (if it&#39;s not null), and returns a valid ..." alt="" coords="774,498,978,538"/>
-<area shape="poly" id="edge24_Node000016_Node000024" title=" " alt="" coords="688,398,717,410,733,422,743,434,752,446,766,459,817,489,814,494,762,463,748,450,739,437,729,426,715,415,685,403"/>
-<area shape="rect" id="Node000025" href="$d1/d70/classTerraria_1_1ModLoader_1_1TileLoader_aca473d2e3714d7ac836cb30e6c4f3e3f.html#aca473d2e3714d7ac836cb30e6c4f3e3f" title=" " alt="" coords="765,562,987,602"/>
-<area shape="poly" id="edge26_Node000016_Node000025" title=" " alt="" coords="699,398,718,411,732,428,740,446,743,481,746,515,753,532,766,548,770,552,767,556,762,552,748,534,741,517,738,481,734,447,728,431,714,415,696,402"/>
-<area shape="rect" id="Node000026" href="$d6/d21/structTerraria_1_1Tile_ab9bfb24365d03f2b4fe0842f6a406765.html#ab9bfb24365d03f2b4fe0842f6a406765" title="Legacy code, use P:Terraria.Tile.Slope instead." alt="" coords="807,627,945,652"/>
-<area shape="poly" id="edge27_Node000016_Node000026" title=" " alt="" coords="700,398,718,411,736,436,744,462,745,488,742,514,740,539,741,564,748,588,766,612,795,630,792,634,762,616,743,591,735,565,734,539,737,513,740,488,739,463,732,439,714,415,697,402"/>
-<area shape="poly" id="edge25_Node000024_Node000024" title=" " alt="" coords="828,498,825,488,832,479,850,473,876,471,906,474,923,481,921,486,905,479,876,477,851,479,835,483,830,489,833,497"/>
-<area shape="rect" id="Node000028" href="$de/da1/classTerraria_1_1WorldGen_a5e263ba17a61d2e594aff16da6a87014.html#a5e263ba17a61d2e594aff16da6a87014" title=" " alt="" coords="764,1345,988,1371"/>
-<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="633,1037,859,1333,855,1336,629,1040"/>
-<area shape="rect" id="Node000056" href="$d2/dfe/classTerraria_1_1NetMessage_a0099400efdc729b71368da55adc01263.html#a0099400efdc729b71368da55adc01263" title=" " alt="" coords="765,1005,987,1031"/>
-<area shape="poly" id="edge31_Node000027_Node000056" title=" " alt="" coords="710,1015,751,1015,751,1021,710,1021"/>
-<area shape="rect" id="Node000029" href="$dc/dd7/classTerraria_1_1Framing_a7bdcbc2599515f563f066744eed76ee6.html#a7bdcbc2599515f563f066744eed76ee6" title=" " alt="" coords="1049,1664,1250,1689"/>
-<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="883,1370,898,1423,927,1499,948,1540,973,1580,1003,1618,1038,1649,1048,1656,1045,1660,1034,1653,999,1621,969,1584,943,1543,922,1501,893,1425,878,1372"/>
-<area shape="poly" id="edge40_Node000056_Node000014" title=" " alt="" coords="880,1004,925,884,985,708,995,655,996,610,998,590,1004,569,1016,548,1034,527,1050,515,1054,519,1038,531,1020,551,1009,571,1004,591,1002,611,1000,656,991,709,930,886,885,1006"/>
-<area shape="rect" id="Node000057" href="$db/dd0/classTerraria_1_1RemoteServer_a45335e66786b2a56d76558cc375f6ecb.html#a45335e66786b2a56d76558cc375f6ecb" title=" " alt="" coords="1045,1370,1254,1410"/>
-<area shape="poly" id="edge32_Node000056_Node000057" title=" " alt="" coords="882,1030,895,1089,923,1177,943,1226,969,1273,1000,1318,1038,1356,1044,1361,1041,1365,1034,1360,996,1321,965,1276,938,1228,918,1179,890,1091,877,1031"/>
-<area shape="rect" id="Node000058" href="$d2/dfe/classTerraria_1_1NetMessage_a8bd80eec85317f48bb6a6fd7a8a8312b.html#a8bd80eec85317f48bb6a6fd7a8a8312b" title=" " alt="" coords="1037,1434,1262,1474"/>
-<area shape="poly" id="edge33_Node000056_Node000058" title=" " alt="" coords="884,1030,958,1239,1004,1357,1023,1398,1038,1420,1043,1424,1040,1429,1034,1424,1019,1401,999,1359,953,1241,879,1032"/>
-<area shape="rect" id="Node000071" href="$d4/d03/classTerraria_1_1Player_a97ca5a9036984d4846375d0b47e3a5b4.html#a97ca5a9036984d4846375d0b47e3a5b4" title=" " alt="" coords="1065,1499,1234,1524"/>
-<area shape="poly" id="edge34_Node000056_Node000071" title=" " alt="" coords="885,1030,991,1332,1000,1378,1003,1416,1012,1450,1022,1467,1038,1484,1053,1495,1050,1499,1034,1488,1018,1470,1007,1452,998,1417,995,1379,985,1333,880,1032"/>
-<area shape="rect" id="Node000072" href="$db/d90/classTerraria_1_1Netplay_a8a3ee13aeab7ca5a142d52fc6a7c94a8.html#a8a3ee13aeab7ca5a142d52fc6a7c94a8" title=" " alt="" coords="1320,972,1528,997"/>
-<area shape="poly" id="edge35_Node000056_Node000072" title=" " alt="" coords="988,1009,1306,989,1306,994,988,1014"/>
-<area shape="rect" id="Node000073" href="$db/d90/classTerraria_1_1Netplay_aae951351c7bd7fff569a8f67e4a700a0.html#aae951351c7bd7fff569a8f67e4a700a0" title=" " alt="" coords="1321,763,1527,788"/>
-<area shape="poly" id="edge36_Node000056_Node000073" title=" " alt="" coords="881,1004,926,908,985,770,996,732,999,699,1008,669,1019,655,1034,641,1064,623,1092,612,1119,606,1145,606,1200,618,1264,641,1308,663,1347,692,1381,723,1406,750,1402,754,1377,727,1344,696,1305,667,1262,646,1198,623,1145,612,1119,612,1094,617,1067,628,1038,645,1023,658,1013,671,1005,700,1001,733,991,772,931,910,886,1006"/>
-<area shape="rect" id="Node000074" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="1037,655,1261,695"/>
-<area shape="poly" id="edge37_Node000056_Node000074" title=" " alt="" coords="880,1004,945,851,991,763,1013,729,1034,705,1041,700,1044,705,1038,709,1017,732,995,766,950,854,885,1006"/>
-<area shape="rect" id="Node000076" href="$df/d47/classTerraria_1_1ModLoader_1_1ModNet_a1c1f9ace6611e69d54aa7a1f2cce68f2.html#a1c1f9ace6611e69d54aa7a1f2cce68f2" title=" " alt="" coords="1047,719,1252,759"/>
-<area shape="poly" id="edge38_Node000056_Node000076" title=" " alt="" coords="879,1004,898,959,930,896,975,828,1003,796,1034,769,1042,764,1045,768,1038,773,1007,800,979,831,934,898,902,961,884,1006"/>
-<area shape="rect" id="Node000079" href="$dc/d01/classTerraria_1_1RemoteClient_ac81c152a58ad2349694c928f8ad4f8f4.html#ac81c152a58ad2349694c928f8ad4f8f4" title=" " alt="" coords="1060,541,1239,581"/>
-<area shape="poly" id="edge39_Node000056_Node000079" title=" " alt="" coords="881,1004,927,904,985,761,996,714,999,674,1008,637,1018,618,1034,597,1048,586,1052,590,1038,601,1022,621,1013,639,1005,675,1002,715,991,763,932,906,886,1006"/>
-<area shape="rect" id="Node000081" href="$df/d47/classTerraria_1_1ModLoader_1_1ModNet_a84b918169aabe8b707d77626bfa3a734.html#a84b918169aabe8b707d77626bfa3a734" title=" " alt="" coords="1047,783,1252,823"/>
-<area shape="poly" id="edge41_Node000056_Node000081" title=" " alt="" coords="883,1004,904,970,938,923,983,875,1034,833,1046,827,1048,831,1038,838,986,879,943,927,909,973,887,1007"/>
-<area shape="rect" id="Node000084" href="$db/d63/classTerraria_1_1MessageBuffer_a81555bbf73020a8cd458f6cff82c169a.html#a81555bbf73020a8cd458f6cff82c169a" title=" " alt="" coords="1043,847,1255,887"/>
-<area shape="poly" id="edge42_Node000056_Node000084" title=" " alt="" coords="889,1003,949,952,991,923,1035,897,1051,890,1053,895,1037,902,994,927,953,956,893,1007"/>
-<area shape="rect" id="Node000085" href="$dc/d01/classTerraria_1_1RemoteClient_ac0025aeabb2b5ccaec98a261cc9fd445.html#ac0025aeabb2b5ccaec98a261cc9fd445" title=" " alt="" coords="1041,911,1257,951"/>
-<area shape="poly" id="edge43_Node000056_Node000085" title=" " alt="" coords="916,1003,1071,953,1073,958,918,1008"/>
-<area shape="rect" id="Node000086" href="$d0/d8b/classTerraria_1_1ModLoader_1_1IO_1_1ItemIO_acb34dd650cec49c955ce0297fe6d0ce1.html#acb34dd650cec49c955ce0297fe6d0ce1" title=" " alt="" coords="1050,1599,1249,1639"/>
-<area shape="poly" id="edge46_Node000056_Node000086" title=" " alt="" coords="885,1030,932,1152,963,1240,991,1332,998,1371,1000,1405,998,1466,999,1493,1004,1521,1016,1549,1038,1579,1050,1590,1046,1594,1034,1582,1012,1551,999,1522,994,1494,993,1465,995,1405,993,1371,985,1333,958,1242,927,1154,880,1032"/>
-<area shape="rect" id="Node000087" href="$d0/d8b/classTerraria_1_1ModLoader_1_1IO_1_1ItemIO_a9d5e51fc32478bea6653b3b43783a57b.html#a9d5e51fc32478bea6653b3b43783a57b" title=" " alt="" coords="1325,1570,1523,1610"/>
-<area shape="poly" id="edge52_Node000056_Node000087" title=" " alt="" coords="885,1030,931,1152,991,1332,997,1364,1000,1393,999,1444,1000,1467,1006,1489,1018,1511,1038,1533,1056,1545,1082,1555,1151,1571,1232,1580,1311,1585,1311,1591,1231,1586,1150,1576,1081,1561,1054,1550,1034,1537,1013,1514,1001,1491,995,1468,993,1444,994,1393,992,1365,985,1333,926,1154,880,1032"/>
-<area shape="rect" id="Node000088" href="$dd/de0/classTerraria_1_1ModLoader_1_1BiomeLoader_a29df870ca6244b82963eeb5ce278f179.html#a29df870ca6244b82963eeb5ce278f179" title=" " alt="" coords="1049,1026,1249,1066"/>
-<area shape="poly" id="edge48_Node000056_Node000088" title=" " alt="" coords="988,1027,1036,1032,1036,1037,987,1032"/>
-<area shape="rect" id="Node000090" href="$dd/dc6/classTerraria_1_1ModLoader_1_1NPCLoader_ad20200fbeb8230fb9fa1026ab0e76aa0.html#ad20200fbeb8230fb9fa1026ab0e76aa0" title=" " alt="" coords="1037,1090,1261,1130"/>
-<area shape="poly" id="edge49_Node000056_Node000090" title=" " alt="" coords="910,1028,1037,1075,1062,1083,1060,1088,1035,1081,908,1033"/>
-<area shape="rect" id="Node000091" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_a785fe46f6008e62910dd244542345a24.html#a785fe46f6008e62910dd244542345a24" title=" " alt="" coords="1044,1154,1255,1194"/>
-<area shape="poly" id="edge50_Node000056_Node000091" title=" " alt="" coords="892,1029,952,1082,993,1113,1037,1140,1053,1147,1050,1151,1035,1144,990,1117,948,1086,888,1033"/>
-<area shape="rect" id="Node000092" href="$d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a800edd3907ce891c4cba1af54ee5ba20.html#a800edd3907ce891c4cba1af54ee5ba20" title=" " alt="" coords="1047,1218,1252,1258"/>
-<area shape="poly" id="edge51_Node000056_Node000092" title=" " alt="" coords="887,1029,908,1064,942,1111,986,1161,1038,1204,1048,1210,1045,1215,1034,1208,982,1165,938,1115,904,1067,882,1032"/>
-<area shape="rect" id="Node000093" href="$d0/da6/classTerraria_1_1ModLoader_1_1Logging_ab70d2a6a87eaae1d1ea2b6df62b255ec.html#ab70d2a6a87eaae1d1ea2b6df62b255ec" title=" " alt="" coords="1047,1306,1252,1346"/>
-<area shape="poly" id="edge53_Node000056_Node000093" title=" " alt="" coords="885,1030,904,1073,937,1136,982,1205,1009,1238,1038,1268,1082,1298,1080,1302,1034,1272,1005,1242,978,1209,932,1139,899,1076,880,1032"/>
-<area shape="poly" id="edge44_Node000085_Node000072" title=" " alt="" coords="1253,949,1345,967,1344,972,1252,954"/>
-<area shape="poly" id="edge45_Node000085_Node000073" title=" " alt="" coords="1234,909,1261,897,1301,873,1339,846,1398,795,1402,799,1342,851,1304,878,1264,902,1236,914"/>
-<area shape="poly" id="edge47_Node000086_Node000087" title=" " alt="" coords="1249,1606,1311,1599,1311,1605,1249,1611"/>
-<area shape="poly" id="edge54_Node000093_Node000093" title=" " alt="" coords="1099,1306,1096,1296,1104,1287,1122,1281,1149,1279,1181,1282,1198,1289,1196,1294,1180,1287,1149,1285,1123,1287,1107,1292,1101,1297,1104,1305"/>
-<area shape="poly" id="edge57_Node000103_Node000056" title=" " alt="" coords="637,766,854,993,851,997,633,770"/>
-<area shape="poly" id="edge56_Node000103_Node000079" title=" " alt="" coords="710,759,776,763,849,758,921,740,955,726,986,707,999,695,1006,683,1011,655,1016,626,1022,612,1034,597,1050,585,1054,590,1038,601,1027,614,1021,628,1016,656,1011,684,1003,698,990,711,958,730,923,745,850,763,776,768,709,765"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,405,200,445"/>
+<area shape="rect" id="Node000002" href="$dc/de5/classTerraria_1_1Dust_a66a210f6393d4cdbd9f383c494cdec25.html#a66a210f6393d4cdbd9f383c494cdec25" title=" " alt="" coords="269,363,443,389"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,404,276,389,277,394,201,409"/>
+<area shape="rect" id="Node000003" href="$dc/de5/classTerraria_1_1Dust_acb51111c9d1ff81d2e7f55da6ff8831f.html#acb51111c9d1ff81d2e7f55da6ff8831f" title=" " alt="" coords="253,413,459,438"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,423,239,423,239,428,200,428"/>
+<area shape="rect" id="Node000008" href="$de/da1/classTerraria_1_1WorldGen_a164baab2268f972844b58fbb470b7c65.html#a164baab2268f972844b58fbb470b7c65" title=" " alt="" coords="248,630,464,655"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="129,443,331,618,327,622,125,447"/>
+<area shape="rect" id="Node000004" href="$dc/de5/classTerraria_1_1Dust_a977a36a9376966862406a3094e3b70ab.html#a977a36a9376966862406a3094e3b70ab" title="Attempts to spawn a single Dust into the game world. The Position, Width, and Height parameters dicta..." alt="" coords="792,41,960,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="441,410,462,398,480,378,489,358,495,335,510,309,570,232,620,173,679,124,763,75,778,68,780,73,765,80,682,129,624,177,574,235,514,312,500,337,494,359,485,381,466,402,443,415"/>
+<area shape="rect" id="Node000005" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" title=" " alt="" coords="1037,5,1263,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="960,42,1022,36,1023,41,960,47"/>
+<area shape="rect" id="Node000007" href="$de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" title=" " alt="" coords="1042,70,1258,95"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="961,60,1029,67,1028,72,960,65"/>
+<area shape="rect" id="Node000006" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists." alt="" coords="1312,5,1539,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1263,23,1298,23,1298,28,1263,28"/>
+<area shape="rect" id="Node000009" href="$de/da1/classTerraria_1_1WorldGen_ab8305889f68cb64b5ae7f140a0b3251f.html#ab8305889f68cb64b5ae7f140a0b3251f" title=" " alt="" coords="512,476,716,516"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="369,628,428,579,468,551,511,526,526,519,528,524,513,530,471,555,432,583,373,632"/>
+<area shape="rect" id="Node000010" href="$da/d46/classTerraria_1_1Liquid_a0192f4a318c56e74150ac22171b484fb.html#a0192f4a318c56e74150ac22171b484fb" title=" " alt="" coords="524,540,704,580"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="395,627,511,589,536,582,537,587,513,595,397,632"/>
+<area shape="rect" id="Node000011" href="$de/da1/classTerraria_1_1WorldGen_adf59bfc3a2909993f72f0c69a5eaf553.html#adf59bfc3a2909993f72f0c69a5eaf553" title=" " alt="" coords="519,605,709,630"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="464,629,505,625,505,631,464,635"/>
+<area shape="rect" id="Node000012" href="$d6/d21/structTerraria_1_1Tile_aae758079f57e61378841aaf0fc884e71.html#aae758079f57e61378841aaf0fc884e71" title="Legacy code, use P:Terraria.Tile.LiquidType instead." alt="" coords="1065,230,1235,255"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="441,653,580,669,742,680,820,679,890,673,947,660,969,651,986,639,1006,619,1019,597,1027,576,1030,554,1026,508,1014,460,1002,412,996,363,998,338,1004,314,1016,290,1034,266,1051,253,1054,257,1038,270,1021,293,1009,316,1003,339,1001,363,1007,411,1019,459,1031,507,1035,554,1032,577,1024,600,1010,622,990,643,972,656,949,665,891,679,820,685,742,685,579,675,440,658"/>
+<area shape="rect" id="Node000013" href="$d6/d21/structTerraria_1_1Tile_a38bb9749f89eeb6c767e86efa96dbc91.html#a38bb9749f89eeb6c767e86efa96dbc91" title="Legacy code, use P:Terraria.Tile.HasUnactuatedTile instead." alt="" coords="539,834,689,859"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="367,654,388,687,421,732,463,779,513,819,528,827,526,832,511,824,459,783,416,736,383,690,362,657"/>
+<area shape="rect" id="Node000014" href="$de/da1/classTerraria_1_1WorldGen_a44be8e88cfbc0e27b42eea0f79c37c3c.html#a44be8e88cfbc0e27b42eea0f79c37c3c" title=" " alt="" coords="513,323,715,349"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="366,628,591,358,595,361,370,632"/>
+<area shape="rect" id="Node000025" href="$d2/dfe/classTerraria_1_1NetMessage_a513706d218e38b1dd4765feb618a6b8a.html#a513706d218e38b1dd4765feb618a6b8a" title=" " alt="" coords="518,769,710,809"/>
+<area shape="poly" id="edge26_Node000008_Node000025" title=" " alt="" coords="373,653,432,702,471,730,513,755,528,762,526,767,511,760,468,735,428,706,369,658"/>
+<area shape="rect" id="Node000074" href="$d2/dfe/classTerraria_1_1NetMessage_ae11bf2a8ffaedfadebaa364735a89929.html#ae11bf2a8ffaedfadebaa364735a89929" title=" " alt="" coords="519,705,709,745"/>
+<area shape="poly" id="edge54_Node000008_Node000074" title=" " alt="" coords="397,653,539,699,537,704,396,658"/>
+<area shape="rect" id="Node000075" href="$de/da1/classTerraria_1_1WorldGen_ae3b5adc363d3e7e034448d39efbe155e.html#ae3b5adc363d3e7e034448d39efbe155e" title=" " alt="" coords="521,884,707,924"/>
+<area shape="poly" id="edge56_Node000008_Node000075" title=" " alt="" coords="365,655,384,696,415,754,459,816,485,845,514,870,521,875,518,880,510,874,481,849,455,820,411,757,379,699,360,657"/>
+<area shape="poly" id="edge20_Node000014_Node000004" title=" " alt="" coords="625,322,667,271,714,201,727,166,731,134,739,105,748,90,762,75,778,65,781,69,766,79,752,93,744,107,736,136,732,167,718,204,671,274,629,325"/>
+<area shape="rect" id="Node000015" href="$d6/d21/structTerraria_1_1Tile_a9a3f37926e6d7f23ba057d6c0aeab1a5.html#a9a3f37926e6d7f23ba057d6c0aeab1a5" title="Legacy code, use P:Terraria.Tile.HasTile instead." alt="" coords="805,90,947,115"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="624,321,714,201,726,179,734,160,744,142,762,124,790,111,792,116,766,129,748,145,739,162,731,181,718,204,628,325"/>
+<area shape="rect" id="Node000016" href="$d6/d21/structTerraria_1_1Tile_a51bea62ea9c2d895b6242d337728b4b6.html#a51bea62ea9c2d895b6242d337728b4b6" title="Legacy code, use P:Terraria.Tile.CheckingLiquid instead." alt="" coords="776,139,976,165"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="621,322,642,291,674,251,715,209,763,174,776,167,779,172,765,178,718,213,678,254,646,294,625,325"/>
+<area shape="rect" id="Node000017" href="$d6/d21/structTerraria_1_1Tile_a083f90a80ef987726fd28c52ffc4787e.html#a083f90a80ef987726fd28c52ffc4787e" title="Legacy code, use P:Terraria.Tile.TileColor instead." alt="" coords="809,189,943,214"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="627,321,683,273,721,246,763,223,794,212,796,217,765,228,724,250,686,277,630,325"/>
+<area shape="rect" id="Node000018" href="$de/d1d/classTerraria_1_1Collision_a6489a1a9d15c3b1a4923f127560e5092.html#a6489a1a9d15c3b1a4923f127560e5092" title=" " alt="" coords="775,238,977,263"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="642,321,698,297,763,273,797,264,798,269,765,279,700,302,644,326"/>
+<area shape="rect" id="Node000019" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_ae19203d3df8949fc951f1a2545cd68d5.html#ae19203d3df8949fc951f1a2545cd68d5" title=" " alt="" coords="787,288,965,328"/>
+<area shape="poly" id="edge18_Node000014_Node000019" title=" " alt="" coords="715,323,774,316,774,322,715,328"/>
+<area shape="rect" id="Node000020" href="$d6/d21/structTerraria_1_1Tile_afac1102270d7f948e822bfbe76d4533d.html#afac1102270d7f948e822bfbe76d4533d" title="Legacy code, use P:Terraria.Tile.IsHalfBlock instead." alt="" coords="795,353,957,378"/>
+<area shape="poly" id="edge19_Node000014_Node000020" title=" " alt="" coords="715,345,782,352,782,357,715,350"/>
+<area shape="rect" id="Node000021" href="$de/d1f/classTerraria_1_1Minecart_a6066176bc8dc2c84bc14e64dcedac0c6.html#a6066176bc8dc2c84bc14e64dcedac0c6" title=" " alt="" coords="773,402,979,427"/>
+<area shape="poly" id="edge21_Node000014_Node000021" title=" " alt="" coords="648,346,765,387,800,396,799,401,763,392,647,351"/>
+<area shape="rect" id="Node000022" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af55950ae09b294fad1dd58e37fecf28b.html#af55950ae09b294fad1dd58e37fecf28b" title="Attempts to play a sound style with the provided sound style (if it&#39;s not null), and returns a valid ..." alt="" coords="774,476,978,516"/>
+<area shape="poly" id="edge22_Node000014_Node000022" title=" " alt="" coords="634,347,691,388,765,436,822,467,819,472,763,441,688,392,631,351"/>
+<area shape="rect" id="Node000023" href="$d1/d70/classTerraria_1_1ModLoader_1_1TileLoader_aca473d2e3714d7ac836cb30e6c4f3e3f.html#aca473d2e3714d7ac836cb30e6c4f3e3f" title=" " alt="" coords="765,540,987,580"/>
+<area shape="poly" id="edge24_Node000014_Node000023" title=" " alt="" coords="628,347,718,462,739,498,749,512,766,526,774,531,772,536,762,530,745,515,735,500,714,466,624,351"/>
+<area shape="rect" id="Node000024" href="$d6/d21/structTerraria_1_1Tile_ab9bfb24365d03f2b4fe0842f6a406765.html#ab9bfb24365d03f2b4fe0842f6a406765" title="Legacy code, use P:Terraria.Tile.Slope instead." alt="" coords="807,605,945,630"/>
+<area shape="poly" id="edge25_Node000014_Node000024" title=" " alt="" coords="630,347,672,396,718,463,732,500,737,532,744,562,752,576,766,590,795,606,792,611,762,594,748,579,739,564,731,533,727,501,714,465,668,399,626,351"/>
+<area shape="poly" id="edge23_Node000022_Node000022" title=" " alt="" coords="828,476,825,466,832,457,850,451,876,449,906,452,923,459,921,464,905,457,876,455,851,457,835,461,830,467,833,475"/>
+<area shape="rect" id="Node000026" href="$de/da1/classTerraria_1_1WorldGen_a5e263ba17a61d2e594aff16da6a87014.html#a5e263ba17a61d2e594aff16da6a87014" title=" " alt="" coords="764,1073,988,1098"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="696,807,718,821,747,848,773,878,817,945,849,1009,869,1059,864,1061,844,1011,812,947,769,881,743,851,714,825,693,812"/>
+<area shape="rect" id="Node000040" href="$d2/dfe/classTerraria_1_1NetMessage_a0099400efdc729b71368da55adc01263.html#a0099400efdc729b71368da55adc01263" title=" " alt="" coords="765,745,987,770"/>
+<area shape="poly" id="edge31_Node000025_Node000040" title=" " alt="" coords="710,775,758,769,759,774,710,780"/>
+<area shape="rect" id="Node000027" href="$dc/dd7/classTerraria_1_1Framing_a7bdcbc2599515f563f066744eed76ee6.html#a7bdcbc2599515f563f066744eed76ee6" title=" " alt="" coords="1049,1402,1251,1427"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="883,1098,897,1152,926,1231,947,1274,972,1316,1002,1354,1038,1387,1047,1394,1044,1398,1034,1391,998,1358,967,1319,942,1276,921,1233,892,1153,877,1099"/>
+<area shape="rect" id="Node000028" href="$d6/d21/structTerraria_1_1Tile_a6b7c8f41995f641c2a470bd80492d04c.html#a6b7c8f41995f641c2a470bd80492d04c" title="Clears any paint or coating on the wall at this position." alt="" coords="1327,1363,1524,1403"/>
+<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="1251,1400,1313,1393,1313,1398,1251,1406"/>
+<area shape="rect" id="Node000032" href="$da/dd5/classTerraria_1_1Main_a32219b316f46865ffbad1c10fee82bd1.html#a32219b316f46865ffbad1c10fee82bd1" title=" " alt="" coords="1330,1427,1521,1467"/>
+<area shape="poly" id="edge30_Node000027_Node000032" title=" " alt="" coords="1251,1424,1317,1431,1316,1437,1251,1429"/>
+<area shape="poly" id="edge37_Node000040_Node000012" title=" " alt="" coords="911,742,952,720,971,704,986,685,1001,656,1011,628,1016,601,1017,574,1011,522,1000,471,989,420,987,370,991,344,1000,318,1014,292,1034,266,1051,253,1054,257,1038,270,1018,295,1005,321,996,345,992,370,995,419,1005,469,1016,521,1022,574,1021,601,1016,629,1006,658,990,688,974,708,955,724,914,747"/>
+<area shape="rect" id="Node000041" href="$d2/dfe/classTerraria_1_1NetMessage_a8bd80eec85317f48bb6a6fd7a8a8312b.html#a8bd80eec85317f48bb6a6fd7a8a8312b" title=" " alt="" coords="1037,280,1263,320"/>
+<area shape="poly" id="edge32_Node000040_Node000041" title=" " alt="" coords="911,742,951,720,970,704,986,685,999,661,1008,637,1014,592,1011,548,1002,505,995,462,994,419,1005,375,1017,353,1034,330,1037,327,1041,330,1038,334,1021,356,1010,377,999,420,1000,461,1008,504,1016,547,1020,592,1013,639,1004,663,990,688,974,708,954,724,913,747"/>
+<area shape="rect" id="Node000054" href="$db/d90/classTerraria_1_1Netplay_a8a3ee13aeab7ca5a142d52fc6a7c94a8.html#a8a3ee13aeab7ca5a142d52fc6a7c94a8" title=" " alt="" coords="1046,345,1254,370"/>
+<area shape="poly" id="edge33_Node000040_Node000054" title=" " alt="" coords="910,742,951,720,970,704,986,685,1005,644,1011,604,1009,566,1002,529,996,492,997,455,1007,417,1034,380,1037,376,1041,380,1038,383,1012,420,1002,455,1002,491,1007,528,1014,566,1017,605,1010,645,990,688,974,708,954,724,913,747"/>
+<area shape="rect" id="Node000055" href="$db/d90/classTerraria_1_1Netplay_aae951351c7bd7fff569a8f67e4a700a0.html#aae951351c7bd7fff569a8f67e4a700a0" title=" " alt="" coords="1047,394,1253,419"/>
+<area shape="poly" id="edge34_Node000040_Node000055" title=" " alt="" coords="910,742,951,719,970,704,986,685,1003,651,1009,618,1008,586,1004,555,1000,524,1001,493,1011,462,1034,430,1039,425,1043,429,1038,434,1016,464,1006,494,1005,524,1009,554,1013,586,1014,618,1008,653,990,688,974,708,954,724,913,747"/>
+<area shape="rect" id="Node000056" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="1038,444,1262,484"/>
+<area shape="poly" id="edge35_Node000040_Node000056" title=" " alt="" coords="908,742,949,719,969,704,986,685,1000,660,1006,635,1006,588,1005,565,1007,542,1016,518,1034,494,1038,490,1042,494,1038,498,1021,521,1013,543,1010,565,1011,588,1011,636,1005,662,990,688,973,708,952,724,911,747"/>
+<area shape="rect" id="Node000057" href="$df/d47/classTerraria_1_1ModLoader_1_1ModNet_a1c1f9ace6611e69d54aa7a1f2cce68f2.html#a1c1f9ace6611e69d54aa7a1f2cce68f2" title=" " alt="" coords="1047,508,1253,548"/>
+<area shape="poly" id="edge36_Node000040_Node000057" title=" " alt="" coords="907,742,948,719,968,703,986,685,997,668,1003,652,1007,621,1013,590,1021,574,1034,558,1039,554,1043,558,1038,562,1025,577,1018,591,1012,621,1008,654,1002,671,990,688,972,707,951,723,909,747"/>
+<area shape="rect" id="Node000059" href="$df/d47/classTerraria_1_1ModLoader_1_1ModNet_a84b918169aabe8b707d77626bfa3a734.html#a84b918169aabe8b707d77626bfa3a734" title=" " alt="" coords="1047,572,1253,612"/>
+<area shape="poly" id="edge38_Node000040_Node000059" title=" " alt="" coords="900,742,942,717,986,685,1000,670,1009,656,1019,642,1034,628,1058,615,1061,620,1038,633,1023,646,1013,659,1004,673,990,689,945,722,903,747"/>
+<area shape="rect" id="Node000062" href="$d0/d8b/classTerraria_1_1ModLoader_1_1IO_1_1ItemIO_acb34dd650cec49c955ce0297fe6d0ce1.html#acb34dd650cec49c955ce0297fe6d0ce1" title=" " alt="" coords="1326,687,1525,727"/>
+<area shape="poly" id="edge39_Node000040_Node000062" title=" " alt="" coords="929,742,1036,723,1180,710,1312,705,1312,710,1180,715,1036,728,930,747"/>
+<area shape="rect" id="Node000063" href="$d0/d8b/classTerraria_1_1ModLoader_1_1IO_1_1ItemIO_a9d5e51fc32478bea6653b3b43783a57b.html#a9d5e51fc32478bea6653b3b43783a57b" title=" " alt="" coords="1587,659,1785,699"/>
+<area shape="poly" id="edge45_Node000040_Node000063" title=" " alt="" coords="904,742,963,718,1035,696,1106,683,1179,673,1325,663,1460,662,1573,667,1573,672,1460,668,1325,668,1180,678,1107,688,1037,701,965,723,906,747"/>
+<area shape="rect" id="Node000064" href="$dd/de0/classTerraria_1_1ModLoader_1_1BiomeLoader_a29df870ca6244b82963eeb5ce278f179.html#a29df870ca6244b82963eeb5ce278f179" title=" " alt="" coords="1050,801,1250,841"/>
+<area shape="poly" id="edge41_Node000040_Node000064" title=" " alt="" coords="932,768,1051,796,1050,801,931,773"/>
+<area shape="rect" id="Node000066" href="$dd/dc6/classTerraria_1_1ModLoader_1_1NPCLoader_ad20200fbeb8230fb9fa1026ab0e76aa0.html#ad20200fbeb8230fb9fa1026ab0e76aa0" title=" " alt="" coords="1038,865,1262,905"/>
+<area shape="poly" id="edge42_Node000040_Node000066" title=" " alt="" coords="897,768,957,808,1037,851,1056,858,1054,863,1035,856,954,813,894,772"/>
+<area shape="rect" id="Node000067" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_a785fe46f6008e62910dd244542345a24.html#a785fe46f6008e62910dd244542345a24" title=" " alt="" coords="1045,929,1255,969"/>
+<area shape="poly" id="edge43_Node000040_Node000067" title=" " alt="" coords="889,769,946,838,989,880,1037,915,1050,922,1047,926,1035,920,985,884,942,842,884,772"/>
+<area shape="rect" id="Node000068" href="$d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a800edd3907ce891c4cba1af54ee5ba20.html#a800edd3907ce891c4cba1af54ee5ba20" title=" " alt="" coords="1047,993,1253,1033"/>
+<area shape="poly" id="edge44_Node000040_Node000068" title=" " alt="" coords="885,769,905,810,937,867,982,928,1008,955,1038,979,1046,985,1043,989,1034,983,1005,959,978,931,933,870,900,813,880,771"/>
+<area shape="rect" id="Node000069" href="$d0/da6/classTerraria_1_1ModLoader_1_1Logging_ab70d2a6a87eaae1d1ea2b6df62b255ec.html#ab70d2a6a87eaae1d1ea2b6df62b255ec" title=" " alt="" coords="1047,1081,1253,1121"/>
+<area shape="poly" id="edge46_Node000040_Node000069" title=" " alt="" coords="884,770,902,819,933,892,979,971,1007,1009,1038,1043,1058,1060,1081,1073,1078,1077,1055,1064,1034,1047,1002,1013,974,974,928,894,897,821,879,771"/>
+<area shape="rect" id="Node000053" href="$db/d56/classTerraria_1_1DataStructures_1_1TileEntity_a94671f9097e4ebf6de668b08e9f0b50a.html#a94671f9097e4ebf6de668b08e9f0b50a" title=" " alt="" coords="1062,1145,1238,1185"/>
+<area shape="poly" id="edge48_Node000040_Node000053" title=" " alt="" coords="884,769,907,844,945,953,992,1062,1015,1104,1038,1131,1051,1141,1048,1145,1034,1135,1011,1107,987,1064,940,955,902,846,879,771"/>
+<area shape="rect" id="Node000070" href="$d2/dfe/classTerraria_1_1NetMessage_a17488582dd5650d9c0f793be3cc79b2a.html#a17488582dd5650d9c0f793be3cc79b2a" title=" " alt="" coords="1053,1209,1247,1249"/>
+<area shape="poly" id="edge49_Node000040_Node000070" title=" " alt="" coords="885,769,991,1061,1001,1101,1005,1135,1014,1165,1038,1196,1043,1199,1039,1203,1034,1199,1009,1167,1000,1136,995,1102,985,1062,880,771"/>
+<area shape="rect" id="Node000071" href="$dd/dc6/classTerraria_1_1ModLoader_1_1NPCLoader_acd7b32d09b1fce4d0690d6bae683d829.html#acd7b32d09b1fce4d0690d6bae683d829" title=" " alt="" coords="1038,1273,1262,1313"/>
+<area shape="poly" id="edge50_Node000040_Node000071" title=" " alt="" coords="885,770,931,888,991,1061,998,1092,1000,1120,1001,1169,1003,1192,1008,1214,1019,1236,1038,1260,1042,1263,1038,1267,1034,1263,1015,1239,1003,1215,997,1193,995,1170,995,1120,992,1093,985,1062,926,890,880,771"/>
+<area shape="rect" id="Node000072" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_ad728f89b264d8327c66389f62f4d6a6b.html#ad728f89b264d8327c66389f62f4d6a6b" title=" " alt="" coords="1045,1337,1255,1377"/>
+<area shape="poly" id="edge51_Node000040_Node000072" title=" " alt="" coords="885,769,933,887,963,972,991,1061,998,1102,1000,1139,996,1203,996,1233,1002,1262,1015,1292,1038,1324,1041,1327,1037,1330,1034,1327,1010,1295,997,1264,991,1234,991,1203,995,1139,993,1102,985,1062,958,974,928,889,881,771"/>
+<area shape="rect" id="Node000073" href="$d9/d9b/classTerraria_1_1DataStructures_1_1PlayerDeathReason_a9b526c38a2136beee6ac5ae5a6e8faa7.html#a9b526c38a2136beee6ac5ae5a6e8faa7" title=" " alt="" coords="1036,737,1264,777"/>
+<area shape="poly" id="edge52_Node000040_Node000073" title=" " alt="" coords="988,755,1022,755,1022,760,988,760"/>
+<area shape="poly" id="edge40_Node000062_Node000063" title=" " alt="" coords="1525,693,1573,688,1574,693,1525,699"/>
+<area shape="poly" id="edge47_Node000069_Node000069" title=" " alt="" coords="1100,1082,1097,1072,1105,1062,1123,1057,1150,1055,1181,1057,1199,1065,1197,1070,1180,1063,1150,1060,1124,1062,1108,1067,1102,1073,1105,1080"/>
+<area shape="poly" id="edge53_Node000073_Node000062" title=" " alt="" coords="1259,735,1312,725,1313,730,1260,740"/>
+<area shape="poly" id="edge55_Node000074_Node000040" title=" " alt="" coords="710,734,758,740,758,746,709,740"/>
 </map>

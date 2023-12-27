@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 1036;
+var viewWidth = 536;
 var viewHeight = 86;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,8 +58,8 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="1028,-48.5 864,-48.5 864,-29.5 1028,-29.5 1028,-48.5"/>
-<text text-anchor="middle" x="946" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Item.ChangeItemType</text>
+<polygon fill="#999999" stroke="#666666" points="528,-48.5 364,-48.5 364,-29.5 528,-29.5 528,-48.5"/>
+<text text-anchor="middle" x="446" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Item.ChangeItemType</text>
 </a>
 </g>
 </g>
@@ -67,9 +67,9 @@ var sectionId = 'dynsection-1';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d4/d03/classTerraria_1_1Player_aaf6d62bd8bfd2c582eca80d91c623264.html#aaf6d62bd8bfd2c582eca80d91c623264" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="828,-78 676,-78 676,-48 828,-48 828,-78"/>
-<text text-anchor="start" x="684" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Player.ItemCheck</text>
-<text text-anchor="middle" x="752" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">_ManageRightClickFeatures</text>
+<polygon fill="white" stroke="#666666" points="328,-78 176,-78 176,-48 328,-48 328,-78"/>
+<text text-anchor="start" x="184" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Player.ItemCheck</text>
+<text text-anchor="middle" x="252" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">_ManageRightClickFeatures</text>
 </a>
 </g>
 </g>
@@ -77,27 +77,27 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M858.71,-49.79C848.5,-51.06 838.16,-52.36 828.13,-53.61"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="859.35,-53.23 868.84,-48.52 858.48,-46.29 859.35,-53.23"/>
+<path fill="none" stroke="#63b8ff" d="M358.71,-49.79C348.5,-51.06 338.16,-52.36 328.13,-53.61"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="359.35,-53.23 368.84,-48.52 358.48,-46.29 359.35,-53.23"/>
 </a>
 </g>
 </g>
-<!-- Node7 -->
-<g id="Node000007" class="node">
-<title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../dd/de1/classTerraria_1_1UI_1_1ItemSlot_ad5f64d3feca6e9f5749ffe9d7771942e.html#ad5f64d3feca6e9f5749ffe9d7771942e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="816,-30 688,-30 688,0 816,0 816,-30"/>
-<text text-anchor="start" x="696" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.ItemSlot.Try</text>
-<text text-anchor="middle" x="752" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">ItemSwap</text>
+<!-- Node4 -->
+<g id="Node000004" class="node">
+<title>Node4</title>
+<g id="a_Node000004"><a xlink:href="../../dd/de1/classTerraria_1_1UI_1_1ItemSlot_ad5f64d3feca6e9f5749ffe9d7771942e.html#ad5f64d3feca6e9f5749ffe9d7771942e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="316,-30 188,-30 188,0 316,0 316,-30"/>
+<text text-anchor="start" x="196" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.ItemSlot.Try</text>
+<text text-anchor="middle" x="252" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">ItemSwap</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node7 -->
-<g id="edge6_Node000001_Node000007" class="edge">
-<title>Node1&#45;&gt;Node7</title>
-<g id="a_edge6_Node000001_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M858.51,-28.19C844.23,-26.4 829.66,-24.58 816.09,-22.89"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="858.48,-31.71 868.84,-29.48 859.35,-24.77 858.48,-31.71"/>
+<!-- Node1&#45;&gt;Node4 -->
+<g id="edge3_Node000001_Node000004" class="edge">
+<title>Node1&#45;&gt;Node4</title>
+<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M358.51,-28.19C344.23,-26.4 329.66,-24.58 316.09,-22.89"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="358.48,-31.71 368.84,-29.48 359.35,-24.77 358.48,-31.71"/>
 </a>
 </g>
 </g>
@@ -105,8 +105,8 @@ var sectionId = 'dynsection-1';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d4/d03/classTerraria_1_1Player_af44290f5d38b6d5076a5fa8d6ee3dd12.html#af44290f5d38b6d5076a5fa8d6ee3dd12" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="632.5,-72.5 507.5,-72.5 507.5,-53.5 632.5,-53.5 632.5,-72.5"/>
-<text text-anchor="middle" x="570" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Player.Update</text>
+<polygon fill="white" stroke="#666666" points="132.5,-72.5 7.5,-72.5 7.5,-53.5 132.5,-53.5 132.5,-72.5"/>
+<text text-anchor="middle" x="70" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Player.Update</text>
 </a>
 </g>
 </g>
@@ -114,36 +114,18 @@ var sectionId = 'dynsection-1';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M665.73,-63C654.52,-63 643.22,-63 632.52,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="665.97,-66.5 675.97,-63 665.97,-59.5 665.97,-66.5"/>
-</a>
-</g>
-</g>
-<!-- Node4 -->
-<g id="Node000004" class="node">
-<title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a39cdec3f201787a467045358bfcba377.html#a39cdec3f201787a467045358bfcba377" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="464,-78 323,-78 323,-48 464,-48 464,-78"/>
-<text text-anchor="start" x="331" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.DoUpdateIn</text>
-<text text-anchor="middle" x="393.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">World</text>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge3_Node000003_Node000004" class="edge">
-<title>Node3&#45;&gt;Node4</title>
-<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M497.47,-63C486.45,-63 475.08,-63 464.1,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="497.48,-66.5 507.48,-63 497.48,-59.5 497.48,-66.5"/>
+<path fill="none" stroke="#63b8ff" d="M165.73,-63C154.52,-63 143.22,-63 132.52,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="165.97,-66.5 175.97,-63 165.97,-59.5 165.97,-66.5"/>
 </a>
 </g>
 </g>
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a96341b8439a15bcefc0f119767e24e35.html#a96341b8439a15bcefc0f119767e24e35" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="287,-72.5 155,-72.5 155,-53.5 287,-53.5 287,-72.5"/>
-<text text-anchor="middle" x="221" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.DoUpdate</text>
+<g id="a_Node000005"><a xlink:href="../../dd/de1/classTerraria_1_1UI_1_1ItemSlot_a98bc424277619fb6826fcabb8607e3bc.html#a98bc424277619fb6826fcabb8607e3bc" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="140,-30 0,-30 0,0 140,0 140,-30"/>
+<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.ItemSlot.Right</text>
+<text text-anchor="middle" x="70" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Click</text>
 </a>
 </g>
 </g>
@@ -151,45 +133,8 @@ var sectionId = 'dynsection-1';
 <g id="edge4_Node000004_Node000005" class="edge">
 <title>Node4&#45;&gt;Node5</title>
 <g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M312.65,-63C304.08,-63 295.44,-63 287.07,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="312.66,-66.5 322.66,-63 312.66,-59.5 312.66,-66.5"/>
-</a>
-</g>
-</g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a49776516aea1626e33c722fc8896a7de.html#a49776516aea1626e33c722fc8896a7de" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="119,-72.5 0,-72.5 0,-53.5 119,-53.5 119,-72.5"/>
-<text text-anchor="middle" x="59.5" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.Update</text>
-</a>
-</g>
-</g>
-<!-- Node5&#45;&gt;Node6 -->
-<g id="edge5_Node000005_Node000006" class="edge">
-<title>Node5&#45;&gt;Node6</title>
-<g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M144.64,-63C136.06,-63 127.4,-63 119.08,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="144.67,-66.5 154.67,-63 144.66,-59.5 144.67,-66.5"/>
-</a>
-</g>
-</g>
-<!-- Node8 -->
-<g id="Node000008" class="node">
-<title>Node8</title>
-<g id="a_Node000008"><a xlink:href="../../dd/de1/classTerraria_1_1UI_1_1ItemSlot_a98bc424277619fb6826fcabb8607e3bc.html#a98bc424277619fb6826fcabb8607e3bc" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="640,-30 500,-30 500,0 640,0 640,-30"/>
-<text text-anchor="start" x="508" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.ItemSlot.Right</text>
-<text text-anchor="middle" x="570" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Click</text>
-</a>
-</g>
-</g>
-<!-- Node7&#45;&gt;Node8 -->
-<g id="edge7_Node000007_Node000008" class="edge">
-<title>Node7&#45;&gt;Node8</title>
-<g id="a_edge7_Node000007_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M677.54,-15C665.2,-15 652.42,-15 640.19,-15"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="677.79,-18.5 687.79,-15 677.79,-11.5 677.79,-18.5"/>
+<path fill="none" stroke="#63b8ff" d="M177.54,-15C165.2,-15 152.42,-15 140.19,-15"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="177.79,-18.5 187.79,-15 177.79,-11.5 177.79,-18.5"/>
 </a>
 </g>
 </g>

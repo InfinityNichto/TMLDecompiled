@@ -1,23 +1,19 @@
 <map id="Terraria.Projectile.AI_160_Kites" name="Terraria.Projectile.AI_160_Kites">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,159,152"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,159,124"/>
 <area shape="rect" id="Node000002" href="$d4/d03/classTerraria_1_1Player_a8b56b3a06a4d40b7cfb9aebd7241b6df.html#a8b56b3a06a4d40b7cfb9aebd7241b6df" title=" " alt="" coords="225,13,412,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,110,150,77,206,47,227,39,228,44,208,52,153,82,109,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,81,206,47,234,39,236,44,208,52,124,86"/>
 <area shape="rect" id="Node000004" href="$d1/d9c/classTerraria_1_1Utils_a7223719277be4afd24a2496351a9a22f.html#a7223719277be4afd24a2496351a9a22f" title=" " alt="" coords="221,62,417,87"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,109,206,97,247,88,248,93,207,103,160,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,92,207,86,207,91,160,97"/>
 <area shape="rect" id="Node000005" href="$de/da1/classTerraria_1_1WorldGen_a714099c00289947fbf7d6fab564b6a17.html#a714099c00289947fbf7d6fab564b6a17" title=" " alt="" coords="219,112,418,152"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="159,129,205,129,205,135,159,135"/>
-<area shape="rect" id="Node000006" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_ac4ecc6320b69ab939b9c45eaf7d89000.html#ac4ecc6320b69ab939b9c45eaf7d89000" title=" " alt="" coords="231,176,407,216"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="157,150,232,170,231,175,156,155"/>
-<area shape="rect" id="Node000008" href="$d4/d03/classTerraria_1_1Player_aced636f7d8226147a3bf19c099b2bbee.html#aced636f7d8226147a3bf19c099b2bbee" title="Takes an input position and returns the position adjusted to the players visual rotation and offset...." alt="" coords="207,256,431,296"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="107,150,153,187,208,226,252,248,250,253,205,230,149,192,104,154"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,110,206,116,205,121,159,116"/>
+<area shape="rect" id="Node000006" href="$d4/d03/classTerraria_1_1Player_aced636f7d8226147a3bf19c099b2bbee.html#aced636f7d8226147a3bf19c099b2bbee" title="Takes an input position and returns the position adjusted to the players visual rotation and offset...." alt="" coords="207,176,431,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="121,122,208,162,229,169,227,174,206,166,119,127"/>
 <area shape="rect" id="Node000003" href="$de/d1d/classTerraria_1_1Collision_ab90b2aba94f5d7de3ee33f3c0b27ea3e.html#ab90b2aba94f5d7de3ee33f3c0b27ea3e" title=" " alt="" coords="529,5,695,45"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,23,515,23,515,28,412,28"/>
-<area shape="rect" id="Node000007" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_a173f09196ff526b107c0223c2d58c59a.html#a173f09196ff526b107c0223c2d58c59a" title=" " alt="" coords="523,160,701,200"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="407,189,509,183,509,188,407,194"/>
-<area shape="rect" id="Node000009" href="$d6/dc6/structTerraria_1_1GameContent_1_1PlayerSittingHelper_a7033d8d348143933744d07414f183dea.html#a7033d8d348143933744d07414f183dea" title=" " alt="" coords="493,224,731,264"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="430,261,479,256,479,261,431,266"/>
-<area shape="rect" id="Node000010" href="$d2/d74/structTerraria_1_1GameContent_1_1PlayerSleepingHelper_af42474b2d26f9866f0f0c28f0df6f918.html#af42474b2d26f9866f0f0c28f0df6f918" title=" " alt="" coords="479,288,745,328"/>
-<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="431,286,465,289,465,295,430,291"/>
-<area shape="rect" id="Node000011" href="$d1/d9c/classTerraria_1_1Utils_a89794e51eb6b0bd3f2b823efbf193fb3.html#a89794e51eb6b0bd3f2b823efbf193fb3" title=" " alt="" coords="523,353,701,378"/>
-<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="364,294,419,316,479,337,519,347,517,352,478,343,417,321,362,299"/>
+<area shape="rect" id="Node000007" href="$d6/dc6/structTerraria_1_1GameContent_1_1PlayerSittingHelper_a7033d8d348143933744d07414f183dea.html#a7033d8d348143933744d07414f183dea" title=" " alt="" coords="493,112,731,152"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="411,173,506,152,507,158,412,179"/>
+<area shape="rect" id="Node000008" href="$d2/d74/structTerraria_1_1GameContent_1_1PlayerSleepingHelper_af42474b2d26f9866f0f0c28f0df6f918.html#af42474b2d26f9866f0f0c28f0df6f918" title=" " alt="" coords="479,176,745,216"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="431,193,465,193,465,199,431,199"/>
+<area shape="rect" id="Node000009" href="$d1/d9c/classTerraria_1_1Utils_a89794e51eb6b0bd3f2b823efbf193fb3.html#a89794e51eb6b0bd3f2b823efbf193fb3" title=" " alt="" coords="523,241,701,266"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="419,213,479,225,531,235,530,241,478,231,418,219"/>
 </map>

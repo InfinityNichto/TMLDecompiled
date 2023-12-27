@@ -1,29 +1,19 @@
 <map id="Terraria.GameContent.UI.Elements.UICharacter.PreparePetProjectiles_CreatePetProjectileDummy" name="Terraria.GameContent.UI.Elements.UICharacter.PreparePetProjectiles_CreatePetProjectileDummy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,126,300,181"/>
-<area shape="rect" id="Node000002" href="$da/dd3/classTerraria_1_1Projectile_a63165ebb547c242826d7148329b1cfe0.html#a63165ebb547c242826d7148329b1cfe0" title=" " alt="" coords="348,141,564,166"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,151,334,151,334,156,300,156"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,300,149"/>
+<area shape="rect" id="Node000002" href="$da/dd3/classTerraria_1_1Projectile_a63165ebb547c242826d7148329b1cfe0.html#a63165ebb547c242826d7148329b1cfe0" title=" " alt="" coords="348,109,564,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,119,334,119,334,124,300,124"/>
 <area shape="rect" id="Node000003" href="$da/dd3/classTerraria_1_1Projectile_aa88785c6b90cea5533be603990ea4fd0.html#aa88785c6b90cea5533be603990ea4fd0" title=" " alt="" coords="623,5,811,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,138,532,98,611,55,629,47,631,52,613,60,535,103,476,143"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,106,611,55,634,47,635,52,613,60,487,111"/>
 <area shape="rect" id="Node000004" href="$da/dd3/classTerraria_1_1Projectile_a9b4a24e61ca3b5ecf2e8290cf4c06747.html#a9b4a24e61ca3b5ecf2e8290cf4c06747" title=" " alt="" coords="623,69,811,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="508,138,621,110,622,115,510,143"/>
-<area shape="rect" id="Node000006" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_ac4ecc6320b69ab939b9c45eaf7d89000.html#ac4ecc6320b69ab939b9c45eaf7d89000" title=" " alt="" coords="629,133,805,173"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="564,151,616,151,616,156,564,156"/>
-<area shape="rect" id="Node000008" href="$da/dd3/classTerraria_1_1Projectile_a98f9450d0ebd57eb22ab1da41c361904.html#a98f9450d0ebd57eb22ab1da41c361904" title=" " alt="" coords="629,197,806,237"/>
-<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="510,164,622,191,621,197,508,169"/>
-<area shape="rect" id="Node000009" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_af7a6582e0e21a3bbc5b4128cb7bd7f52.html#af7a6582e0e21a3bbc5b4128cb7bd7f52" title=" " alt="" coords="612,261,823,301"/>
-<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="476,164,535,204,613,247,631,254,629,259,611,252,532,208,473,168"/>
-<area shape="rect" id="Node000005" href="$da/dd3/classTerraria_1_1Projectile_adaa0adaba8b639b14012275f8a0429a4.html#adaa0adaba8b639b14012275f8a0429a4" title=" " alt="" coords="885,69,1069,109"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="812,87,871,87,871,92,812,92"/>
-<area shape="rect" id="Node000007" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_a173f09196ff526b107c0223c2d58c59a.html#a173f09196ff526b107c0223c2d58c59a" title=" " alt="" coords="887,133,1066,173"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="806,151,873,151,873,156,806,156"/>
-<area shape="rect" id="Node000010" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_a1367d806fe025ee2b27c5f0aa945b46d.html#a1367d806fe025ee2b27c5f0aa945b46d" title="Gets the ModProjectile template instance corresponding to the specified type (not the clone/new insta..." alt="" coords="871,197,1082,237"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="799,259,881,238,883,243,800,264"/>
-<area shape="rect" id="Node000011" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_aa76fa5a102251919e517db981ad900c6.html#aa76fa5a102251919e517db981ad900c6" title=" " alt="" coords="871,261,1082,301"/>
-<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="823,279,858,279,858,284,823,284"/>
-<area shape="rect" id="Node000012" href="$db/d77/classTerraria_1_1ModLoader_1_1ModType_a92fd60a4a3110bbcd84d6ade99544e2a.html#a92fd60a4a3110bbcd84d6ade99544e2a" title="Create a new instance of this ModType for a specific entity." alt="" coords="871,325,1083,365"/>
-<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="800,299,883,319,881,325,799,304"/>
-<area shape="rect" id="Node000013" href="$db/d77/classTerraria_1_1ModLoader_1_1ModType_aeb73d9b078163fba8a510ff7d51033c3.html#aeb73d9b078163fba8a510ff7d51033c3" title="Create a copy of this instanced global. Called when an entity is cloned." alt="" coords="1131,325,1343,365"/>
-<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1083,343,1117,343,1117,348,1083,348"/>
-<area shape="rect" id="Node000014" href="$d4/d23/classTerraria_1_1ModLoader_1_1Core_1_1Cloning_ad5d16b3fb4335429f23e46f8defc0a91.html#ad5d16b3fb4335429f23e46f8defc0a91" title=" " alt="" coords="1391,325,1587,365"/>
-<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1343,343,1377,343,1377,348,1343,348"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="560,106,609,100,610,105,560,111"/>
+<area shape="rect" id="Node000006" href="$da/dd3/classTerraria_1_1Projectile_a98f9450d0ebd57eb22ab1da41c361904.html#a98f9450d0ebd57eb22ab1da41c361904" title=" " alt="" coords="629,133,806,173"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="560,131,615,138,615,143,560,137"/>
+<area shape="rect" id="Node000007" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_af7a6582e0e21a3bbc5b4128cb7bd7f52.html#af7a6582e0e21a3bbc5b4128cb7bd7f52" title=" " alt="" coords="612,197,823,237"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="487,132,613,183,635,191,634,196,611,188,485,137"/>
+<area shape="rect" id="Node000005" href="$da/dd3/classTerraria_1_1Projectile_adaa0adaba8b639b14012275f8a0429a4.html#adaa0adaba8b639b14012275f8a0429a4" title=" " alt="" coords="884,69,1068,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="811,87,871,87,871,92,811,92"/>
+<area shape="rect" id="Node000008" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_a1367d806fe025ee2b27c5f0aa945b46d.html#a1367d806fe025ee2b27c5f0aa945b46d" title="Gets the ModProjectile template instance corresponding to the specified type (not the clone/new insta..." alt="" coords="871,165,1081,205"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="822,202,857,197,858,203,823,207"/>
+<area shape="rect" id="Node000009" href="$dd/d93/classTerraria_1_1ModLoader_1_1ProjectileLoader_aa76fa5a102251919e517db981ad900c6.html#aa76fa5a102251919e517db981ad900c6" title=" " alt="" coords="871,229,1081,269"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="823,228,858,232,857,237,822,233"/>
 </map>

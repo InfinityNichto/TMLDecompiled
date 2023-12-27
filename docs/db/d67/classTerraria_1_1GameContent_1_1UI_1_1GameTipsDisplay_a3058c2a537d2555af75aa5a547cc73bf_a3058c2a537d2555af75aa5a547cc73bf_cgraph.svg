@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 604;
+var viewWidth = 603;
 var viewHeight = 134;
 var sectionId = 'dynsection-0';
 </script>
@@ -102,20 +102,20 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../db/d67/classTerraria_1_1GameContent_1_1UI_1_1GameTipsDisplay_a5798390f7503de11ca31a0fa8ed0602c.html#a5798390f7503de11ca31a0fa8ed0602c" target="_top" xlink:title=" ">
+<!-- Node5 -->
+<g id="Node000005" class="node">
+<title>Node5</title>
+<g id="a_Node000005"><a xlink:href="../../db/d67/classTerraria_1_1GameContent_1_1UI_1_1GameTipsDisplay_a5798390f7503de11ca31a0fa8ed0602c.html#a5798390f7503de11ca31a0fa8ed0602c" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="384,-30 238,-30 238,0 384,0 384,-30"/>
 <text text-anchor="start" x="246" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.UI.</text>
 <text text-anchor="middle" x="311" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">GameTipsDisplay.Initialize</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge5_Node000001_Node000006" class="edge">
-<title>Node1&#45;&gt;Node6</title>
-<g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
+<!-- Node1&#45;&gt;Node5 -->
+<g id="edge4_Node000001_Node000005" class="edge">
+<title>Node1&#45;&gt;Node5</title>
+<g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M163.47,-47.94C185.62,-42.96 210.45,-37.38 233.28,-32.25"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="234.28,-35.61 243.27,-30 232.75,-28.78 234.28,-35.61"/>
 </a>
@@ -125,9 +125,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d5/d73/classTerraria_1_1Localization_1_1LocalizedText_a8465a4e8662fbe15d206b2bbd0181e99.html#a8465a4e8662fbe15d206b2bbd0181e99" target="_top" xlink:title="Checks if the conditions embedded in this LocalizedText are satisfied by the obj &#160;argument....">
-<polygon fill="white" stroke="#666666" points="595.5,-126 431.5,-126 431.5,-96 595.5,-96 595.5,-126"/>
-<text text-anchor="start" x="439.5" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Localized</text>
-<text text-anchor="middle" x="513.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">Text.CanFormatWith</text>
+<polygon fill="white" stroke="#666666" points="595,-126 431,-126 431,-96 595,-96 595,-126"/>
+<text text-anchor="start" x="439" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Localized</text>
+<text text-anchor="middle" x="513" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">Text.CanFormatWith</text>
 </a>
 </g>
 </g>
@@ -135,27 +135,8 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M384.1,-111C396.03,-111 408.54,-111 420.87,-111"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="421.17,-114.5 431.17,-111 421.17,-107.5 421.17,-114.5"/>
-</a>
-</g>
-</g>
-<!-- Node5 -->
-<g id="Node000005" class="node">
-<title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../d8/d74/classTerraria_1_1Localization_1_1LanguageManager_ada0523b1c8ad939663e492172f0de54f.html#ada0523b1c8ad939663e492172f0de54f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="596,-78 431,-78 431,-48 596,-48 596,-78"/>
-<text text-anchor="start" x="439" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language</text>
-<text text-anchor="middle" x="513.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Manager.FindAll</text>
-</a>
-</g>
-</g>
-<!-- Node4&#45;&gt;Node5 -->
-<g id="edge4_Node000004_Node000005" class="edge">
-<title>Node4&#45;&gt;Node5</title>
-<g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M395.29,-63C403.63,-63 412.12,-63 420.54,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="420.76,-66.5 430.76,-63 420.76,-59.5 420.76,-66.5"/>
+<path fill="none" stroke="#63b8ff" d="M384.2,-111C396.01,-111 408.37,-111 420.56,-111"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="420.74,-114.5 430.74,-111 420.74,-107.5 420.74,-114.5"/>
 </a>
 </g>
 </g>

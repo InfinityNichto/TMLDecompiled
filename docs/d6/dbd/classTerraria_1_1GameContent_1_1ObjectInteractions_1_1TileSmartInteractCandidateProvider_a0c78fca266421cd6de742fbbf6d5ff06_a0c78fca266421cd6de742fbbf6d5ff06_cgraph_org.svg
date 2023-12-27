@@ -58,13 +58,32 @@
 </a>
 </g>
 </g>
-<!-- Node12 -->
-<g id="Node000012" class="node">
-<title>Node12</title>
-<g id="a_Node000012"><a xlink:href="../../de/d1d/classTerraria_1_1Collision_a1104a0d74088cc50a62ea175d882bafa.html#a1104a0d74088cc50a62ea175d882bafa" target="_top" xlink:title=" ">
+<!-- Node11 -->
+<g id="Node000011" class="node">
+<title>Node11</title>
+<g id="a_Node000011"><a xlink:href="../../de/d1d/classTerraria_1_1Collision_a1104a0d74088cc50a62ea175d882bafa.html#a1104a0d74088cc50a62ea175d882bafa" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="418,-137.5 290,-137.5 290,-107.5 418,-107.5 418,-137.5"/>
 <text text-anchor="start" x="298" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Collision.InTile</text>
 <text text-anchor="middle" x="354" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">Bounds</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node11 -->
+<g id="edge10_Node000001_Node000011" class="edge">
+<title>Node1&#45;&gt;Node11</title>
+<g id="a_edge10_Node000001_Node000011"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M212.04,-122.5C234.82,-122.5 258.44,-122.5 279.69,-122.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="279.91,-126 289.91,-122.5 279.91,-119 279.91,-126"/>
+</a>
+</g>
+</g>
+<!-- Node12 -->
+<g id="Node000012" class="node">
+<title>Node12</title>
+<g id="a_Node000012"><a xlink:href="../../d1/d70/classTerraria_1_1ModLoader_1_1TileLoader_a1ba98df803bad2c8ded9fd24d62dc07d.html#a1ba98df803bad2c8ded9fd24d62dc07d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="437,-89.5 271,-89.5 271,-59.5 437,-59.5 437,-89.5"/>
+<text text-anchor="start" x="279" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.TileLoader.</text>
+<text text-anchor="middle" x="354" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">ModifySmartInteractCoords</text>
 </a>
 </g>
 </g>
@@ -72,34 +91,15 @@
 <g id="edge11_Node000001_Node000012" class="edge">
 <title>Node1&#45;&gt;Node12</title>
 <g id="a_edge11_Node000001_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M212.04,-122.5C234.82,-122.5 258.44,-122.5 279.69,-122.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="279.91,-126 289.91,-122.5 279.91,-119 279.91,-126"/>
-</a>
-</g>
-</g>
-<!-- Node13 -->
-<g id="Node000013" class="node">
-<title>Node13</title>
-<g id="a_Node000013"><a xlink:href="../../d1/d70/classTerraria_1_1ModLoader_1_1TileLoader_a1ba98df803bad2c8ded9fd24d62dc07d.html#a1ba98df803bad2c8ded9fd24d62dc07d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="437,-89.5 271,-89.5 271,-59.5 437,-59.5 437,-89.5"/>
-<text text-anchor="start" x="279" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.TileLoader.</text>
-<text text-anchor="middle" x="354" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">ModifySmartInteractCoords</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node13 -->
-<g id="edge12_Node000001_Node000013" class="edge">
-<title>Node1&#45;&gt;Node13</title>
-<g id="a_edge12_Node000001_Node000013"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M212.04,-102C229.94,-98.51 248.36,-94.92 265.74,-91.53"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="266.7,-94.91 275.84,-89.55 265.36,-88.03 266.7,-94.91"/>
 </a>
 </g>
 </g>
-<!-- Node15 -->
-<g id="Node000015" class="node">
-<title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../dc/d79/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandidateProvider_1_1ReusableCandidate_a7de57428770dc640326ed90de45ef558.html#a7de57428770dc640326ed90de45ef558" target="_top" xlink:title=" ">
+<!-- Node14 -->
+<g id="Node000014" class="node">
+<title>Node14</title>
+<g id="a_Node000014"><a xlink:href="../../dc/d79/classTerraria_1_1GameContent_1_1ObjectInteractions_1_1TileSmartInteractCandidateProvider_1_1ReusableCandidate_a7de57428770dc640326ed90de45ef558.html#a7de57428770dc640326ed90de45ef558" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="460,-41 248,-41 248,0 460,0 460,-41"/>
 <text text-anchor="start" x="256" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Object</text>
 <text text-anchor="start" x="256" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Interactions.TileSmartInteractCandidate</text>
@@ -107,10 +107,10 @@
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node15 -->
-<g id="edge15_Node000001_Node000015" class="edge">
-<title>Node1&#45;&gt;Node15</title>
-<g id="a_edge15_Node000001_Node000015"><a xlink:title=" ">
+<!-- Node1&#45;&gt;Node14 -->
+<g id="edge14_Node000001_Node000014" class="edge">
+<title>Node1&#45;&gt;Node14</title>
+<g id="a_edge14_Node000001_Node000014"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M142.62,-101.87C170.61,-86.26 210.92,-65.11 248,-50.5 253.48,-48.34 259.18,-46.26 264.96,-44.28"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="266.35,-47.51 274.74,-41.04 264.15,-40.86 266.35,-47.51"/>
 </a>
@@ -229,9 +229,9 @@
 <g id="Node000010" class="node">
 <title>Node10</title>
 <g id="a_Node000010"><a xlink:href="../../d1/d70/classTerraria_1_1ModLoader_1_1TileLoader_a046d2f0670d83bdc212241b0f87ff2de.html#a046d2f0670d83bdc212241b0f87ff2de" target="_top" xlink:title="Gets the ModTile instance with the given type. If no ModTile with the given type exists,...">
-<polygon fill="white" stroke="#666666" points="864,-102.5 698,-102.5 698,-72.5 864,-72.5 864,-102.5"/>
-<text text-anchor="start" x="706" y="-90.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.TileLoader.</text>
-<text text-anchor="middle" x="781" y="-79.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetTile</text>
+<polygon fill="white" stroke="#666666" points="864,-126.5 698,-126.5 698,-96.5 864,-96.5 864,-126.5"/>
+<text text-anchor="start" x="706" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.TileLoader.</text>
+<text text-anchor="middle" x="781" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetTile</text>
 </a>
 </g>
 </g>
@@ -239,55 +239,36 @@
 <g id="edge9_Node000009_Node000010" class="edge">
 <title>Node9&#45;&gt;Node10</title>
 <g id="a_edge9_Node000009_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M645.49,-118.44C664.49,-114.07 685.39,-109.26 704.93,-104.77"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="705.75,-108.17 714.71,-102.52 704.18,-101.35 705.75,-108.17"/>
+<path fill="none" stroke="#63b8ff" d="M662.21,-124.46C670.65,-123.53 679.27,-122.58 687.81,-121.64"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="688.23,-125.12 697.78,-120.54 687.46,-118.16 688.23,-125.12"/>
 </a>
 </g>
 </g>
-<!-- Node11 -->
-<g id="Node000011" class="node">
-<title>Node11</title>
-<g id="a_Node000011"><a xlink:href="../../d5/dec/classTerraria_1_1ModLoader_1_1ModTile_a4392ed58683bd65d18c46f17dcc0913f.html#a4392ed58683bd65d18c46f17dcc0913f" target="_top" xlink:title="Whether or not the smart interact function can select this tile. Useful for things like chests....">
-<polygon fill="white" stroke="#666666" points="858.5,-150.5 703.5,-150.5 703.5,-120.5 858.5,-120.5 858.5,-150.5"/>
-<text text-anchor="start" x="711.5" y="-138.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.ModTile.</text>
-<text text-anchor="middle" x="781" y="-127.5" font-family="Helvetica,sans-Serif" font-size="10.00">HasSmartInteract</text>
+<!-- Node12&#45;&gt;Node10 -->
+<g id="edge12_Node000012_Node000010" class="edge">
+<title>Node12&#45;&gt;Node10</title>
+<g id="a_edge12_Node000012_Node000010"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M437.2,-81.66C508.87,-87.9 612.76,-96.94 687.36,-103.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="687.42,-106.95 697.68,-104.33 688.02,-99.98 687.42,-106.95"/>
 </a>
 </g>
 </g>
-<!-- Node9&#45;&gt;Node11 -->
-<g id="edge10_Node000009_Node000011" class="edge">
-<title>Node9&#45;&gt;Node11</title>
-<g id="a_edge10_Node000009_Node000011"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M662.21,-134.32C672.39,-134.42 682.83,-134.53 693.08,-134.63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="693.22,-138.13 703.25,-134.73 693.29,-131.13 693.22,-138.13"/>
+<!-- Node13 -->
+<g id="Node000013" class="node">
+<title>Node13</title>
+<g id="a_Node000013"><a xlink:href="../../d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_ae19203d3df8949fc951f1a2545cd68d5.html#ae19203d3df8949fc951f1a2545cd68d5" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="645.5,-62.5 512.5,-62.5 512.5,-32.5 645.5,-32.5 645.5,-62.5"/>
+<text text-anchor="start" x="520.5" y="-50.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ObjectData.Tile</text>
+<text text-anchor="middle" x="579" y="-39.5" font-family="Helvetica,sans-Serif" font-size="10.00">ObjectData.GetTileData</text>
 </a>
 </g>
 </g>
-<!-- Node13&#45;&gt;Node10 -->
-<g id="edge13_Node000013_Node000010" class="edge">
-<title>Node13&#45;&gt;Node10</title>
-<g id="a_edge13_Node000013_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M437.2,-77.01C508.87,-79.21 612.76,-82.38 687.36,-84.67"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="687.58,-88.17 697.68,-84.98 687.79,-81.18 687.58,-88.17"/>
-</a>
-</g>
-</g>
-<!-- Node14 -->
-<g id="Node000014" class="node">
-<title>Node14</title>
-<g id="a_Node000014"><a xlink:href="../../d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_ae19203d3df8949fc951f1a2545cd68d5.html#ae19203d3df8949fc951f1a2545cd68d5" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="645.5,-59.5 512.5,-59.5 512.5,-29.5 645.5,-29.5 645.5,-59.5"/>
-<text text-anchor="start" x="520.5" y="-47.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ObjectData.Tile</text>
-<text text-anchor="middle" x="579" y="-36.5" font-family="Helvetica,sans-Serif" font-size="10.00">ObjectData.GetTileData</text>
-</a>
-</g>
-</g>
-<!-- Node13&#45;&gt;Node14 -->
-<g id="edge14_Node000013_Node000014" class="edge">
-<title>Node13&#45;&gt;Node14</title>
-<g id="a_edge14_Node000013_Node000014"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M437.09,-63.46C458.43,-60.59 481.33,-57.51 502.32,-54.68"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="503.02,-58.12 512.46,-53.32 502.09,-51.18 503.02,-58.12"/>
+<!-- Node12&#45;&gt;Node13 -->
+<g id="edge13_Node000012_Node000013" class="edge">
+<title>Node12&#45;&gt;Node13</title>
+<g id="a_edge13_Node000012_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M437.09,-64.56C458.43,-61.98 481.33,-59.2 502.32,-56.66"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="502.96,-60.11 512.46,-55.43 502.12,-53.16 502.96,-60.11"/>
 </a>
 </g>
 </g>

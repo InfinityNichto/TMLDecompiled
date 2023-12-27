@@ -1,73 +1,67 @@
 <map id="Terraria.Player.DropItems_GetDefaults" name="Terraria.Player.DropItems_GetDefaults">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,376,192,416"/>
-<area shape="rect" id="Node000002" href="$db/d79/classTerraria_1_1Item_a4928326c0c5a324286cf922203704666.html#a4928326c0c5a324286cf922203704666" title="Attempts to apply a prefix to this T:Terraria.Item." alt="" coords="259,346,406,371"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,379,246,370,246,375,193,384"/>
-<area shape="rect" id="Node000030" href="$db/d79/classTerraria_1_1Item_adb2554f9d394eca69180ff503efd10d9.html#adb2554f9d394eca69180ff503efd10d9" title=" " alt="" coords="240,419,425,445"/>
-<area shape="poly" id="edge40_Node000001_Node000030" title=" " alt="" coords="193,408,237,415,236,420,192,413"/>
-<area shape="rect" id="Node000003" href="$df/dd3/classTerraria_1_1ModLoader_1_1ModPrefix_adc2deb5f2b010b6241e9177edf2f30c8.html#adc2deb5f2b010b6241e9177edf2f30c8" title="Applies the custom data stats set in SetStats to the given item." alt="" coords="485,5,704,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,345,345,291,369,213,388,170,410,128,438,89,472,55,478,50,481,55,475,59,442,93,415,131,392,173,374,215,350,293,339,346"/>
-<area shape="rect" id="Node000004" href="$db/d79/classTerraria_1_1Item_acb7535bd6f08545ed2a8789e8e58806e.html#acb7535bd6f08545ed2a8789e8e58806e" title=" " alt="" coords="473,69,716,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="336,345,352,303,379,244,419,181,444,151,472,126,491,113,494,118,475,130,448,155,424,184,384,246,356,305,341,346"/>
-<area shape="rect" id="Node000005" href="$db/d79/classTerraria_1_1Item_adeda6f25b214cb18a2e1c01f41258907.html#adeda6f25b214cb18a2e1c01f41258907" title="Determines if this T:Terraria.Item can receive the given prefix." alt="" coords="491,238,699,263"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="353,343,406,312,472,280,520,264,522,269,474,285,408,317,355,348"/>
-<area shape="rect" id="Node000007" href="$db/d79/classTerraria_1_1Item_a82e4553f73aa1d4d904612f715e8b1ae.html#a82e4553f73aa1d4d904612f715e8b1ae" title="Determines if this T:Terraria.Item can receive prefixes." alt="" coords="1012,198,1231,223"/>
-<area shape="poly" id="edge21_Node000002_Node000007" title=" " alt="" coords="337,345,355,311,384,266,423,221,447,202,472,186,511,168,551,155,635,138,721,133,805,136,886,147,959,161,1072,191,1070,196,958,166,885,152,805,142,721,138,636,143,553,160,513,173,475,190,450,206,427,225,388,269,360,313,342,347"/>
-<area shape="rect" id="Node000011" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_a01aac0b28e66afbe3928a5dfc094bc6a.html#a01aac0b28e66afbe3928a5dfc094bc6a" title="Returns the ModPrefix associated with specified type If not a ModPrefix, returns null." alt="" coords="1303,289,1490,329"/>
-<area shape="poly" id="edge22_Node000002_Node000011" title=" " alt="" coords="378,343,473,324,701,304,927,297,1131,297,1290,302,1290,307,1131,303,927,302,701,310,474,329,379,349"/>
-<area shape="rect" id="Node000019" href="$db/d79/classTerraria_1_1Item_a3392834269c06d8b751cdbe78841f581.html#a3392834269c06d8b751cdbe78841f581" title=" " alt="" coords="768,184,956,224"/>
-<area shape="poly" id="edge38_Node000002_Node000019" title=" " alt="" coords="340,344,361,318,391,284,428,250,472,224,543,202,617,190,689,186,754,188,754,194,689,192,617,195,544,207,474,229,432,255,394,288,365,321,345,347"/>
-<area shape="rect" id="Node000020" href="$dc/df6/classTerraria_1_1ModLoader_1_1ModRarity_aae12b58e65adbbc60ab4c9fb7f748047.html#aae12b58e65adbbc60ab4c9fb7f748047" title="Allows you to modify which rarities will come before and after this when a modifier is applied (since..." alt="" coords="485,339,704,379"/>
-<area shape="poly" id="edge23_Node000002_Node000020" title=" " alt="" coords="406,356,471,356,471,361,406,361"/>
-<area shape="rect" id="Node000021" href="$d4/d81/classTerraria_1_1ModLoader_1_1RarityLoader_ac996d25eacaf9a39bb744bb49f0b3a7e.html#ac996d25eacaf9a39bb744bb49f0b3a7e" title=" " alt="" coords="500,403,689,443"/>
-<area shape="poly" id="edge24_Node000002_Node000021" title=" " alt="" coords="386,369,499,397,498,402,385,374"/>
-<area shape="rect" id="Node000022" href="$df/dd3/classTerraria_1_1ModLoader_1_1ModPrefix_a894997740c584271b3d305d593005eca.html#a894997740c584271b3d305d593005eca" title="Allows you to modify the sell price of the item based on the prefix or changes in custom data stats...." alt="" coords="485,467,704,507"/>
-<area shape="poly" id="edge25_Node000002_Node000022" title=" " alt="" coords="403,369,427,382,444,400,452,418,459,436,475,453,484,458,481,463,472,457,455,439,447,420,439,403,424,386,400,374"/>
-<area shape="rect" id="Node000023" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a1e4d9aac17cd087ce704c421a8b72a8f.html#a1e4d9aac17cd087ce704c421a8b72a8f" title="Allows for blocking, forcing and altering chance of prefix rolling. False (block) takes precedence ov..." alt="" coords="481,531,708,571"/>
-<area shape="poly" id="edge26_Node000002_Node000023" title=" " alt="" coords="408,369,427,382,441,399,448,417,452,451,455,485,462,501,475,517,480,521,476,525,471,521,457,504,450,486,447,452,443,418,437,402,424,386,405,374"/>
-<area shape="rect" id="Node000024" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_a04ac69b65fa901258e32fa63cd64ee4f.html#a04ac69b65fa901258e32fa63cd64ee4f" title=" " alt="" coords="769,579,955,619"/>
-<area shape="poly" id="edge27_Node000002_Node000024" title=" " alt="" coords="408,368,427,382,448,415,456,448,454,481,448,513,443,545,443,575,452,604,475,631,513,655,555,668,600,672,646,669,691,661,734,649,807,622,809,627,736,654,692,666,646,675,600,677,554,673,511,660,472,635,447,607,437,576,437,545,443,512,449,480,450,448,443,417,423,386,405,372"/>
-<area shape="rect" id="Node000028" href="$db/d79/classTerraria_1_1Item_adc259619fe8b796c9c7141a28feead1d.html#adc259619fe8b796c9c7141a28feead1d" title=" " alt="" coords="505,595,685,621"/>
-<area shape="poly" id="edge36_Node000002_Node000028" title=" " alt="" coords="408,368,427,382,445,408,453,433,454,459,451,484,449,509,450,534,458,557,475,581,493,594,490,598,471,585,453,560,445,535,443,509,446,484,448,459,448,434,440,410,423,386,404,373"/>
-<area shape="rect" id="Node000029" href="$db/d79/classTerraria_1_1Item_a6031bc64d98e4270a0bc8ab058fce7ff.html#a6031bc64d98e4270a0bc8ab058fce7ff" title=" " alt="" coords="475,696,715,736"/>
-<area shape="poly" id="edge39_Node000002_Node000029" title=" " alt="" coords="408,368,427,382,452,420,461,457,459,494,453,530,446,567,445,603,453,639,475,676,487,686,483,690,471,679,448,641,439,603,441,566,447,530,454,493,455,458,447,422,423,386,404,372"/>
-<area shape="rect" id="Node000006" href="$db/d79/classTerraria_1_1Item_a42afcdb7f69d685eae11fbbd9f651b37.html#a42afcdb7f69d685eae11fbbd9f651b37" title="Determines if this T:Terraria.Item can roll the given prefix." alt="" coords="764,249,960,274"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="699,252,750,254,750,260,699,257"/>
-<area shape="poly" id="edge19_Node000005_Node000019" title=" " alt="" coords="668,235,754,220,755,225,668,241"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="928,246,1042,223,1043,229,929,251"/>
-<area shape="rect" id="Node000009" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_a4e817b21048b965e62edcfb24b63e518.html#a4e817b21048b965e62edcfb24b63e518" title=" " alt="" coords="1028,407,1215,447"/>
-<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="884,272,1079,397,1076,402,882,276"/>
-<area shape="rect" id="Node000008" href="$db/d79/classTerraria_1_1Item_ae7df936950051e88d47a93d634266207.html#ae7df936950051e88d47a93d634266207" title="Determines if this T:Terraria.Item is an accessory that can receive prefixes." alt="" coords="1575,311,1769,351"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1222,221,1360,243,1511,275,1605,304,1604,309,1510,280,1359,248,1221,226"/>
-<area shape="rect" id="Node000010" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_af2b5b6dfec0b10be27ae73b24f1a4a03.html#af2b5b6dfec0b10be27ae73b24f1a4a03" title=" " alt="" coords="1283,481,1510,521"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1196,444,1310,475,1308,480,1195,449"/>
-<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1154,404,1212,371,1282,339,1303,331,1304,336,1284,344,1215,376,1157,409"/>
-<area shape="rect" id="Node000012" href="$db/d79/classTerraria_1_1Item_a9d237943edd9c0f7fc8f06031d6cf5f1.html#a9d237943edd9c0f7fc8f06031d6cf5f1" title="Determines the T:Terraria.ModLoader.PrefixCategory of this T:Terraria.Item." alt="" coords="1283,546,1511,571"/>
-<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="1216,444,1236,457,1253,476,1261,495,1268,514,1284,531,1296,538,1293,543,1281,535,1264,517,1256,497,1249,478,1233,461,1213,449"/>
-<area shape="rect" id="Node000017" href="$db/d79/classTerraria_1_1Item_ab94d29d64f93b8c12f2daeb8be976d5e.html#ab94d29d64f93b8c12f2daeb8be976d5e" title="Gets the vanilla prefixes for the given T:Terraria.ModLoader.PrefixCategory." alt="" coords="1309,353,1485,393"/>
-<area shape="poly" id="edge17_Node000009_Node000017" title=" " alt="" coords="1214,406,1295,390,1296,395,1215,411"/>
-<area shape="rect" id="Node000018" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_ad36bd3164fcc4f2d8837aeb276e85e1d.html#ad36bd3164fcc4f2d8837aeb276e85e1d" title=" " alt="" coords="1289,417,1504,457"/>
-<area shape="poly" id="edge18_Node000009_Node000018" title=" " alt="" coords="1215,428,1275,430,1275,435,1215,433"/>
-<area shape="poly" id="edge12_Node000012_Node000008" title=" " alt="" coords="1488,544,1509,531,1528,508,1536,485,1541,458,1556,429,1592,390,1629,357,1633,361,1596,394,1561,432,1547,460,1541,486,1533,511,1512,535,1491,548"/>
-<area shape="rect" id="Node000013" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_ac45dd0256a81d39dd9b8ae3d8e26dc27.html#ac45dd0256a81d39dd9b8ae3d8e26dc27" title=" " alt="" coords="1559,635,1785,675"/>
-<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1428,569,1560,620,1584,628,1582,633,1558,625,1426,574"/>
-<area shape="rect" id="Node000014" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a76f677b558832a8e0ca6593cdcb37766.html#a76f677b558832a8e0ca6593cdcb37766" title=" " alt="" coords="1559,443,1785,483"/>
-<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="1476,543,1509,531,1523,522,1533,512,1543,502,1557,492,1572,485,1574,490,1560,497,1546,506,1537,516,1527,526,1512,536,1477,548"/>
-<area shape="rect" id="Node000015" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a558c1ff0222422d4e670d1a2e2676fbd.html#a558c1ff0222422d4e670d1a2e2676fbd" title=" " alt="" coords="1559,507,1785,547"/>
-<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="1506,543,1545,539,1545,544,1506,549"/>
-<area shape="rect" id="Node000016" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_aa9f339e6a6d6051c715ed0166cba1d40.html#aa9f339e6a6d6051c715ed0166cba1d40" title=" " alt="" coords="1559,571,1785,611"/>
-<area shape="poly" id="edge16_Node000012_Node000016" title=" " alt="" coords="1506,569,1545,573,1545,579,1506,574"/>
-<area shape="poly" id="edge20_Node000019_Node000011" title=" " alt="" coords="953,221,1009,233,1291,288,1289,293,1007,239,951,227"/>
-<area shape="poly" id="edge31_Node000024_Node000009" title=" " alt="" coords="877,577,930,517,966,484,1007,456,1019,450,1022,454,1009,461,970,489,934,521,881,580"/>
-<area shape="poly" id="edge28_Node000024_Node000010" title=" " alt="" coords="956,601,1019,600,1089,595,1163,583,1234,564,1248,557,1257,549,1281,532,1302,524,1304,529,1284,537,1261,554,1251,562,1236,569,1164,589,1090,600,1019,605,956,606"/>
-<area shape="poly" id="edge33_Node000024_Node000012" title=" " alt="" coords="956,612,1018,619,1088,624,1162,623,1234,615,1299,597,1356,574,1358,579,1301,602,1235,620,1162,628,1088,629,1018,625,955,617"/>
-<area shape="poly" id="edge34_Node000024_Node000017" title=" " alt="" coords="868,577,886,536,915,485,955,433,980,411,1007,392,1041,376,1078,364,1153,351,1228,349,1295,353,1295,359,1228,354,1154,356,1079,369,1043,381,1009,397,983,415,959,437,920,488,891,539,873,579"/>
-<area shape="poly" id="edge35_Node000024_Node000018" title=" " alt="" coords="952,576,1008,564,1073,555,1125,553,1175,545,1202,536,1233,520,1248,508,1257,495,1266,481,1281,467,1292,461,1295,466,1284,472,1270,484,1261,498,1252,512,1236,525,1204,541,1176,551,1126,558,1073,561,1008,569,953,581"/>
-<area shape="rect" id="Node000025" href="$df/dd3/classTerraria_1_1ModLoader_1_1ModPrefix_a1cd220918c0e5eaebc3f06c473efa2d4.html#a1cd220918c0e5eaebc3f06c473efa2d4" title="Returns if your ModPrefix can roll on the given item By default returns RollChance(item) &gt; 0." alt="" coords="1012,687,1231,727"/>
-<area shape="poly" id="edge29_Node000024_Node000025" title=" " alt="" coords="903,616,1009,666,1046,680,1044,685,1007,670,901,621"/>
-<area shape="rect" id="Node000027" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a1d7ba55c1cba9007d0b08c348f833dbf.html#a1d7ba55c1cba9007d0b08c348f833dbf" title=" " alt="" coords="1008,471,1235,511"/>
-<area shape="poly" id="edge32_Node000024_Node000027" title=" " alt="" coords="901,576,1007,527,1044,513,1046,518,1009,532,903,581"/>
-<area shape="rect" id="Node000026" href="$df/dd3/classTerraria_1_1ModLoader_1_1ModPrefix_a81746b2b0f4ecf604ff2132f66c88764.html#a81746b2b0f4ecf604ff2132f66c88764" title="The roll chance of your prefix relative to a vanilla prefix, 1f by default." alt="" coords="1287,687,1506,727"/>
-<area shape="poly" id="edge30_Node000025_Node000026" title=" " alt="" coords="1231,704,1274,704,1274,709,1231,709"/>
-<area shape="poly" id="edge37_Node000028_Node000024" title=" " alt="" coords="685,602,755,600,755,605,685,608"/>
-<area shape="poly" id="edge41_Node000030_Node000030" title=" " alt="" coords="295,421,287,411,291,401,307,395,333,393,365,397,378,406,374,410,363,401,333,398,308,400,295,405,292,410,299,417"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,295,192,335"/>
+<area shape="rect" id="Node000002" href="$db/d79/classTerraria_1_1Item_a4928326c0c5a324286cf922203704666.html#a4928326c0c5a324286cf922203704666" title="Attempts to apply a prefix to this T:Terraria.Item." alt="" coords="259,265,406,290"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,297,246,288,246,294,193,302"/>
+<area shape="rect" id="Node000027" href="$db/d79/classTerraria_1_1Item_adb2554f9d394eca69180ff503efd10d9.html#adb2554f9d394eca69180ff503efd10d9" title=" " alt="" coords="240,338,425,363"/>
+<area shape="poly" id="edge37_Node000001_Node000027" title=" " alt="" coords="193,326,237,333,236,339,192,332"/>
+<area shape="rect" id="Node000003" href="$db/d79/classTerraria_1_1Item_acb7535bd6f08545ed2a8789e8e58806e.html#acb7535bd6f08545ed2a8789e8e58806e" title=" " alt="" coords="473,5,716,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,264,353,225,381,170,421,112,445,85,472,62,493,49,495,53,475,66,449,89,425,116,386,173,358,227,341,266"/>
+<area shape="rect" id="Node000004" href="$db/d79/classTerraria_1_1Item_adeda6f25b214cb18a2e1c01f41258907.html#adeda6f25b214cb18a2e1c01f41258907" title="Determines if this T:Terraria.Item can receive the given prefix." alt="" coords="491,185,699,210"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="368,262,473,227,529,211,530,216,474,232,370,267"/>
+<area shape="rect" id="Node000006" href="$db/d79/classTerraria_1_1Item_a82e4553f73aa1d4d904612f715e8b1ae.html#a82e4553f73aa1d4d904612f715e8b1ae" title="Determines if this T:Terraria.Item can receive prefixes." alt="" coords="1012,134,1231,159"/>
+<area shape="poly" id="edge20_Node000002_Node000006" title=" " alt="" coords="340,263,359,235,389,198,427,161,472,132,551,103,634,87,719,80,802,82,881,90,954,102,1067,128,1066,133,953,107,881,95,802,87,719,86,635,92,552,108,475,137,431,166,393,202,364,238,344,266"/>
+<area shape="rect" id="Node000010" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_a01aac0b28e66afbe3928a5dfc094bc6a.html#a01aac0b28e66afbe3928a5dfc094bc6a" title="Returns the ModPrefix associated with specified type If not a ModPrefix, returns null." alt="" coords="1303,221,1490,261"/>
+<area shape="poly" id="edge21_Node000002_Node000010" title=" " alt="" coords="406,272,1289,242,1289,248,406,278"/>
+<area shape="rect" id="Node000018" href="$db/d79/classTerraria_1_1Item_a3392834269c06d8b751cdbe78841f581.html#a3392834269c06d8b751cdbe78841f581" title=" " alt="" coords="768,120,956,160"/>
+<area shape="poly" id="edge35_Node000002_Node000018" title=" " alt="" coords="344,263,396,216,432,191,472,171,544,150,618,138,689,132,754,131,754,136,690,137,618,143,545,155,474,176,435,195,400,220,348,267"/>
+<area shape="rect" id="Node000019" href="$d4/d81/classTerraria_1_1ModLoader_1_1RarityLoader_ac996d25eacaf9a39bb744bb49f0b3a7e.html#ac996d25eacaf9a39bb744bb49f0b3a7e" title=" " alt="" coords="500,285,689,325"/>
+<area shape="poly" id="edge22_Node000002_Node000019" title=" " alt="" coords="407,282,486,291,486,296,406,288"/>
+<area shape="rect" id="Node000020" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a1e4d9aac17cd087ce704c421a8b72a8f.html#a1e4d9aac17cd087ce704c421a8b72a8f" title="Allows for blocking, forcing and altering chance of prefix rolling. False (block) takes precedence ov..." alt="" coords="481,349,708,389"/>
+<area shape="poly" id="edge23_Node000002_Node000020" title=" " alt="" coords="393,288,427,300,451,318,475,335,492,342,490,347,472,340,448,322,424,305,391,293"/>
+<area shape="rect" id="Node000021" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_a04ac69b65fa901258e32fa63cd64ee4f.html#a04ac69b65fa901258e32fa63cd64ee4f" title=" " alt="" coords="769,457,955,497"/>
+<area shape="poly" id="edge24_Node000002_Node000021" title=" " alt="" coords="406,288,427,301,439,313,446,326,451,352,457,377,464,388,475,399,507,409,578,423,756,456,755,462,577,429,506,414,472,404,460,391,452,379,446,353,441,328,434,316,424,305,403,292"/>
+<area shape="rect" id="Node000025" href="$db/d79/classTerraria_1_1Item_adc259619fe8b796c9c7141a28feead1d.html#adc259619fe8b796c9c7141a28feead1d" title=" " alt="" coords="505,465,685,490"/>
+<area shape="poly" id="edge33_Node000002_Node000025" title=" " alt="" coords="407,288,427,301,442,319,449,337,452,374,455,410,462,427,475,443,494,457,491,461,472,447,457,429,449,411,447,374,444,339,437,321,424,305,405,292"/>
+<area shape="rect" id="Node000026" href="$db/d79/classTerraria_1_1Item_a6031bc64d98e4270a0bc8ab058fce7ff.html#a6031bc64d98e4270a0bc8ab058fce7ff" title=" " alt="" coords="475,515,715,555"/>
+<area shape="poly" id="edge36_Node000002_Node000026" title=" " alt="" coords="408,287,427,301,445,326,453,352,454,378,452,403,450,428,450,453,458,477,475,501,479,504,475,508,471,504,453,479,445,454,444,428,447,403,449,378,448,353,441,329,423,305,405,291"/>
+<area shape="rect" id="Node000005" href="$db/d79/classTerraria_1_1Item_a42afcdb7f69d685eae11fbbd9f651b37.html#a42afcdb7f69d685eae11fbbd9f651b37" title="Determines if this T:Terraria.Item can roll the given prefix." alt="" coords="764,185,960,210"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="699,195,750,195,750,200,699,200"/>
+<area shape="poly" id="edge18_Node000004_Node000018" title=" " alt="" coords="654,182,754,160,755,166,655,187"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="928,182,1042,159,1043,165,929,187"/>
+<area shape="rect" id="Node000008" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_a4e817b21048b965e62edcfb24b63e518.html#a4e817b21048b965e62edcfb24b63e518" title=" " alt="" coords="1028,336,1215,376"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="885,208,1077,326,1074,331,883,212"/>
+<area shape="rect" id="Node000007" href="$db/d79/classTerraria_1_1Item_ae7df936950051e88d47a93d634266207.html#ae7df936950051e88d47a93d634266207" title="Determines if this T:Terraria.Item is an accessory that can receive prefixes." alt="" coords="1575,243,1769,283"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1231,157,1365,177,1511,207,1606,236,1604,241,1510,212,1365,182,1230,162"/>
+<area shape="rect" id="Node000009" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_af2b5b6dfec0b10be27ae73b24f1a4a03.html#af2b5b6dfec0b10be27ae73b24f1a4a03" title=" " alt="" coords="1283,413,1510,453"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1194,373,1312,407,1311,412,1193,379"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1155,334,1214,302,1282,271,1303,263,1305,268,1284,276,1216,307,1158,338"/>
+<area shape="rect" id="Node000011" href="$db/d79/classTerraria_1_1Item_a9d237943edd9c0f7fc8f06031d6cf5f1.html#a9d237943edd9c0f7fc8f06031d6cf5f1" title="Determines the T:Terraria.ModLoader.PrefixCategory of this T:Terraria.Item." alt="" coords="1283,478,1511,503"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1216,374,1236,386,1253,406,1261,426,1268,445,1284,463,1295,470,1293,475,1281,467,1264,448,1256,428,1249,408,1233,390,1213,378"/>
+<area shape="rect" id="Node000016" href="$db/d79/classTerraria_1_1Item_ab94d29d64f93b8c12f2daeb8be976d5e.html#ab94d29d64f93b8c12f2daeb8be976d5e" title="Gets the vanilla prefixes for the given T:Terraria.ModLoader.PrefixCategory." alt="" coords="1309,285,1485,325"/>
+<area shape="poly" id="edge16_Node000008_Node000016" title=" " alt="" coords="1214,336,1295,321,1296,327,1215,341"/>
+<area shape="rect" id="Node000017" href="$de/d91/classTerraria_1_1ModLoader_1_1PrefixLoader_ad36bd3164fcc4f2d8837aeb276e85e1d.html#ad36bd3164fcc4f2d8837aeb276e85e1d" title=" " alt="" coords="1289,349,1504,389"/>
+<area shape="poly" id="edge17_Node000008_Node000017" title=" " alt="" coords="1215,358,1275,361,1275,366,1215,363"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="1488,476,1509,463,1528,440,1536,417,1541,390,1556,361,1592,322,1629,289,1633,293,1596,326,1561,364,1547,392,1541,418,1533,443,1512,467,1491,480"/>
+<area shape="rect" id="Node000012" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_ac45dd0256a81d39dd9b8ae3d8e26dc27.html#ac45dd0256a81d39dd9b8ae3d8e26dc27" title=" " alt="" coords="1559,567,1785,607"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1428,501,1560,552,1584,560,1582,565,1558,557,1426,506"/>
+<area shape="rect" id="Node000013" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a76f677b558832a8e0ca6593cdcb37766.html#a76f677b558832a8e0ca6593cdcb37766" title=" " alt="" coords="1559,375,1785,415"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="1476,475,1509,463,1523,454,1533,444,1543,434,1557,424,1572,417,1574,422,1560,429,1546,438,1537,448,1527,458,1512,468,1477,480"/>
+<area shape="rect" id="Node000014" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a558c1ff0222422d4e670d1a2e2676fbd.html#a558c1ff0222422d4e670d1a2e2676fbd" title=" " alt="" coords="1559,439,1785,479"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="1506,475,1545,471,1545,476,1506,481"/>
+<area shape="rect" id="Node000015" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_aa9f339e6a6d6051c715ed0166cba1d40.html#aa9f339e6a6d6051c715ed0166cba1d40" title=" " alt="" coords="1559,503,1785,543"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="1506,501,1545,505,1545,511,1506,506"/>
+<area shape="poly" id="edge19_Node000018_Node000010" title=" " alt="" coords="952,157,1009,169,1290,221,1289,226,1007,175,951,163"/>
+<area shape="poly" id="edge28_Node000021_Node000008" title=" " alt="" coords="889,455,942,420,1007,386,1025,378,1027,383,1009,390,945,425,892,459"/>
+<area shape="poly" id="edge25_Node000021_Node000009" title=" " alt="" coords="952,495,1015,504,1086,509,1161,507,1234,493,1248,488,1258,480,1281,464,1304,455,1306,460,1284,469,1261,485,1250,492,1235,499,1162,512,1086,514,1014,509,951,500"/>
+<area shape="poly" id="edge30_Node000021_Node000011" title=" " alt="" coords="896,495,947,522,1009,544,1071,556,1121,559,1171,554,1234,544,1298,528,1354,506,1356,511,1300,533,1235,549,1171,560,1121,564,1071,561,1007,549,945,527,893,500"/>
+<area shape="poly" id="edge31_Node000021_Node000016" title=" " alt="" coords="873,456,894,424,924,387,962,350,1007,322,1042,308,1079,297,1155,286,1229,284,1295,288,1295,293,1229,289,1155,291,1080,303,1044,313,1009,326,965,354,928,390,898,428,877,459"/>
+<area shape="poly" id="edge32_Node000021_Node000017" title=" " alt="" coords="955,486,1020,489,1091,486,1164,474,1233,450,1248,439,1257,426,1266,412,1281,399,1293,393,1296,397,1284,404,1270,416,1261,429,1252,443,1236,454,1165,479,1092,491,1020,494,955,492"/>
+<area shape="rect" id="Node000022" href="$df/dd3/classTerraria_1_1ModLoader_1_1ModPrefix_a1cd220918c0e5eaebc3f06c473efa2d4.html#a1cd220918c0e5eaebc3f06c473efa2d4" title="Returns if your ModPrefix can roll on the given item By default returns RollChance(item) &gt; 0." alt="" coords="1012,616,1231,656"/>
+<area shape="poly" id="edge26_Node000021_Node000022" title=" " alt="" coords="884,495,938,545,973,571,1009,595,1038,609,1035,613,1007,600,970,576,935,549,881,499"/>
+<area shape="rect" id="Node000024" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a1d7ba55c1cba9007d0b08c348f833dbf.html#a1d7ba55c1cba9007d0b08c348f833dbf" title=" " alt="" coords="1008,400,1235,440"/>
+<area shape="poly" id="edge29_Node000021_Node000024" title=" " alt="" coords="953,455,1017,440,1018,446,954,460"/>
+<area shape="rect" id="Node000023" href="$df/dd3/classTerraria_1_1ModLoader_1_1ModPrefix_a81746b2b0f4ecf604ff2132f66c88764.html#a81746b2b0f4ecf604ff2132f66c88764" title="The roll chance of your prefix relative to a vanilla prefix, 1f by default." alt="" coords="1287,616,1506,656"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="1231,633,1274,633,1274,639,1231,639"/>
+<area shape="poly" id="edge34_Node000025_Node000021" title=" " alt="" coords="685,475,755,475,755,480,685,480"/>
+<area shape="poly" id="edge38_Node000027_Node000027" title=" " alt="" coords="295,340,287,330,291,320,307,314,333,311,365,315,378,325,374,329,363,320,333,317,308,319,295,324,292,329,299,336"/>
 </map>

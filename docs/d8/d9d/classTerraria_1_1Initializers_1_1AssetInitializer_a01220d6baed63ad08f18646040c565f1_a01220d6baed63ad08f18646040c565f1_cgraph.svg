@@ -58,9 +58,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="137,-229 0,-229 0,-199 137,-199 137,-229"/>
-<text text-anchor="start" x="8" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Initializers.Asset</text>
-<text text-anchor="middle" x="68.5" y="-206" font-family="Helvetica,sans-Serif" font-size="10.00">Initializer.LoadTextures</text>
+<polygon fill="#999999" stroke="#666666" points="137,-270 0,-270 0,-240 137,-240 137,-270"/>
+<text text-anchor="start" x="8" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Initializers.Asset</text>
+<text text-anchor="middle" x="68.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">Initializer.LoadTextures</text>
 </a>
 </g>
 </g>
@@ -78,17 +78,18 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M104.57,-229.1C124.43,-237.35 149.86,-247.4 173,-255 179.47,-257.12 186.24,-259.19 193.04,-261.17"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="192.43,-264.63 203.01,-263.99 194.34,-257.9 192.43,-264.63"/>
+<path fill="none" stroke="#63b8ff" d="M137.25,-263.36C152.36,-265.22 168.52,-267.22 184.07,-269.14"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="183.83,-272.63 194.18,-270.38 184.68,-265.69 183.83,-272.63"/>
 </a>
 </g>
 </g>
 <!-- Node17 -->
 <g id="Node000017" class="node">
 <title>Node17</title>
-<g id="a_Node000017"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a31b7ae090cc5a61a6ec3d0d101eb91db.html#a31b7ae090cc5a61a6ec3d0d101eb91db" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="347,-245.5 183,-245.5 183,-226.5 347,-226.5 347,-245.5"/>
-<text text-anchor="middle" x="265" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.LoadBackground</text>
+<g id="a_Node000017"><a xlink:href="../../d6/d14/classTerraria_1_1ModLoader_1_1UI_1_1UICommon_ab0bacc1b4dc9630c9739496e45a864ac.html#ab0bacc1b4dc9630c9739496e45a864ac" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="357,-246 173,-246 173,-216 357,-216 357,-246"/>
+<text text-anchor="start" x="181" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.UI.UICommon.</text>
+<text text-anchor="middle" x="265" y="-223" font-family="Helvetica,sans-Serif" font-size="10.00">LoadTextures</text>
 </a>
 </g>
 </g>
@@ -96,46 +97,8 @@ var sectionId = 'dynsection-0';
 <g id="edge37_Node000001_Node000017" class="edge">
 <title>Node1&#45;&gt;Node17</title>
 <g id="a_edge37_Node000001_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M137.25,-221.66C148.73,-222.96 160.81,-224.33 172.77,-225.68"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="172.45,-229.17 182.78,-226.81 173.23,-222.21 172.45,-229.17"/>
-</a>
-</g>
-</g>
-<!-- Node18 -->
-<g id="Node000018" class="node">
-<title>Node18</title>
-<g id="a_Node000018"><a xlink:href="../../d4/de6/classTerraria_1_1WaterfallManager_a6b3060a3a34064a304aa74fd52211c24.html#a6b3060a3a34064a304aa74fd52211c24" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="338,-208 192,-208 192,-178 338,-178 338,-208"/>
-<text text-anchor="start" x="200" y="-196" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WaterfallManager.</text>
-<text text-anchor="middle" x="265" y="-185" font-family="Helvetica,sans-Serif" font-size="10.00">LoadContent</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node18 -->
-<g id="edge38_Node000001_Node000018" class="edge">
-<title>Node1&#45;&gt;Node18</title>
-<g id="a_edge38_Node000001_Node000018"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M137.25,-206.68C151.6,-205.14 166.88,-203.49 181.69,-201.89"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="182.29,-205.34 191.86,-200.79 181.54,-198.38 182.29,-205.34"/>
-</a>
-</g>
-</g>
-<!-- Node19 -->
-<g id="Node000019" class="node">
-<title>Node19</title>
-<g id="a_Node000019"><a xlink:href="../../d6/d14/classTerraria_1_1ModLoader_1_1UI_1_1UICommon_ab0bacc1b4dc9630c9739496e45a864ac.html#ab0bacc1b4dc9630c9739496e45a864ac" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="357,-160 173,-160 173,-130 357,-130 357,-160"/>
-<text text-anchor="start" x="181" y="-148" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.UI.UICommon.</text>
-<text text-anchor="middle" x="265" y="-137" font-family="Helvetica,sans-Serif" font-size="10.00">LoadTextures</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node19 -->
-<g id="edge39_Node000001_Node000019" class="edge">
-<title>Node1&#45;&gt;Node19</title>
-<g id="a_edge39_Node000001_Node000019"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M100.71,-198.95C121,-189.53 148.2,-177.61 173,-169 179.22,-166.84 185.74,-164.77 192.31,-162.8"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="193.31,-166.16 201.94,-160.01 191.36,-159.44 193.31,-166.16"/>
+<path fill="none" stroke="#63b8ff" d="M137.25,-246.64C145.53,-245.62 154.12,-244.56 162.75,-243.49"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="163.39,-246.94 172.88,-242.24 162.53,-239.99 163.39,-246.94"/>
 </a>
 </g>
 </g>

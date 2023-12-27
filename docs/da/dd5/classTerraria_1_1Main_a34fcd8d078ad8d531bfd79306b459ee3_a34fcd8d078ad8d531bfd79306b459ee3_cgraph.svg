@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 1160;
+var viewWidth = 956;
 var viewHeight = 470;
 var sectionId = 'dynsection-0';
 </script>
@@ -58,8 +58,8 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="140,-247.5 0,-247.5 0,-228.5 140,-228.5 140,-247.5"/>
-<text text-anchor="middle" x="70" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.LoadWorlds</text>
+<polygon fill="#999999" stroke="#666666" points="140,-271.5 0,-271.5 0,-252.5 140,-252.5 140,-271.5"/>
+<text text-anchor="middle" x="70" y="-259.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.LoadWorlds</text>
 </a>
 </g>
 </g>
@@ -67,9 +67,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d5/d02/classTerraria_1_1IO_1_1WorldFileData_ac9e9c5f2b76bf877cc7ea44170df8daa.html#ac9e9c5f2b76bf877cc7ea44170df8daa" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="518,-382 377,-382 377,-352 518,-352 518,-382"/>
-<text text-anchor="start" x="385" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.WorldFileData.</text>
-<text text-anchor="middle" x="447.5" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">FromInvalidWorld</text>
+<polygon fill="white" stroke="#666666" points="515,-382 374,-382 374,-352 515,-352 515,-382"/>
+<text text-anchor="start" x="382" y="-370" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.WorldFileData.</text>
+<text text-anchor="middle" x="444.5" y="-359" font-family="Helvetica,sans-Serif" font-size="10.00">FromInvalidWorld</text>
 </a>
 </g>
 </g>
@@ -77,8 +77,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M81.78,-247.58C99.9,-263.15 138.2,-293.82 176,-310 237.27,-336.22 311.65,-350.77 366.9,-358.59"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="366.61,-362.08 376.99,-359.97 367.56,-355.14 366.61,-362.08"/>
+<path fill="none" stroke="#63b8ff" d="M88.72,-271.56C109.22,-282.27 144.22,-299.49 176,-310 237.73,-330.41 309.95,-345.3 363.78,-354.73"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="363.5,-358.23 373.95,-356.48 364.69,-351.33 363.5,-358.23"/>
 </a>
 </g>
 </g>
@@ -86,9 +86,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000006" class="node">
 <title>Node6</title>
 <g id="a_Node000006"><a xlink:href="../../d7/d54/classTerraria_1_1IO_1_1WorldFile_ac5b0f068a1648832a68ea1f973e75acb.html#ac5b0f068a1648832a68ea1f973e75acb" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="319,-301 184,-301 184,-271 319,-271 319,-301"/>
-<text text-anchor="start" x="192" y="-289" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.WorldFile.Get</text>
-<text text-anchor="middle" x="251.5" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">AllMetadata</text>
+<polygon fill="white" stroke="#666666" points="317.5,-301 182.5,-301 182.5,-271 317.5,-271 317.5,-301"/>
+<text text-anchor="start" x="190.5" y="-289" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.WorldFile.Get</text>
+<text text-anchor="middle" x="250" y="-278" font-family="Helvetica,sans-Serif" font-size="10.00">AllMetadata</text>
 </a>
 </g>
 </g>
@@ -96,65 +96,46 @@ var sectionId = 'dynsection-0';
 <g id="edge5_Node000001_Node000006" class="edge">
 <title>Node1&#45;&gt;Node6</title>
 <g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M106.89,-247.6C129.03,-253.52 158.1,-261.29 184.29,-268.3"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="183.61,-271.73 194.17,-270.94 185.41,-264.97 183.61,-271.73"/>
+<path fill="none" stroke="#63b8ff" d="M140.07,-271.31C150.59,-272.73 161.5,-274.2 172.17,-275.64"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="171.92,-279.14 182.3,-277.01 172.86,-272.2 171.92,-279.14"/>
 </a>
 </g>
 </g>
-<!-- Node18 -->
-<g id="Node000018" class="node">
-<title>Node18</title>
-<g id="a_Node000018"><a xlink:href="../../dd/d0d/classTerraria_1_1Social_1_1Steam_1_1CloudSocialModule_a592d24768b76750b7f23c86c9bec6d0e.html#a592d24768b76750b7f23c86c9bec6d0e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="327,-253 176,-253 176,-223 327,-223 327,-253"/>
-<text text-anchor="start" x="184" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Social.Steam.Cloud</text>
-<text text-anchor="middle" x="251.5" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00">SocialModule.GetFiles</text>
+<!-- Node17 -->
+<g id="Node000017" class="node">
+<title>Node17</title>
+<g id="a_Node000017"><a xlink:href="../../d1/d9c/classTerraria_1_1Utils_a20ff544f864fec62df413e995a9ca414.html#a20ff544f864fec62df413e995a9ca414" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="318.5,-253 181.5,-253 181.5,-223 318.5,-223 318.5,-253"/>
+<text text-anchor="start" x="189.5" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utils.TryCreating</text>
+<text text-anchor="middle" x="250" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00">Directory</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node18 -->
-<g id="edge20_Node000001_Node000018" class="edge">
-<title>Node1&#45;&gt;Node18</title>
-<g id="a_edge20_Node000001_Node000018"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M140.14,-238C148.52,-238 157.15,-238 165.72,-238"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="165.73,-241.5 175.73,-238 165.73,-234.5 165.73,-241.5"/>
+<!-- Node1&#45;&gt;Node17 -->
+<g id="edge19_Node000001_Node000017" class="edge">
+<title>Node1&#45;&gt;Node17</title>
+<g id="a_edge19_Node000001_Node000017"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M140.07,-252.69C150.37,-251.3 161.04,-249.86 171.49,-248.45"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="171.99,-251.92 181.43,-247.11 171.05,-244.98 171.99,-251.92"/>
 </a>
 </g>
 </g>
-<!-- Node19 -->
-<g id="Node000019" class="node">
-<title>Node19</title>
-<g id="a_Node000019"><a xlink:href="../../d1/d9c/classTerraria_1_1Utils_a20ff544f864fec62df413e995a9ca414.html#a20ff544f864fec62df413e995a9ca414" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="320,-205 183,-205 183,-175 320,-175 320,-205"/>
-<text text-anchor="start" x="191" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utils.TryCreating</text>
-<text text-anchor="middle" x="251.5" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">Directory</text>
+<!-- Node23 -->
+<g id="Node000023" class="node">
+<title>Node23</title>
+<g id="a_Node000023"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a1bd48c38c9a0848bdca1710df907386d.html#a1bd48c38c9a0848bdca1710df907386d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="324,-205 176,-205 176,-175 324,-175 324,-205"/>
+<text text-anchor="start" x="184" y="-193" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.WorldListSort</text>
+<text text-anchor="middle" x="250" y="-182" font-family="Helvetica,sans-Serif" font-size="10.00">Method</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node19 -->
-<g id="edge21_Node000001_Node000019" class="edge">
-<title>Node1&#45;&gt;Node19</title>
-<g id="a_edge21_Node000001_Node000019"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M106.89,-228.4C129.03,-222.48 158.1,-214.71 184.29,-207.7"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="185.41,-211.03 194.17,-205.06 183.61,-204.27 185.41,-211.03"/>
-</a>
-</g>
-</g>
-<!-- Node26 -->
-<g id="Node000026" class="node">
-<title>Node26</title>
-<g id="a_Node000026"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a1bd48c38c9a0848bdca1710df907386d.html#a1bd48c38c9a0848bdca1710df907386d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="325.5,-157 177.5,-157 177.5,-127 325.5,-127 325.5,-157"/>
-<text text-anchor="start" x="185.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.WorldListSort</text>
-<text text-anchor="middle" x="251.5" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">Method</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node26 -->
-<g id="edge28_Node000001_Node000026" class="edge">
-<title>Node1&#45;&gt;Node26</title>
-<g id="a_edge28_Node000001_Node000026"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M82.58,-228.37C101.22,-213.28 139.49,-183.92 176,-166 179.77,-164.15 183.72,-162.39 187.75,-160.74"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="189.18,-163.94 197.25,-157.06 186.66,-157.41 189.18,-163.94"/>
+<!-- Node1&#45;&gt;Node23 -->
+<g id="edge25_Node000001_Node000023" class="edge">
+<title>Node1&#45;&gt;Node23</title>
+<g id="a_edge25_Node000001_Node000023"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M90.46,-252.31C111.33,-242.11 145.58,-225.91 176,-214 180.77,-212.13 185.75,-210.29 190.77,-208.49"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="192.14,-211.72 200.43,-205.13 189.84,-205.11 192.14,-211.72"/>
 </a>
 </g>
 </g>
@@ -162,9 +143,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d5/d02/classTerraria_1_1IO_1_1WorldFileData_acb534f34de8eb0a8a47ebdb0f808e4ba.html#acb534f34de8eb0a8a47ebdb0f808e4ba" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="728,-462 587,-462 587,-432 728,-432 728,-462"/>
-<text text-anchor="start" x="595" y="-450" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.WorldFileData.</text>
-<text text-anchor="middle" x="657.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">WorldFileData</text>
+<polygon fill="white" stroke="#666666" points="725,-462 584,-462 584,-432 725,-432 725,-462"/>
+<text text-anchor="start" x="592" y="-450" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.WorldFileData.</text>
+<text text-anchor="middle" x="654.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">WorldFileData</text>
 </a>
 </g>
 </g>
@@ -172,8 +153,8 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M476.88,-382.01C500.73,-394.2 535.95,-411.25 568,-423 573.79,-425.12 579.85,-427.15 585.97,-429.07"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="585.02,-432.44 595.6,-431.98 587.04,-425.74 585.02,-432.44"/>
+<path fill="none" stroke="#63b8ff" d="M473.88,-382.01C497.73,-394.2 532.95,-411.25 565,-423 570.79,-425.12 576.85,-427.15 582.97,-429.07"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="582.02,-432.44 592.6,-431.98 584.04,-425.74 582.02,-432.44"/>
 </a>
 </g>
 </g>
@@ -181,9 +162,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="../../d3/d37/classTerraria_1_1IO_1_1FileMetadata_ae463bcf339fec8c9ba5305cf3546fc2e.html#ae463bcf339fec8c9ba5305cf3546fc2e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="726,-366 589,-366 589,-336 726,-336 726,-366"/>
-<text text-anchor="start" x="597" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.FileMetadata.</text>
-<text text-anchor="middle" x="657.5" y="-343" font-family="Helvetica,sans-Serif" font-size="10.00">FromCurrentSettings</text>
+<polygon fill="white" stroke="#666666" points="723,-366 586,-366 586,-336 723,-336 723,-366"/>
+<text text-anchor="start" x="594" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.FileMetadata.</text>
+<text text-anchor="middle" x="654.5" y="-343" font-family="Helvetica,sans-Serif" font-size="10.00">FromCurrentSettings</text>
 </a>
 </g>
 </g>
@@ -191,8 +172,8 @@ var sectionId = 'dynsection-0';
 <g id="edge3_Node000002_Node000004" class="edge">
 <title>Node2&#45;&gt;Node4</title>
 <g id="a_edge3_Node000002_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M518.05,-361.65C537.55,-360.15 558.87,-358.51 578.81,-356.98"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="579.08,-360.47 588.78,-356.21 578.54,-353.49 579.08,-360.47"/>
+<path fill="none" stroke="#63b8ff" d="M515.05,-361.65C534.55,-360.15 555.87,-358.51 575.81,-356.98"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="576.08,-360.47 585.78,-356.21 575.54,-353.49 576.08,-360.47"/>
 </a>
 </g>
 </g>
@@ -200,9 +181,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000005" class="node">
 <title>Node5</title>
 <g id="a_Node000005"><a xlink:href="../../d7/de3/classTerraria_1_1Utilities_1_1FileUtilities_a4c0f86660bbeb26a11824c3763c96ab4.html#a4c0f86660bbeb26a11824c3763c96ab4" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="735.5,-414 579.5,-414 579.5,-384 735.5,-384 735.5,-414"/>
-<text text-anchor="start" x="587.5" y="-402" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.FileUtilities.</text>
-<text text-anchor="middle" x="657.5" y="-391" font-family="Helvetica,sans-Serif" font-size="10.00">GetFileName</text>
+<polygon fill="white" stroke="#666666" points="732.5,-414 576.5,-414 576.5,-384 732.5,-384 732.5,-414"/>
+<text text-anchor="start" x="584.5" y="-402" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.FileUtilities.</text>
+<text text-anchor="middle" x="654.5" y="-391" font-family="Helvetica,sans-Serif" font-size="10.00">GetFileName</text>
 </a>
 </g>
 </g>
@@ -210,26 +191,26 @@ var sectionId = 'dynsection-0';
 <g id="edge4_Node000002_Node000005" class="edge">
 <title>Node2&#45;&gt;Node5</title>
 <g id="a_edge4_Node000002_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M518.05,-377.7C534.54,-380.24 552.33,-382.97 569.48,-385.61"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="569.08,-389.09 579.49,-387.15 570.14,-382.17 569.08,-389.09"/>
+<path fill="none" stroke="#63b8ff" d="M515.05,-377.7C531.54,-380.24 549.33,-382.97 566.48,-385.61"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="566.08,-389.09 576.49,-387.15 567.14,-382.17 566.08,-389.09"/>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node2 -->
-<g id="edge9_Node000006_Node000002" class="edge">
+<g id="edge8_Node000006_Node000002" class="edge">
 <title>Node6&#45;&gt;Node2</title>
-<g id="a_edge9_Node000006_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M282.6,-301.22C304.61,-312.09 335.32,-326.72 363,-338 371.86,-341.61 381.36,-345.18 390.65,-348.52"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="389.64,-351.88 400.24,-351.91 391.97,-345.28 389.64,-351.88"/>
+<g id="a_edge8_Node000006_Node000002"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M280.21,-301.02C301.93,-311.93 332.46,-326.69 360,-338 368.85,-341.63 378.34,-345.22 387.64,-348.56"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="386.62,-351.92 397.22,-351.95 388.96,-345.32 386.62,-351.92"/>
 </a>
 </g>
 </g>
 <!-- Node6&#45;&gt;Node4 -->
-<g id="edge8_Node000006_Node000004" class="edge">
+<g id="edge7_Node000006_Node000004" class="edge">
 <title>Node6&#45;&gt;Node4</title>
-<g id="a_edge8_Node000006_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M319.09,-297.61C333.56,-300.09 348.79,-302.66 363,-305 436.13,-317.02 519.63,-330.04 578.82,-339.15"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="578.43,-342.63 588.84,-340.69 579.49,-335.71 578.43,-342.63"/>
+<g id="a_edge7_Node000006_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M317.55,-297.79C331.56,-300.22 346.26,-302.73 360,-305 433.11,-317.1 516.62,-330.11 575.81,-339.19"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="575.42,-342.68 585.83,-340.73 576.48,-335.76 575.42,-342.68"/>
 </a>
 </g>
 </g>
@@ -237,9 +218,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000007" class="node">
 <title>Node7</title>
 <g id="a_Node000007"><a xlink:href="../../d7/de3/classTerraria_1_1Utilities_1_1FileUtilities_a1318d2df19d01621c5c09d6ba2201cde.html#a1318d2df19d01621c5c09d6ba2201cde" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="735.5,-174 579.5,-174 579.5,-144 735.5,-144 735.5,-174"/>
-<text text-anchor="start" x="587.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.FileUtilities.</text>
-<text text-anchor="middle" x="657.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">Exists</text>
+<polygon fill="white" stroke="#666666" points="732.5,-174 576.5,-174 576.5,-144 732.5,-144 732.5,-174"/>
+<text text-anchor="start" x="584.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.FileUtilities.</text>
+<text text-anchor="middle" x="654.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">Exists</text>
 </a>
 </g>
 </g>
@@ -247,102 +228,121 @@ var sectionId = 'dynsection-0';
 <g id="edge6_Node000006_Node000007" class="edge">
 <title>Node6&#45;&gt;Node7</title>
 <g id="a_edge6_Node000006_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M313.05,-270.83C318.02,-268.32 322.76,-265.4 327,-262 351.58,-242.34 336.84,-218.51 363,-201 423.48,-160.52 506.67,-151.94 569.05,-152.37"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="569.21,-155.88 579.26,-152.53 569.31,-148.88 569.21,-155.88"/>
-</a>
-</g>
-</g>
-<!-- Node9 -->
-<g id="Node000009" class="node">
-<title>Node9</title>
-<g id="a_Node000009"><a xlink:href="../../d3/d37/classTerraria_1_1IO_1_1FileMetadata_a9984595acf2b9ed3a8fea4819823e1dd.html#a9984595acf2b9ed3a8fea4819823e1dd" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="528,-295.5 367,-295.5 367,-276.5 528,-276.5 528,-295.5"/>
-<text text-anchor="middle" x="447.5" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.FileMetadata.Read</text>
-</a>
-</g>
-</g>
-<!-- Node6&#45;&gt;Node9 -->
-<g id="edge10_Node000006_Node000009" class="edge">
-<title>Node6&#45;&gt;Node9</title>
-<g id="a_edge10_Node000006_Node000009"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M319.26,-286C331.37,-286 344.18,-286 356.82,-286"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="356.9,-289.5 366.9,-286 356.9,-282.5 356.9,-289.5"/>
-</a>
-</g>
-</g>
-<!-- Node11 -->
-<g id="Node000011" class="node">
-<title>Node11</title>
-<g id="a_Node000011"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a5a0bed96c14ad225f7b88aa6dbb545ae.html#a5a0bed96c14ad225f7b88aa6dbb545ae" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="524.5,-240 370.5,-240 370.5,-210 524.5,-210 524.5,-240"/>
-<text text-anchor="start" x="378.5" y="-228" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
-<text text-anchor="middle" x="447.5" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">IO.ReadWorldHeader</text>
-</a>
-</g>
-</g>
-<!-- Node6&#45;&gt;Node11 -->
-<g id="edge12_Node000006_Node000011" class="edge">
-<title>Node6&#45;&gt;Node11</title>
-<g id="a_edge12_Node000006_Node000011"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M300.46,-270.92C327.25,-262.49 360.83,-251.94 389.03,-243.07"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="390.27,-246.35 398.76,-240.01 388.17,-239.67 390.27,-246.35"/>
+<path fill="none" stroke="#63b8ff" d="M309,-270.97C314.32,-268.42 319.42,-265.45 324,-262 346.74,-244.86 336.05,-224.4 360,-209 421.36,-169.54 504.28,-158.4 566.33,-156.34"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="566.59,-159.83 576.49,-156.07 566.4,-152.83 566.59,-159.83"/>
 </a>
 </g>
 </g>
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="../../dd/d0d/classTerraria_1_1Social_1_1Steam_1_1CloudSocialModule_ae099ea2f6cd2a6e7ea8b34d57cd95e8f.html#ae099ea2f6cd2a6e7ea8b34d57cd95e8f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="942.5,-174 791.5,-174 791.5,-144 942.5,-144 942.5,-174"/>
-<text text-anchor="start" x="799.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Social.Steam.Cloud</text>
-<text text-anchor="middle" x="867" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">SocialModule.HasFile</text>
+<g id="a_Node000008"><a xlink:href="../../d3/d37/classTerraria_1_1IO_1_1FileMetadata_a9984595acf2b9ed3a8fea4819823e1dd.html#a9984595acf2b9ed3a8fea4819823e1dd" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="525,-295.5 364,-295.5 364,-276.5 525,-276.5 525,-295.5"/>
+<text text-anchor="middle" x="444.5" y="-283.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.FileMetadata.Read</text>
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node8 -->
-<g id="edge7_Node000007_Node000008" class="edge">
-<title>Node7&#45;&gt;Node8</title>
-<g id="a_edge7_Node000007_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M735.77,-159C750.56,-159 766.12,-159 781.13,-159"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="781.43,-162.5 791.43,-159 781.43,-155.5 781.43,-162.5"/>
+<!-- Node6&#45;&gt;Node8 -->
+<g id="edge9_Node000006_Node000008" class="edge">
+<title>Node6&#45;&gt;Node8</title>
+<g id="a_edge9_Node000006_Node000008"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M317.52,-286C329.15,-286 341.42,-286 353.56,-286"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="353.71,-289.5 363.71,-286 353.71,-282.5 353.71,-289.5"/>
 </a>
 </g>
 </g>
 <!-- Node10 -->
 <g id="Node000010" class="node">
 <title>Node10</title>
-<g id="a_Node000010"><a xlink:href="../../d3/d37/classTerraria_1_1IO_1_1FileMetadata_adf2572c0f04347bbdc3d6bbb32dd3e29.html#adf2572c0f04347bbdc3d6bbb32dd3e29" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="726,-318 589,-318 589,-288 726,-288 726,-318"/>
-<text text-anchor="start" x="597" y="-306" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.FileMetadata.</text>
-<text text-anchor="middle" x="657.5" y="-295" font-family="Helvetica,sans-Serif" font-size="10.00">FileMetadata</text>
+<g id="a_Node000010"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a5a0bed96c14ad225f7b88aa6dbb545ae.html#a5a0bed96c14ad225f7b88aa6dbb545ae" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="521.5,-248 367.5,-248 367.5,-218 521.5,-218 521.5,-248"/>
+<text text-anchor="start" x="375.5" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
+<text text-anchor="middle" x="444.5" y="-225" font-family="Helvetica,sans-Serif" font-size="10.00">IO.ReadWorldHeader</text>
 </a>
 </g>
 </g>
-<!-- Node9&#45;&gt;Node10 -->
-<g id="edge11_Node000009_Node000010" class="edge">
-<title>Node9&#45;&gt;Node10</title>
-<g id="a_edge11_Node000009_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M528.03,-292.5C544.65,-293.86 562.15,-295.29 578.71,-296.64"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="578.63,-300.15 588.88,-297.47 579.2,-293.17 578.63,-300.15"/>
+<!-- Node6&#45;&gt;Node10 -->
+<g id="edge11_Node000006_Node000010" class="edge">
+<title>Node6&#45;&gt;Node10</title>
+<g id="a_edge11_Node000006_Node000010"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M305.65,-270.95C328.51,-264.66 355.25,-257.3 379.06,-250.74"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="380,-254.11 388.72,-248.08 378.15,-247.36 380,-254.11"/>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node7 -->
-<g id="edge13_Node000011_Node000007" class="edge">
-<title>Node11&#45;&gt;Node7</title>
-<g id="a_edge13_Node000011_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M488.91,-209.97C511.95,-201.61 541.44,-191.26 568,-183 574.79,-180.89 581.91,-178.78 589.03,-176.74"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="590.05,-180.1 598.72,-174.01 588.15,-173.36 590.05,-180.1"/>
+<!-- Node9 -->
+<g id="Node000009" class="node">
+<title>Node9</title>
+<g id="a_Node000009"><a xlink:href="../../d3/d37/classTerraria_1_1IO_1_1FileMetadata_adf2572c0f04347bbdc3d6bbb32dd3e29.html#adf2572c0f04347bbdc3d6bbb32dd3e29" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="723,-318 586,-318 586,-288 723,-288 723,-318"/>
+<text text-anchor="start" x="594" y="-306" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.IO.FileMetadata.</text>
+<text text-anchor="middle" x="654.5" y="-295" font-family="Helvetica,sans-Serif" font-size="10.00">FileMetadata</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node9 -->
+<g id="edge10_Node000008_Node000009" class="edge">
+<title>Node8&#45;&gt;Node9</title>
+<g id="a_edge10_Node000008_Node000009"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M525.03,-292.5C541.65,-293.86 559.15,-295.29 575.71,-296.64"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="575.63,-300.15 585.88,-297.47 576.2,-293.17 575.63,-300.15"/>
+</a>
+</g>
+</g>
+<!-- Node10&#45;&gt;Node7 -->
+<g id="edge12_Node000010_Node000007" class="edge">
+<title>Node10&#45;&gt;Node7</title>
+<g id="a_edge12_Node000010_Node000007"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M478.27,-217.91C502.04,-207.31 535.11,-193.26 565,-183 571.03,-180.93 577.33,-178.92 583.69,-177.01"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="585.06,-180.25 593.67,-174.08 583.09,-173.53 585.06,-180.25"/>
+</a>
+</g>
+</g>
+<!-- Node11 -->
+<g id="Node000011" class="node">
+<title>Node11</title>
+<g id="a_Node000011"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a226b0a1a4c5b243450d0ee8b5cf247d8.html#a226b0a1a4c5b243450d0ee8b5cf247d8" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="731.5,-270 577.5,-270 577.5,-240 731.5,-240 731.5,-270"/>
+<text text-anchor="start" x="585.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
+<text text-anchor="middle" x="654.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadWorldHeader</text>
+</a>
+</g>
+</g>
+<!-- Node10&#45;&gt;Node11 -->
+<g id="edge13_Node000010_Node000011" class="edge">
+<title>Node10&#45;&gt;Node11</title>
+<g id="a_edge13_Node000010_Node000011"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M521.77,-241.07C536.47,-242.62 551.96,-244.26 566.95,-245.85"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="566.93,-249.36 577.24,-246.93 567.66,-242.4 566.93,-249.36"/>
+</a>
+</g>
+</g>
+<!-- Node16 -->
+<g id="Node000016" class="node">
+<title>Node16</title>
+<g id="a_Node000016"><a xlink:href="../../d8/da7/classTerraria_1_1ModLoader_1_1IO_1_1TagIO_a5bc1b2b6404bb4572bb321da431baaba.html#a5bc1b2b6404bb4572bb321da431baaba" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="726,-222 583,-222 583,-192 726,-192 726,-222"/>
+<text text-anchor="start" x="591" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.Tag</text>
+<text text-anchor="middle" x="654.5" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">IO.ReadTagImpl</text>
+</a>
+</g>
+</g>
+<!-- Node10&#45;&gt;Node16 -->
+<g id="edge18_Node000010_Node000016" class="edge">
+<title>Node10&#45;&gt;Node16</title>
+<g id="a_edge18_Node000010_Node000016"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M521.77,-223.47C538.29,-221.4 555.81,-219.21 572.5,-217.13"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="573.27,-220.56 582.76,-215.84 572.41,-213.61 573.27,-220.56"/>
 </a>
 </g>
 </g>
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a226b0a1a4c5b243450d0ee8b5cf247d8.html#a226b0a1a4c5b243450d0ee8b5cf247d8" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="734.5,-270 580.5,-270 580.5,-240 734.5,-240 734.5,-270"/>
-<text text-anchor="start" x="588.5" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
-<text text-anchor="middle" x="657.5" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadWorldHeader</text>
+<g id="a_Node000012"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a4e3ff0f7ef83e68893d194671de16a3d.html#a4e3ff0f7ef83e68893d194671de16a3d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="941,-294 787,-294 787,-264 941,-264 941,-294"/>
+<text text-anchor="start" x="795" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
+<text text-anchor="middle" x="864" y="-271" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadGeneratedWithMods</text>
 </a>
 </g>
 </g>
@@ -350,217 +350,160 @@ var sectionId = 'dynsection-0';
 <g id="edge14_Node000011_Node000012" class="edge">
 <title>Node11&#45;&gt;Node12</title>
 <g id="a_edge14_Node000011_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M524.77,-236C539.47,-238.12 554.96,-240.35 569.95,-242.52"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="569.84,-246.04 580.24,-244 570.84,-239.11 569.84,-246.04"/>
-</a>
-</g>
-</g>
-<!-- Node17 -->
-<g id="Node000017" class="node">
-<title>Node17</title>
-<g id="a_Node000017"><a xlink:href="../../d8/da7/classTerraria_1_1ModLoader_1_1IO_1_1TagIO_a5bc1b2b6404bb4572bb321da431baaba.html#a5bc1b2b6404bb4572bb321da431baaba" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="729,-222 586,-222 586,-192 729,-192 729,-222"/>
-<text text-anchor="start" x="594" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.Tag</text>
-<text text-anchor="middle" x="657.5" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">IO.ReadTagImpl</text>
-</a>
-</g>
-</g>
-<!-- Node11&#45;&gt;Node17 -->
-<g id="edge19_Node000011_Node000017" class="edge">
-<title>Node11&#45;&gt;Node17</title>
-<g id="a_edge19_Node000011_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M524.77,-218.4C541.29,-216.97 558.81,-215.45 575.5,-214.01"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="576.1,-217.47 585.76,-213.12 575.5,-210.5 576.1,-217.47"/>
+<path fill="none" stroke="#63b8ff" d="M731.59,-263.8C746.25,-265.5 761.7,-267.28 776.66,-269.01"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="776.59,-272.53 786.92,-270.2 777.39,-265.57 776.59,-272.53"/>
 </a>
 </g>
 </g>
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a4e3ff0f7ef83e68893d194671de16a3d.html#a4e3ff0f7ef83e68893d194671de16a3d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="944,-270 790,-270 790,-240 944,-240 944,-270"/>
-<text text-anchor="start" x="798" y="-258" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
-<text text-anchor="middle" x="867" y="-247" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadGeneratedWithMods</text>
+<g id="a_Node000013"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_abe1075115a426866fd38e42adaf9c211.html#abe1075115a426866fd38e42adaf9c211" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="941,-246 787,-246 787,-216 941,-216 941,-246"/>
+<text text-anchor="start" x="795" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
+<text text-anchor="middle" x="864" y="-223" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadModHeaders</text>
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node13 -->
-<g id="edge15_Node000012_Node000013" class="edge">
-<title>Node12&#45;&gt;Node13</title>
-<g id="a_edge15_Node000012_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M734.59,-255C749.25,-255 764.7,-255 779.66,-255"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="779.92,-258.5 789.92,-255 779.92,-251.5 779.92,-258.5"/>
+<!-- Node11&#45;&gt;Node13 -->
+<g id="edge15_Node000011_Node000013" class="edge">
+<title>Node11&#45;&gt;Node13</title>
+<g id="a_edge15_Node000011_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M731.59,-246.2C746.25,-244.5 761.7,-242.72 776.66,-240.99"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="777.39,-244.43 786.92,-239.8 776.59,-237.47 777.39,-244.43"/>
 </a>
 </g>
 </g>
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_abe1075115a426866fd38e42adaf9c211.html#abe1075115a426866fd38e42adaf9c211" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="944,-222 790,-222 790,-192 944,-192 944,-222"/>
-<text text-anchor="start" x="798" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
-<text text-anchor="middle" x="867" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadModHeaders</text>
+<g id="a_Node000014"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a3cf7b4f7cfbf4e51536b060b7924992d.html#a3cf7b4f7cfbf4e51536b060b7924992d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="941,-198 787,-198 787,-168 941,-168 941,-198"/>
+<text text-anchor="start" x="795" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
+<text text-anchor="middle" x="864" y="-175" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadUsedModPack</text>
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node14 -->
-<g id="edge16_Node000012_Node000014" class="edge">
-<title>Node12&#45;&gt;Node14</title>
-<g id="a_edge16_Node000012_Node000014"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M723.58,-239.94C745.02,-234.99 769.03,-229.43 791.14,-224.32"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="792.19,-227.67 801.15,-222 790.61,-220.85 792.19,-227.67"/>
+<!-- Node11&#45;&gt;Node14 -->
+<g id="edge16_Node000011_Node000014" class="edge">
+<title>Node11&#45;&gt;Node14</title>
+<g id="a_edge16_Node000011_Node000014"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M720.64,-239.94C728.65,-237.33 736.61,-234.36 744,-231 761.51,-223.05 762.56,-215.1 780,-207 784.28,-205.01 788.76,-203.15 793.33,-201.41"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="794.57,-204.69 802.8,-198.02 792.21,-198.1 794.57,-204.69"/>
 </a>
 </g>
 </g>
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a3cf7b4f7cfbf4e51536b060b7924992d.html#a3cf7b4f7cfbf4e51536b060b7924992d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="944,-366 790,-366 790,-336 944,-336 944,-366"/>
-<text text-anchor="start" x="798" y="-354" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
-<text text-anchor="middle" x="867" y="-343" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadUsedModPack</text>
+<g id="a_Node000015"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a4c17667d50608c0131c1b6e8b24ed0d6.html#a4c17667d50608c0131c1b6e8b24ed0d6" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="941,-342 787,-342 787,-312 941,-312 941,-342"/>
+<text text-anchor="start" x="795" y="-330" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
+<text text-anchor="middle" x="864" y="-319" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadUsedMods</text>
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node15 -->
-<g id="edge17_Node000012_Node000015" class="edge">
-<title>Node12&#45;&gt;Node15</title>
-<g id="a_edge17_Node000012_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M730.84,-270.18C736.52,-272.69 741.99,-275.6 747,-279 769.07,-293.97 761.06,-311.85 783,-327 785.16,-328.49 787.41,-329.89 789.73,-331.21"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="788.48,-334.49 798.99,-335.86 791.63,-328.24 788.48,-334.49"/>
+<!-- Node11&#45;&gt;Node15 -->
+<g id="edge17_Node000011_Node000015" class="edge">
+<title>Node11&#45;&gt;Node15</title>
+<g id="a_edge17_Node000011_Node000015"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M720.64,-270.06C728.65,-272.67 736.61,-275.64 744,-279 761.51,-286.95 762.56,-294.9 780,-303 784.28,-304.99 788.76,-306.85 793.33,-308.59"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="792.21,-311.9 802.8,-311.98 794.57,-305.31 792.21,-311.9"/>
 </a>
 </g>
 </g>
-<!-- Node16 -->
-<g id="Node000016" class="node">
-<title>Node16</title>
-<g id="a_Node000016"><a xlink:href="../../d3/d8e/classTerraria_1_1ModLoader_1_1IO_1_1WorldIO_a4c17667d50608c0131c1b6e8b24ed0d6.html#a4c17667d50608c0131c1b6e8b24ed0d6" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="944,-318 790,-318 790,-288 944,-288 944,-318"/>
-<text text-anchor="start" x="798" y="-306" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.IO.World</text>
-<text text-anchor="middle" x="867" y="-295" font-family="Helvetica,sans-Serif" font-size="10.00">IO.LoadUsedMods</text>
+<!-- Node18 -->
+<g id="Node000018" class="node">
+<title>Node18</title>
+<g id="a_Node000018"><a xlink:href="../../dd/df7/classTerraria_1_1UI_1_1FancyErrorPrinter_ae0115236331d295adbc1e781728728f7.html#ae0115236331d295adbc1e781728728f7" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="529,-102 360,-102 360,-72 529,-72 529,-102"/>
+<text text-anchor="start" x="368" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.FancyErrorPrinter.</text>
+<text text-anchor="middle" x="444.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">ShowDirectoryCreationFailError</text>
 </a>
 </g>
 </g>
-<!-- Node12&#45;&gt;Node16 -->
-<g id="edge18_Node000012_Node000016" class="edge">
-<title>Node12&#45;&gt;Node16</title>
-<g id="a_edge18_Node000012_Node000016"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M723.58,-270.06C745.02,-275.01 769.03,-280.57 791.14,-285.68"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="790.61,-289.15 801.15,-288 792.19,-282.33 790.61,-289.15"/>
+<!-- Node17&#45;&gt;Node18 -->
+<g id="edge20_Node000017_Node000018" class="edge">
+<title>Node17&#45;&gt;Node18</title>
+<g id="a_edge20_Node000017_Node000018"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M309.4,-222.84C314.58,-220.32 319.54,-217.39 324,-214 346.96,-196.54 340.98,-181.68 360,-160 376.7,-140.97 398.27,-122.23 415.31,-108.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="417.61,-111.15 423.26,-102.19 413.25,-105.66 417.61,-111.15"/>
+</a>
+</g>
+</g>
+<!-- Node19 -->
+<g id="Node000019" class="node">
+<title>Node19</title>
+<g id="a_Node000019"><a xlink:href="../../dd/df7/classTerraria_1_1UI_1_1FancyErrorPrinter_a6c9b4482b0b7da9f344d2576854450f9.html#a6c9b4482b0b7da9f344d2576854450f9" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="732,-78 577,-78 577,-48 732,-48 732,-78"/>
+<text text-anchor="start" x="585" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.FancyErrorPrinter.</text>
+<text text-anchor="middle" x="654.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">AppendSuggestions</text>
+</a>
+</g>
+</g>
+<!-- Node18&#45;&gt;Node19 -->
+<g id="edge21_Node000018_Node000019" class="edge">
+<title>Node18&#45;&gt;Node19</title>
+<g id="a_edge21_Node000018_Node000019"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M529.2,-77.34C541.46,-75.93 554.11,-74.47 566.44,-73.05"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="567.16,-76.49 576.7,-71.86 566.36,-69.53 567.16,-76.49"/>
 </a>
 </g>
 </g>
 <!-- Node20 -->
 <g id="Node000020" class="node">
 <title>Node20</title>
-<g id="a_Node000020"><a xlink:href="../../dd/df7/classTerraria_1_1UI_1_1FancyErrorPrinter_ae0115236331d295adbc1e781728728f7.html#ae0115236331d295adbc1e781728728f7" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="532,-102 363,-102 363,-72 532,-72 532,-102"/>
-<text text-anchor="start" x="371" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.FancyErrorPrinter.</text>
-<text text-anchor="middle" x="447.5" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">ShowDirectoryCreationFailError</text>
+<g id="a_Node000020"><a xlink:href="../../dd/df7/classTerraria_1_1UI_1_1FancyErrorPrinter_a72a828c72dcd7b6c59a0cfc10196389e.html#a72a828c72dcd7b6c59a0cfc10196389e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="732,-30 577,-30 577,0 732,0 732,-30"/>
+<text text-anchor="start" x="585" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.FancyErrorPrinter.</text>
+<text text-anchor="middle" x="654.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">IncludeOriginalMessage</text>
 </a>
 </g>
 </g>
-<!-- Node19&#45;&gt;Node20 -->
-<g id="edge22_Node000019_Node000020" class="edge">
-<title>Node19&#45;&gt;Node20</title>
-<g id="a_edge22_Node000019_Node000020"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M305.31,-174.98C312.72,-172.3 320.14,-169.3 327,-166 360.54,-149.88 395.7,-125.62 419.12,-108.24"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="421.3,-110.98 427.2,-102.17 417.1,-105.38 421.3,-110.98"/>
+<!-- Node18&#45;&gt;Node20 -->
+<g id="edge22_Node000018_Node000020" class="edge">
+<title>Node18&#45;&gt;Node20</title>
+<g id="a_edge22_Node000018_Node000020"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M479.87,-71.95C503.54,-61.89 535.85,-48.77 565,-39 571.29,-36.89 577.87,-34.84 584.49,-32.87"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="585.55,-36.2 594.18,-30.06 583.6,-29.48 585.55,-36.2"/>
 </a>
 </g>
 </g>
 <!-- Node21 -->
 <g id="Node000021" class="node">
 <title>Node21</title>
-<g id="a_Node000021"><a xlink:href="../../dd/df7/classTerraria_1_1UI_1_1FancyErrorPrinter_a6c9b4482b0b7da9f344d2576854450f9.html#a6c9b4482b0b7da9f344d2576854450f9" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="735,-78 580,-78 580,-48 735,-48 735,-78"/>
-<text text-anchor="start" x="588" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.FancyErrorPrinter.</text>
-<text text-anchor="middle" x="657.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">AppendSuggestions</text>
+<g id="a_Node000021"><a xlink:href="../../d1/d0a/classTerraria_1_1ModLoader_1_1Engine_1_1ErrorReporting_abb9f3a04bc7c754a30dcf9b345b4e8c2.html#abb9f3a04bc7c754a30dcf9b345b4e8c2" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="744,-126 565,-126 565,-96 744,-96 744,-126"/>
+<text text-anchor="start" x="573" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.Engine.</text>
+<text text-anchor="middle" x="654.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">ErrorReporting.MessageBoxShow</text>
 </a>
 </g>
 </g>
-<!-- Node20&#45;&gt;Node21 -->
-<g id="edge23_Node000020_Node000021" class="edge">
-<title>Node20&#45;&gt;Node21</title>
-<g id="a_edge23_Node000020_Node000021"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M532.2,-77.34C544.46,-75.93 557.11,-74.47 569.44,-73.05"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="570.16,-76.49 579.7,-71.86 569.36,-69.53 570.16,-76.49"/>
+<!-- Node18&#45;&gt;Node21 -->
+<g id="edge23_Node000018_Node000021" class="edge">
+<title>Node18&#45;&gt;Node21</title>
+<g id="a_edge23_Node000018_Node000021"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M529.2,-96.66C537.64,-97.63 546.26,-98.63 554.84,-99.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="554.53,-103.1 564.87,-100.77 555.34,-96.15 554.53,-103.1"/>
 </a>
 </g>
 </g>
 <!-- Node22 -->
 <g id="Node000022" class="node">
 <title>Node22</title>
-<g id="a_Node000022"><a xlink:href="../../dd/df7/classTerraria_1_1UI_1_1FancyErrorPrinter_a72a828c72dcd7b6c59a0cfc10196389e.html#a72a828c72dcd7b6c59a0cfc10196389e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="735,-30 580,-30 580,0 735,0 735,-30"/>
-<text text-anchor="start" x="588" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.FancyErrorPrinter.</text>
-<text text-anchor="middle" x="657.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">IncludeOriginalMessage</text>
+<g id="a_Node000022"><a xlink:href="../../d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" target="_top" xlink:title="Retrieves the text value for a specified localization key. The text returned will be for the currentl...">
+<polygon fill="white" stroke="#666666" points="948,-126 780,-126 780,-96 948,-96 948,-126"/>
+<text text-anchor="start" x="788" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language.</text>
+<text text-anchor="middle" x="864" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">GetTextValue</text>
 </a>
 </g>
 </g>
-<!-- Node20&#45;&gt;Node22 -->
-<g id="edge24_Node000020_Node000022" class="edge">
-<title>Node20&#45;&gt;Node22</title>
-<g id="a_edge24_Node000020_Node000022"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M482.87,-71.95C506.54,-61.89 538.85,-48.77 568,-39 574.29,-36.89 580.87,-34.84 587.49,-32.87"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="588.55,-36.2 597.18,-30.06 586.6,-29.48 588.55,-36.2"/>
-</a>
-</g>
-</g>
-<!-- Node23 -->
-<g id="Node000023" class="node">
-<title>Node23</title>
-<g id="a_Node000023"><a xlink:href="../../d1/d0a/classTerraria_1_1ModLoader_1_1Engine_1_1ErrorReporting_abb9f3a04bc7c754a30dcf9b345b4e8c2.html#abb9f3a04bc7c754a30dcf9b345b4e8c2" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="747,-126 568,-126 568,-96 747,-96 747,-126"/>
-<text text-anchor="start" x="576" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.Engine.</text>
-<text text-anchor="middle" x="657.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">ErrorReporting.MessageBoxShow</text>
-</a>
-</g>
-</g>
-<!-- Node20&#45;&gt;Node23 -->
-<g id="edge25_Node000020_Node000023" class="edge">
-<title>Node20&#45;&gt;Node23</title>
-<g id="a_edge25_Node000020_Node000023"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M532.2,-96.66C540.64,-97.63 549.26,-98.63 557.84,-99.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="557.53,-103.1 567.87,-100.77 558.34,-96.15 557.53,-103.1"/>
-</a>
-</g>
-</g>
-<!-- Node24 -->
-<g id="Node000024" class="node">
-<title>Node24</title>
-<g id="a_Node000024"><a xlink:href="../../d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" target="_top" xlink:title="Retrieves the text value for a specified localization key. The text returned will be for the currentl...">
-<polygon fill="white" stroke="#666666" points="951,-126 783,-126 783,-96 951,-96 951,-126"/>
-<text text-anchor="start" x="791" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language.</text>
-<text text-anchor="middle" x="867" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">GetTextValue</text>
-</a>
-</g>
-</g>
-<!-- Node23&#45;&gt;Node24 -->
-<g id="edge26_Node000023_Node000024" class="edge">
-<title>Node23&#45;&gt;Node24</title>
-<g id="a_edge26_Node000023_Node000024"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M747.1,-111C755.65,-111 764.34,-111 772.93,-111"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="772.96,-114.5 782.96,-111 772.96,-107.5 772.96,-114.5"/>
-</a>
-</g>
-</g>
-<!-- Node25 -->
-<g id="Node000025" class="node">
-<title>Node25</title>
-<g id="a_Node000025"><a xlink:href="../../d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a9f1901e50105d9873d2fdf8816e122de.html#a9f1901e50105d9873d2fdf8816e122de" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1152,-126 987,-126 987,-96 1152,-96 1152,-126"/>
-<text text-anchor="start" x="995" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language</text>
-<text text-anchor="middle" x="1069.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">Manager.GetTextValue</text>
-</a>
-</g>
-</g>
-<!-- Node24&#45;&gt;Node25 -->
-<g id="edge27_Node000024_Node000025" class="edge">
-<title>Node24&#45;&gt;Node25</title>
-<g id="a_edge27_Node000024_Node000025"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M951.29,-111C959.63,-111 968.12,-111 976.54,-111"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="976.76,-114.5 986.76,-111 976.76,-107.5 976.76,-114.5"/>
+<!-- Node21&#45;&gt;Node22 -->
+<g id="edge24_Node000021_Node000022" class="edge">
+<title>Node21&#45;&gt;Node22</title>
+<g id="a_edge24_Node000021_Node000022"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M744.1,-111C752.65,-111 761.34,-111 769.93,-111"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="769.96,-114.5 779.96,-111 769.96,-107.5 769.96,-114.5"/>
 </a>
 </g>
 </g>

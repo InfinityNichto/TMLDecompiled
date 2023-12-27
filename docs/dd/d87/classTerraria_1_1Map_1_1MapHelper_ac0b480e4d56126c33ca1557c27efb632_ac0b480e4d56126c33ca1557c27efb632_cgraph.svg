@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 782;
+var viewWidth = 581;
 var viewHeight = 134;
 var sectionId = 'dynsection-0';
 </script>
@@ -100,13 +100,32 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node5 -->
-<g id="Node000005" class="node">
-<title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../dd/d87/classTerraria_1_1Map_1_1MapHelper_acf5bd96ba77abd45baa7b66ad36a77a2.html#acf5bd96ba77abd45baa7b66ad36a77a2" target="_top" xlink:title=" ">
+<!-- Node4 -->
+<g id="Node000004" class="node">
+<title>Node4</title>
+<g id="a_Node000004"><a xlink:href="../../dd/d87/classTerraria_1_1Map_1_1MapHelper_acf5bd96ba77abd45baa7b66ad36a77a2.html#acf5bd96ba77abd45baa7b66ad36a77a2" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="573,-78 403,-78 403,-48 573,-48 573,-78"/>
 <text text-anchor="start" x="411" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Map.MapHelper.Lookup</text>
 <text text-anchor="middle" x="488" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Count</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node4 -->
+<g id="edge3_Node000002_Node000004" class="edge">
+<title>Node2&#45;&gt;Node4</title>
+<g id="a_edge3_Node000002_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M367.09,-63C375.5,-63 384.15,-63 392.77,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="392.84,-66.5 402.84,-63 392.84,-59.5 392.84,-66.5"/>
+</a>
+</g>
+</g>
+<!-- Node5 -->
+<g id="Node000005" class="node">
+<title>Node5</title>
+<g id="a_Node000005"><a xlink:href="../../dd/d87/classTerraria_1_1Map_1_1MapHelper_a5b539fdf8b93609ea228844c47a46b45.html#a5b539fdf8b93609ea228844c47a46b45" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="565,-30 411,-30 411,0 565,0 565,-30"/>
+<text text-anchor="start" x="419" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Map.MapHelper.Tile</text>
+<text text-anchor="middle" x="488" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">ToLookup</text>
 </a>
 </g>
 </g>
@@ -114,46 +133,8 @@ var sectionId = 'dynsection-0';
 <g id="edge4_Node000002_Node000005" class="edge">
 <title>Node2&#45;&gt;Node5</title>
 <g id="a_edge4_Node000002_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M367.09,-63C375.5,-63 384.15,-63 392.77,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="392.84,-66.5 402.84,-63 392.84,-59.5 392.84,-66.5"/>
-</a>
-</g>
-</g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../dd/d87/classTerraria_1_1Map_1_1MapHelper_a5b539fdf8b93609ea228844c47a46b45.html#a5b539fdf8b93609ea228844c47a46b45" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="565,-30 411,-30 411,0 565,0 565,-30"/>
-<text text-anchor="start" x="419" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Map.MapHelper.Tile</text>
-<text text-anchor="middle" x="488" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">ToLookup</text>
-</a>
-</g>
-</g>
-<!-- Node2&#45;&gt;Node6 -->
-<g id="edge5_Node000002_Node000006" class="edge">
-<title>Node2&#45;&gt;Node6</title>
-<g id="a_edge5_Node000002_Node000006"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M330.59,-53.4C354.91,-47.43 386.92,-39.57 415.65,-32.52"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="416.77,-35.85 425.65,-30.06 415.1,-29.05 416.77,-35.85"/>
-</a>
-</g>
-</g>
-<!-- Node4 -->
-<g id="Node000004" class="node">
-<title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d8/d74/classTerraria_1_1Localization_1_1LanguageManager_ad292c2b15ad9179331427a23cc8c4e8c.html#ad292c2b15ad9179331427a23cc8c4e8c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="774,-126 609,-126 609,-96 774,-96 774,-126"/>
-<text text-anchor="start" x="617" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language</text>
-<text text-anchor="middle" x="691.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">Manager.GetText</text>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge3_Node000003_Node000004" class="edge">
-<title>Node3&#45;&gt;Node4</title>
-<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M572.12,-111C580.94,-111 589.95,-111 598.86,-111"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="598.87,-114.5 608.87,-111 598.87,-107.5 598.87,-114.5"/>
 </a>
 </g>
 </g>

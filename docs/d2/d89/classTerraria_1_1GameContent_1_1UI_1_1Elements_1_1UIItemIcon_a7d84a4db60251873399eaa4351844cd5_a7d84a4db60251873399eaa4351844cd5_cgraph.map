@@ -1,25 +1,21 @@
 <map id="Terraria.GameContent.UI.Elements.UIItemIcon.DrawSelf" name="Terraria.GameContent.UI.Elements.UIItemIcon.DrawSelf">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,227,237"/>
-<area shape="rect" id="Node000002" href="$d6/d3a/structTerraria_1_1UI_1_1CalculatedStyle_aa4526da68e51833be2cb9cc9de21f57a.html#aa4526da68e51833be2cb9cc9de21f57a" title=" " alt="" coords="275,133,473,173"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,195,279,174,280,179,198,200"/>
-<area shape="rect" id="Node000003" href="$dd/de1/classTerraria_1_1UI_1_1ItemSlot_a45a586f4dd5604746ed74c152f549824.html#a45a586f4dd5604746ed74c152f549824" title=" " alt="" coords="281,197,467,237"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,215,267,215,267,220,227,220"/>
-<area shape="rect" id="Node000013" href="$d7/d72/classTerraria_1_1UI_1_1UIElement_abeb7b32927c9b86a4b1a4139e45ac6a5.html#abeb7b32927c9b86a4b1a4139e45ac6a5" title=" " alt="" coords="280,261,468,301"/>
-<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="198,235,280,255,279,261,197,240"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,140,227,180"/>
+<area shape="rect" id="Node000002" href="$d6/d3a/structTerraria_1_1UI_1_1CalculatedStyle_aa4526da68e51833be2cb9cc9de21f57a.html#aa4526da68e51833be2cb9cc9de21f57a" title=" " alt="" coords="275,76,473,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,137,279,117,280,122,198,143"/>
+<area shape="rect" id="Node000003" href="$dd/de1/classTerraria_1_1UI_1_1ItemSlot_a45a586f4dd5604746ed74c152f549824.html#a45a586f4dd5604746ed74c152f549824" title=" " alt="" coords="281,140,467,180"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,157,267,157,267,163,227,163"/>
+<area shape="rect" id="Node000011" href="$d7/d72/classTerraria_1_1UI_1_1UIElement_abeb7b32927c9b86a4b1a4139e45ac6a5.html#abeb7b32927c9b86a4b1a4139e45ac6a5" title=" " alt="" coords="280,204,468,244"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="198,177,280,198,279,203,197,183"/>
 <area shape="rect" id="Node000004" href="$dd/de1/classTerraria_1_1UI_1_1ItemSlot_a7f52fbb7c294ef27c1bf3f9e8c19d80d.html#a7f52fbb7c294ef27c1bf3f9e8c19d80d" title=" " alt="" coords="541,31,728,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,195,472,183,482,172,489,160,495,135,501,110,508,97,520,85,532,75,535,80,523,89,512,100,506,112,500,137,494,162,487,175,475,187,457,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="447,138,472,126,486,116,495,105,505,95,520,84,543,73,545,78,523,89,509,99,499,109,489,120,475,130,449,142"/>
 <area shape="rect" id="Node000006" href="$db/d79/classTerraria_1_1Item_a7a54705bddb84216623c46fe6483a1fe.html#a7a54705bddb84216623c46fe6483a1fe" title=" " alt="" coords="550,98,719,123"/>
-<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="449,195,472,183,486,171,495,159,504,146,520,134,537,126,539,130,523,138,508,150,499,162,490,175,475,188,451,200"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="467,140,553,123,554,129,468,145"/>
 <area shape="rect" id="Node000008" href="$db/d79/classTerraria_1_1Item_a114fe7f8c312f04075ac86bb487d6a8f.html#a114fe7f8c312f04075ac86bb487d6a8f" title=" " alt="" coords="551,147,718,173"/>
-<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="465,195,562,173,563,178,466,200"/>
-<area shape="rect" id="Node000009" href="$da/df1/classTerraria_1_1DataStructures_1_1DrawAnimation_aaecbd6fe193a44a8b7b5825de307f736.html#aaecbd6fe193a44a8b7b5825de307f736" title=" " alt="" coords="539,197,730,237"/>
-<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="467,215,525,215,525,220,467,220"/>
-<area shape="rect" id="Node000010" href="$da/dd5/classTerraria_1_1Main_a4ee28e48ce0d95212be5c3f6fdc8a61f.html#a4ee28e48ce0d95212be5c3f6fdc8a61f" title=" " alt="" coords="549,262,721,287"/>
-<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="466,235,563,256,562,262,465,240"/>
-<area shape="rect" id="Node000011" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_ab2ef0e90963e4742da4d9e22ff84eb04.html#ab2ef0e90963e4742da4d9e22ff84eb04" title="Calls ModItem.PostDrawInInventory, then all GlobalItem.PostDrawInInventory hooks." alt="" coords="521,312,748,352"/>
-<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="452,235,475,247,490,260,499,273,508,286,523,298,534,304,532,309,520,302,504,289,495,276,486,264,472,252,449,240"/>
-<area shape="rect" id="Node000012" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a018da03012891a8467efe2f4307c39a5.html#a018da03012891a8467efe2f4307c39a5" title="Returns the &quot;and&quot; operator on the results of all GlobalItem.PreDrawInInventory hooks and ModItem...." alt="" coords="521,376,748,416"/>
-<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="458,235,475,247,488,262,495,277,500,307,505,335,511,349,523,362,529,366,525,371,519,366,507,352,500,337,494,307,490,279,483,265,472,251,455,240"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="467,157,538,157,538,163,467,163"/>
+<area shape="rect" id="Node000009" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_ab2ef0e90963e4742da4d9e22ff84eb04.html#ab2ef0e90963e4742da4d9e22ff84eb04" title="Calls ModItem.PostDrawInInventory, then all GlobalItem.PostDrawInInventory hooks." alt="" coords="521,197,748,237"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="466,177,531,192,529,197,465,183"/>
+<area shape="rect" id="Node000010" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a018da03012891a8467efe2f4307c39a5.html#a018da03012891a8467efe2f4307c39a5" title="Returns the &quot;and&quot; operator on the results of all GlobalItem.PreDrawInInventory hooks and ModItem...." alt="" coords="521,261,748,301"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="453,178,475,190,491,205,499,219,508,234,523,247,533,253,530,258,520,251,504,237,495,222,486,208,472,194,450,183"/>
 <area shape="rect" id="Node000005" href="$dd/de1/classTerraria_1_1UI_1_1ItemSlot_ab38dcce846205d551f4265bdda836155.html#ab38dcce846205d551f4265bdda836155" title=" " alt="" coords="822,29,997,69"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="728,48,808,47,808,52,728,53"/>
 <area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="859,30,855,20,864,10,882,5,909,3,941,5,958,13,956,18,940,11,909,8,883,10,866,15,861,21,864,28"/>

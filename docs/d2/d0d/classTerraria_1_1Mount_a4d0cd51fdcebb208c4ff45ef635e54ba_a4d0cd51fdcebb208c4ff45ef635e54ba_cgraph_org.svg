@@ -53,37 +53,37 @@
 </a>
 </g>
 </g>
-<!-- Node9 -->
-<g id="Node000009" class="node">
-<title>Node9</title>
-<g id="a_Node000009"><a xlink:href="../../dc/de5/classTerraria_1_1Dust_acb51111c9d1ff81d2e7f55da6ff8831f.html#acb51111c9d1ff81d2e7f55da6ff8831f" target="_top" xlink:title=" ">
+<!-- Node7 -->
+<g id="Node000007" class="node">
+<title>Node7</title>
+<g id="a_Node000007"><a xlink:href="../../dc/de5/classTerraria_1_1Dust_acb51111c9d1ff81d2e7f55da6ff8831f.html#acb51111c9d1ff81d2e7f55da6ff8831f" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="349,-79.5 194,-79.5 194,-60.5 349,-60.5 349,-79.5"/>
 <text text-anchor="middle" x="271.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Dust.NewDustDirect</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node9 -->
-<g id="edge9_Node000001_Node000009" class="edge">
-<title>Node1&#45;&gt;Node9</title>
-<g id="a_edge9_Node000001_Node000009"><a xlink:title=" ">
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge7_Node000001_Node000007" class="edge">
+<title>Node1&#45;&gt;Node7</title>
+<g id="a_edge7_Node000001_Node000007"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M158.03,-81.22C166.53,-80.37 175.21,-79.5 183.8,-78.65"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="184.22,-82.12 193.82,-77.65 183.52,-75.16 184.22,-82.12"/>
 </a>
 </g>
 </g>
-<!-- Node10 -->
-<g id="Node000010" class="node">
-<title>Node10</title>
-<g id="a_Node000010"><a xlink:href="../../d1/ddf/classTerraria_1_1Gore_a99c43465db05b0c96da5f5d941e780d1.html#a99c43465db05b0c96da5f5d941e780d1" target="_top" xlink:title=" ">
+<!-- Node8 -->
+<g id="Node000008" class="node">
+<title>Node8</title>
+<g id="a_Node000008"><a xlink:href="../../d1/ddf/classTerraria_1_1Gore_a99c43465db05b0c96da5f5d941e780d1.html#a99c43465db05b0c96da5f5d941e780d1" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="335.5,-24.5 207.5,-24.5 207.5,-5.5 335.5,-5.5 335.5,-24.5"/>
 <text text-anchor="middle" x="271.5" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Gore.NewGore</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node10 -->
-<g id="edge11_Node000001_Node000010" class="edge">
-<title>Node1&#45;&gt;Node10</title>
-<g id="a_edge11_Node000001_Node000010"><a xlink:title=" ">
+<!-- Node1&#45;&gt;Node8 -->
+<g id="edge9_Node000001_Node000008" class="edge">
+<title>Node1&#45;&gt;Node8</title>
+<g id="a_edge9_Node000001_Node000008"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M104.51,-79.48C138,-66.47 198.21,-43.08 236.17,-28.34"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="237.72,-31.49 245.78,-24.6 235.19,-24.96 237.72,-31.49"/>
 </a>
@@ -101,10 +101,10 @@
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_ac4ecc6320b69ab939b9c45eaf7d89000.html#ac4ecc6320b69ab939b9c45eaf7d89000" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="736,-152 604,-152 604,-122 736,-122 736,-152"/>
-<text text-anchor="start" x="612" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.Unified</text>
-<text text-anchor="middle" x="670" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">Random.Next</text>
+<g id="a_Node000004"><a xlink:href="../../df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="755,-126 585,-126 585,-96 755,-96 755,-126"/>
+<text text-anchor="start" x="593" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.DustLoader.</text>
+<text text-anchor="middle" x="670" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">SetupDust</text>
 </a>
 </g>
 </g>
@@ -112,18 +112,17 @@
 <g id="edge4_Node000003_Node000004" class="edge">
 <title>Node3&#45;&gt;Node4</title>
 <g id="a_edge4_Node000003_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M508.19,-98.6C533.31,-104.6 566.39,-112.5 596.02,-119.57"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="595.38,-123.02 605.92,-121.94 597.01,-116.21 595.38,-123.02"/>
+<path fill="none" stroke="#63b8ff" d="M530.22,-95.81C544.27,-97.35 559.5,-99.01 574.54,-100.66"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="574.59,-104.19 584.91,-101.8 575.35,-97.23 574.59,-104.19"/>
 </a>
 </g>
 </g>
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="755,-104 585,-104 585,-74 755,-74 755,-104"/>
-<text text-anchor="start" x="593" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.DustLoader.</text>
-<text text-anchor="middle" x="670" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">SetupDust</text>
+<g id="a_Node000006"><a xlink:href="../../de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="751,-77.5 589,-77.5 589,-58.5 751,-58.5 751,-77.5"/>
+<text text-anchor="middle" x="670" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Collision.WetCollision</text>
 </a>
 </g>
 </g>
@@ -131,36 +130,18 @@
 <g id="edge6_Node000003_Node000006" class="edge">
 <title>Node3&#45;&gt;Node6</title>
 <g id="a_edge6_Node000003_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M530.22,-89C544.27,-89 559.5,-89 574.54,-89"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="574.91,-92.5 584.91,-89 574.91,-85.5 574.91,-92.5"/>
-</a>
-</g>
-</g>
-<!-- Node8 -->
-<g id="Node000008" class="node">
-<title>Node8</title>
-<g id="a_Node000008"><a xlink:href="../../de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="751,-55.5 589,-55.5 589,-36.5 751,-36.5 751,-55.5"/>
-<text text-anchor="middle" x="670" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Collision.WetCollision</text>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node8 -->
-<g id="edge8_Node000003_Node000008" class="edge">
-<title>Node3&#45;&gt;Node8</title>
-<g id="a_edge8_Node000003_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M512.61,-79.46C542.66,-73.03 582.5,-64.5 614.44,-57.67"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="615.47,-61.03 624.52,-55.52 614.01,-54.19 615.47,-61.03"/>
+<path fill="none" stroke="#63b8ff" d="M530.22,-82.5C545.59,-80.89 562.37,-79.14 578.78,-77.43"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="579.35,-80.89 588.93,-76.37 578.62,-73.92 579.35,-80.89"/>
 </a>
 </g>
 </g>
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_a173f09196ff526b107c0223c2d58c59a.html#a173f09196ff526b107c0223c2d58c59a" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="943,-152 809,-152 809,-122 943,-122 943,-152"/>
-<text text-anchor="start" x="817" y="-140" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Utilities.Unified</text>
-<text text-anchor="middle" x="876" y="-129" font-family="Helvetica,sans-Serif" font-size="10.00">Random.InternalSample</text>
+<g id="a_Node000005"><a xlink:href="../../df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" target="_top" xlink:title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists.">
+<polygon fill="white" stroke="#666666" points="961,-126 791,-126 791,-96 961,-96 961,-126"/>
+<text text-anchor="start" x="799" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.DustLoader.</text>
+<text text-anchor="middle" x="876" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">GetDust</text>
 </a>
 </g>
 </g>
@@ -168,62 +149,43 @@
 <g id="edge5_Node000004_Node000005" class="edge">
 <title>Node4&#45;&gt;Node5</title>
 <g id="a_edge5_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M736.11,-137C755.96,-137 777.96,-137 798.5,-137"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="798.76,-140.5 808.76,-137 798.76,-133.5 798.76,-140.5"/>
+<path fill="none" stroke="#63b8ff" d="M755.15,-111C763.5,-111 772.02,-111 780.46,-111"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="780.71,-114.5 790.71,-111 780.71,-107.5 780.71,-114.5"/>
 </a>
 </g>
 </g>
-<!-- Node7 -->
-<g id="Node000007" class="node">
-<title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" target="_top" xlink:title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists.">
-<polygon fill="white" stroke="#666666" points="961,-104 791,-104 791,-74 961,-74 961,-104"/>
-<text text-anchor="start" x="799" y="-92" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.DustLoader.</text>
-<text text-anchor="middle" x="876" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">GetDust</text>
-</a>
-</g>
-</g>
-<!-- Node6&#45;&gt;Node7 -->
-<g id="edge7_Node000006_Node000007" class="edge">
-<title>Node6&#45;&gt;Node7</title>
-<g id="a_edge7_Node000006_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M755.15,-89C763.5,-89 772.02,-89 780.46,-89"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="780.71,-92.5 790.71,-89 780.71,-85.5 780.71,-92.5"/>
-</a>
-</g>
-</g>
-<!-- Node9&#45;&gt;Node3 -->
-<g id="edge10_Node000009_Node000003" class="edge">
-<title>Node9&#45;&gt;Node3</title>
-<g id="a_edge10_Node000009_Node000003"><a xlink:title=" ">
+<!-- Node7&#45;&gt;Node3 -->
+<g id="edge8_Node000007_Node000003" class="edge">
+<title>Node7&#45;&gt;Node3</title>
+<g id="a_edge8_Node000007_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M349.25,-77.54C364,-78.98 379.39,-80.5 393.98,-81.93"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="393.64,-85.41 403.94,-82.91 394.33,-78.45 393.64,-85.41"/>
 </a>
 </g>
 </g>
-<!-- Node10&#45;&gt;Node10 -->
-<g id="edge13_Node000010_Node000010" class="edge">
-<title>Node10&#45;&gt;Node10</title>
-<g id="a_edge13_Node000010_Node000010"><a xlink:title=" ">
+<!-- Node8&#45;&gt;Node8 -->
+<g id="edge11_Node000008_Node000008" class="edge">
+<title>Node8&#45;&gt;Node8</title>
+<g id="a_edge11_Node000008_Node000008"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M241.91,-24.58C227.51,-33.23 237.38,-42.5 271.5,-42.5 294.96,-42.5 306.95,-38.12 307.48,-32.57"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="310.07,-30.21 301.09,-24.58 304.61,-34.58 310.07,-30.21"/>
 </a>
 </g>
 </g>
-<!-- Node11 -->
-<g id="Node000011" class="node">
-<title>Node11</title>
-<g id="a_Node000011"><a xlink:href="../../d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource_aad02a637d76bfd16f138769722291901.html#aad02a637d76bfd16f138769722291901" target="_top" xlink:title=" ">
+<!-- Node9 -->
+<g id="Node000009" class="node">
+<title>Node9</title>
+<g id="a_Node000009"><a xlink:href="../../d9/d62/interfaceTerraria_1_1DataStructures_1_1IEntitySource_aad02a637d76bfd16f138769722291901.html#aad02a637d76bfd16f138769722291901" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="549,-30 385,-30 385,0 549,0 549,-30"/>
 <text text-anchor="start" x="393" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
 <text text-anchor="middle" x="467" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">IEntitySource.GetGoreFallback</text>
 </a>
 </g>
 </g>
-<!-- Node10&#45;&gt;Node11 -->
-<g id="edge12_Node000010_Node000011" class="edge">
-<title>Node10&#45;&gt;Node11</title>
-<g id="a_edge12_Node000010_Node000011"><a xlink:title=" ">
+<!-- Node8&#45;&gt;Node9 -->
+<g id="edge10_Node000008_Node000009" class="edge">
+<title>Node8&#45;&gt;Node9</title>
+<g id="a_edge10_Node000008_Node000009"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M335.59,-15C348.07,-15 361.4,-15 374.6,-15"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="374.66,-18.5 384.66,-15 374.66,-11.5 374.66,-18.5"/>
 </a>

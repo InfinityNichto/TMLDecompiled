@@ -5,7 +5,7 @@ var searchData=
   ['tagprinter_2',['TagPrinter',['../d9/dad/classTerraria_1_1ModLoader_1_1IO_1_1TagPrinter.html',1,'Terraria::ModLoader::IO']]],
   ['tagserializable_3',['TagSerializable',['../d4/d1f/interfaceTerraria_1_1ModLoader_1_1IO_1_1TagSerializable.html',1,'Terraria::ModLoader::IO']]],
   ['tagserializableserializer_4',['TagSerializableSerializer',['../d2/d88/classTerraria_1_1ModLoader_1_1IO_1_1TagSerializableSerializer.html',1,'Terraria::ModLoader::IO']]],
-  ['tagserializer_5',['tagserializer',['../d6/dc5/classTerraria_1_1ModLoader_1_1IO_1_1TagSerializer.html',1,'Terraria.ModLoader.IO.TagSerializer&lt; T, S &gt;'],['../d9/dda/classTagSerializer.html',1,'TagSerializer']]],
+  ['tagserializer_5',['TagSerializer',['../d9/dda/classTagSerializer.html',1,'TagSerializer'],['../d6/dc5/classTerraria_1_1ModLoader_1_1IO_1_1TagSerializer.html',1,'Terraria.ModLoader.IO.TagSerializer&lt; T, S &gt;']]],
   ['tagserializer_3c_20array_2c_20tagcompound_20_3e_6',['TagSerializer&lt; Array, TagCompound &gt;',['../d6/dc5/classTerraria_1_1ModLoader_1_1IO_1_1TagSerializer.html',1,'Terraria::ModLoader::IO']]],
   ['tagserializer_3c_20bool_2c_20byte_20_3e_7',['TagSerializer&lt; bool, byte &gt;',['../d6/dc5/classTerraria_1_1ModLoader_1_1IO_1_1TagSerializer.html',1,'Terraria::ModLoader::IO']]],
   ['tagserializer_3c_20color_2c_20int_20_3e_8',['TagSerializer&lt; Color, int &gt;',['../d6/dc5/classTerraria_1_1ModLoader_1_1IO_1_1TagSerializer.html',1,'Terraria::ModLoader::IO']]],

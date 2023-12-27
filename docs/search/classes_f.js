@@ -29,5 +29,5 @@ var searchData=
   ['overlay_26',['Overlay',['../d4/d6f/classTerraria_1_1Graphics_1_1Effects_1_1Overlay.html',1,'Terraria::Graphics::Effects']]],
   ['overlaymanager_27',['OverlayManager',['../d1/d8c/classTerraria_1_1Graphics_1_1Effects_1_1OverlayManager.html',1,'Terraria::Graphics::Effects']]],
   ['overlays_28',['Overlays',['../db/db5/classTerraria_1_1Graphics_1_1Effects_1_1Overlays.html',1,'Terraria::Graphics::Effects']]],
-  ['overlaysocialmodule_29',['overlaysocialmodule',['../d9/dde/classTerraria_1_1Social_1_1Base_1_1OverlaySocialModule.html',1,'Terraria.Social.Base.OverlaySocialModule'],['../d2/dfd/classTerraria_1_1Social_1_1Steam_1_1OverlaySocialModule.html',1,'Terraria.Social.Steam.OverlaySocialModule'],['../d7/dad/classTerraria_1_1Social_1_1WeGame_1_1OverlaySocialModule.html',1,'Terraria.Social.WeGame.OverlaySocialModule']]]
+  ['overlaysocialmodule_29',['OverlaySocialModule',['../d9/dde/classTerraria_1_1Social_1_1Base_1_1OverlaySocialModule.html',1,'Terraria.Social.Base.OverlaySocialModule'],['../d2/dfd/classTerraria_1_1Social_1_1Steam_1_1OverlaySocialModule.html',1,'Terraria.Social.Steam.OverlaySocialModule'],['../d7/dad/classTerraria_1_1Social_1_1WeGame_1_1OverlaySocialModule.html',1,'Terraria.Social.WeGame.OverlaySocialModule']]]
 ];

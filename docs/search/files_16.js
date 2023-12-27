@@ -45,7 +45,7 @@ var searchData=
   ['workshoppublishinfostateforresourcepack_2ecs_42',['WorkshopPublishInfoStateForResourcePack.cs',['../de/dd0/WorkshopPublishInfoStateForResourcePack_8cs.html',1,'']]],
   ['workshoppublishinfostateforworld_2ecs_43',['WorkshopPublishInfoStateForWorld.cs',['../d9/de3/WorkshopPublishInfoStateForWorld_8cs.html',1,'']]],
   ['workshoppublishingindicator_2ecs_44',['WorkshopPublishingIndicator.cs',['../d8/d59/WorkshopPublishingIndicator_8cs.html',1,'']]],
-  ['workshopsocialmodule_2ecs_45',['workshopsocialmodule.cs',['../d9/dd0/Terraria_8Social_8Base_2WorkshopSocialModule_8cs.html',1,'(Global Namespace)'],['../d1/db7/Terraria_8Social_8Steam_2WorkshopSocialModule_8cs.html',1,'(Global Namespace)']]],
+  ['workshopsocialmodule_2ecs_45',['WorkshopSocialModule.cs',['../d9/dd0/Terraria_8Social_8Base_2WorkshopSocialModule_8cs.html',1,'(Global Namespace)'],['../d1/db7/Terraria_8Social_8Steam_2WorkshopSocialModule_8cs.html',1,'(Global Namespace)']]],
   ['workshoptagoption_2ecs_46',['WorkshopTagOption.cs',['../d4/db2/WorkshopTagOption_8cs.html',1,'']]],
   ['worldfile_2ecs_47',['WorldFile.cs',['../d5/db4/WorldFile_8cs.html',1,'']]],
   ['worldfiledata_2ecs_48',['WorldFileData.cs',['../d7/d08/WorldFileData_8cs.html',1,'']]],

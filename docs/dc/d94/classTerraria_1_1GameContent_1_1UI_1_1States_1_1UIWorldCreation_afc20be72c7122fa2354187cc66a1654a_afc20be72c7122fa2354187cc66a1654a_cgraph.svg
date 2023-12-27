@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 646;
+var viewWidth = 631;
 var viewHeight = 134;
 var sectionId = 'dynsection-0';
 </script>
@@ -83,32 +83,13 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node3 -->
-<g id="Node000003" class="node">
-<title>Node3</title>
-<g id="a_Node000003"><a xlink:href="../../d8/d74/structTerraria_1_1UI_1_1StyleDimension_ad650694a90519412f5f2ba2dd5569b44.html#ad650694a90519412f5f2ba2dd5569b44" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="428,-78 278,-78 278,-48 428,-48 428,-78"/>
-<text text-anchor="start" x="286" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.StyleDimension.</text>
-<text text-anchor="middle" x="353" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">FromPixelsAndPercent</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge2_Node000001_Node000003" class="edge">
-<title>Node1&#45;&gt;Node3</title>
-<g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M233.03,-63C244.72,-63 256.42,-63 267.69,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="267.9,-66.5 277.9,-63 267.9,-59.5 267.9,-66.5"/>
-</a>
-</g>
-</g>
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d4/d8f/classTerraria_1_1Localization_1_1Language_aa5ae49ae4976cbf8cf7aa28595d712a6.html#aa5ae49ae4976cbf8cf7aa28595d712a6" target="_top" xlink:title="Retrieves a LocalizedText object for a specified localization key. The actual text value can be retri...">
-<polygon fill="white" stroke="#666666" points="437,-30 269,-30 269,0 437,0 437,-30"/>
-<text text-anchor="start" x="277" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language.</text>
-<text text-anchor="middle" x="353" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">GetText</text>
+<g id="a_Node000004"><a xlink:href="../../d8/d74/structTerraria_1_1UI_1_1StyleDimension_ad650694a90519412f5f2ba2dd5569b44.html#ad650694a90519412f5f2ba2dd5569b44" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="428,-78 278,-78 278,-48 428,-48 428,-78"/>
+<text text-anchor="start" x="286" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.StyleDimension.</text>
+<text text-anchor="middle" x="353" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">FromPixelsAndPercent</text>
 </a>
 </g>
 </g>
@@ -116,27 +97,55 @@ var sectionId = 'dynsection-0';
 <g id="edge3_Node000001_Node000004" class="edge">
 <title>Node1&#45;&gt;Node4</title>
 <g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M191.05,-47.94C215.72,-42.9 243.39,-37.23 268.75,-32.04"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="269.61,-35.44 278.71,-30 268.21,-28.58 269.61,-35.44"/>
+<path fill="none" stroke="#63b8ff" d="M233.03,-63C244.72,-63 256.42,-63 267.69,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="267.9,-66.5 277.9,-63 267.9,-59.5 267.9,-66.5"/>
 </a>
 </g>
 </g>
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../d8/d74/classTerraria_1_1Localization_1_1LanguageManager_ad292c2b15ad9179331427a23cc8c4e8c.html#ad292c2b15ad9179331427a23cc8c4e8c" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="638,-30 473,-30 473,0 638,0 638,-30"/>
-<text text-anchor="start" x="481" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language</text>
-<text text-anchor="middle" x="555.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Manager.GetText</text>
+<g id="a_Node000005"><a xlink:href="../../d4/d8f/classTerraria_1_1Localization_1_1Language_aa5ae49ae4976cbf8cf7aa28595d712a6.html#aa5ae49ae4976cbf8cf7aa28595d712a6" target="_top" xlink:title="Retrieves a LocalizedText object for a specified localization key. The actual text value can be retri...">
+<polygon fill="white" stroke="#666666" points="437,-30 269,-30 269,0 437,0 437,-30"/>
+<text text-anchor="start" x="277" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language.</text>
+<text text-anchor="middle" x="353" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">GetText</text>
 </a>
 </g>
 </g>
-<!-- Node4&#45;&gt;Node5 -->
-<g id="edge4_Node000004_Node000005" class="edge">
-<title>Node4&#45;&gt;Node5</title>
-<g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M437.29,-15C445.63,-15 454.12,-15 462.54,-15"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="462.76,-18.5 472.76,-15 462.76,-11.5 462.76,-18.5"/>
+<!-- Node1&#45;&gt;Node5 -->
+<g id="edge5_Node000001_Node000005" class="edge">
+<title>Node1&#45;&gt;Node5</title>
+<g id="a_edge5_Node000001_Node000005"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M191.05,-47.94C215.72,-42.9 243.39,-37.23 268.75,-32.04"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="269.61,-35.44 278.71,-30 268.21,-28.58 269.61,-35.44"/>
+</a>
+</g>
+</g>
+<!-- Node3 -->
+<g id="Node000003" class="node">
+<title>Node3</title>
+<g id="a_Node000003"><a xlink:href="../../d8/d74/structTerraria_1_1UI_1_1StyleDimension_aa443ecdcb3b3f8237c37aac947d9ef9d.html#aa443ecdcb3b3f8237c37aac947d9ef9d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="623,-102 473,-102 473,-72 623,-72 623,-102"/>
+<text text-anchor="start" x="481" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.StyleDimension.</text>
+<text text-anchor="middle" x="548" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">StyleDimension</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node3 -->
+<g id="edge2_Node000002_Node000003" class="edge">
+<title>Node2&#45;&gt;Node3</title>
+<g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M428.07,-101.79C439.41,-100.38 451.2,-98.91 462.74,-97.48"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="463.32,-100.93 472.81,-96.23 462.46,-93.99 463.32,-100.93"/>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node3 -->
+<g id="edge4_Node000004_Node000003" class="edge">
+<title>Node4&#45;&gt;Node3</title>
+<g id="a_edge4_Node000004_Node000003"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M428.07,-72.21C439.41,-73.62 451.2,-75.09 462.74,-76.52"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="462.46,-80.01 472.81,-77.77 463.32,-73.07 462.46,-80.01"/>
 </a>
 </g>
 </g>
