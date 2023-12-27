@@ -7,7 +7,7 @@ var searchData=
   ['backupio_4',['BackupIO',['../d9/d0e/classTerraria_1_1ModLoader_1_1BackupIO.html',1,'Terraria::ModLoader']]],
   ['ballcollision_5',['BallCollision',['../d2/d86/classTerraria_1_1Physics_1_1BallCollision.html',1,'Terraria::Physics']]],
   ['ballcollisionevent_6',['BallCollisionEvent',['../d1/d03/structTerraria_1_1Physics_1_1BallCollisionEvent.html',1,'Terraria::Physics']]],
-  ['balloon_7',['Balloon',['../de/d8a/structTerraria_1_1GameContent_1_1Skies_1_1PartySky_1_1Balloon.html',1,'Terraria.GameContent.Skies.PartySky.Balloon'],['../d0/d2e/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon.html',1,'Terraria.ID.ArmorIDs.Balloon']]],
+  ['balloon_7',['balloon',['../de/d8a/structTerraria_1_1GameContent_1_1Skies_1_1PartySky_1_1Balloon.html',1,'Terraria.GameContent.Skies.PartySky.Balloon'],['../d0/d2e/classTerraria_1_1ID_1_1ArmorIDs_1_1Balloon.html',1,'Terraria.ID.ArmorIDs.Balloon']]],
   ['ballpassthroughevent_8',['BallPassThroughEvent',['../d9/d08/structTerraria_1_1Physics_1_1BallPassThroughEvent.html',1,'Terraria::Physics']]],
   ['ballstepresult_9',['BallStepResult',['../d7/d0a/structTerraria_1_1Physics_1_1BallStepResult.html',1,'Terraria::Physics']]],
   ['bannereffect_10',['BannerEffect',['../db/d52/structTerraria_1_1ID_1_1ItemID_1_1BannerEffect.html',1,'Terraria::ID::ItemID']]],
@@ -109,8 +109,8 @@ var searchData=
   ['byinfoelement_106',['ByInfoElement',['../de/dfe/classTerraria_1_1GameContent_1_1Bestiary_1_1Filters_1_1ByInfoElement.html',1,'Terraria::GameContent::Bestiary::Filters']]],
   ['bynetid_107',['ByNetId',['../dc/d1e/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByNetId.html',1,'Terraria::GameContent::Bestiary::SortingSteps']]],
   ['byrarecreature_108',['ByRareCreature',['../df/dd3/classTerraria_1_1GameContent_1_1Bestiary_1_1Filters_1_1ByRareCreature.html',1,'Terraria::GameContent::Bestiary::Filters']]],
-  ['bysearch_109',['BySearch',['../d5/dfc/classTerraria_1_1GameContent_1_1Bestiary_1_1Filters_1_1BySearch.html',1,'Terraria.GameContent.Bestiary.Filters.BySearch'],['../d8/dee/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1BySearch.html',1,'Terraria.GameContent.Creative.ItemFilters.BySearch']]],
+  ['bysearch_109',['bysearch',['../d8/dee/classTerraria_1_1GameContent_1_1Creative_1_1ItemFilters_1_1BySearch.html',1,'Terraria.GameContent.Creative.ItemFilters.BySearch'],['../d5/dfc/classTerraria_1_1GameContent_1_1Bestiary_1_1Filters_1_1BySearch.html',1,'Terraria.GameContent.Bestiary.Filters.BySearch']]],
   ['bystat_110',['ByStat',['../d9/daf/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByStat.html',1,'Terraria::GameContent::Bestiary::SortingSteps']]],
   ['byteelement_111',['ByteElement',['../de/d4a/classTerraria_1_1ModLoader_1_1Config_1_1UI_1_1ByteElement.html',1,'Terraria::ModLoader::Config::UI']]],
-  ['byunlockstate_112',['ByUnlockState',['../d9/d1a/classTerraria_1_1GameContent_1_1Bestiary_1_1Filters_1_1ByUnlockState.html',1,'Terraria.GameContent.Bestiary.Filters.ByUnlockState'],['../dc/dcf/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByUnlockState.html',1,'Terraria.GameContent.Bestiary.SortingSteps.ByUnlockState']]]
+  ['byunlockstate_112',['byunlockstate',['../dc/dcf/classTerraria_1_1GameContent_1_1Bestiary_1_1SortingSteps_1_1ByUnlockState.html',1,'Terraria.GameContent.Bestiary.SortingSteps.ByUnlockState'],['../d9/d1a/classTerraria_1_1GameContent_1_1Bestiary_1_1Filters_1_1ByUnlockState.html',1,'Terraria.GameContent.Bestiary.Filters.ByUnlockState']]]
 ];

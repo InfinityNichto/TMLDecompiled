@@ -102,13 +102,32 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node5 -->
-<g id="Node000005" class="node">
-<title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../d8/d74/structTerraria_1_1UI_1_1StyleDimension_ad650694a90519412f5f2ba2dd5569b44.html#ad650694a90519412f5f2ba2dd5569b44" target="_top" xlink:title=" ">
+<!-- Node4 -->
+<g id="Node000004" class="node">
+<title>Node4</title>
+<g id="a_Node000004"><a xlink:href="../../d8/d74/structTerraria_1_1UI_1_1StyleDimension_ad650694a90519412f5f2ba2dd5569b44.html#ad650694a90519412f5f2ba2dd5569b44" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="402.5,-316.5 252.5,-316.5 252.5,-286.5 402.5,-286.5 402.5,-316.5"/>
 <text text-anchor="start" x="260.5" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.StyleDimension.</text>
 <text text-anchor="middle" x="327.5" y="-293.5" font-family="Helvetica,sans-Serif" font-size="10.00">FromPixelsAndPercent</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node4 -->
+<g id="edge3_Node000001_Node000004" class="edge">
+<title>Node1&#45;&gt;Node4</title>
+<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M178.06,-271.37C199.06,-275.63 221.41,-280.17 242.23,-284.4"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="241.81,-287.88 252.31,-286.44 243.2,-281.02 241.81,-287.88"/>
+</a>
+</g>
+</g>
+<!-- Node5 -->
+<g id="Node000005" class="node">
+<title>Node5</title>
+<g id="a_Node000005"><a xlink:href="../../d4/d8f/classTerraria_1_1Localization_1_1Language_aa5ae49ae4976cbf8cf7aa28595d712a6.html#aa5ae49ae4976cbf8cf7aa28595d712a6" target="_top" xlink:title="Retrieves a LocalizedText object for a specified localization key. The actual text value can be retri...">
+<polygon fill="white" stroke="#666666" points="411.5,-268.5 243.5,-268.5 243.5,-238.5 411.5,-238.5 411.5,-268.5"/>
+<text text-anchor="start" x="251.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language.</text>
+<text text-anchor="middle" x="327.5" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetText</text>
 </a>
 </g>
 </g>
@@ -116,25 +135,6 @@ var sectionId = 'dynsection-0';
 <g id="edge4_Node000001_Node000005" class="edge">
 <title>Node1&#45;&gt;Node5</title>
 <g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M178.06,-271.37C199.06,-275.63 221.41,-280.17 242.23,-284.4"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="241.81,-287.88 252.31,-286.44 243.2,-281.02 241.81,-287.88"/>
-</a>
-</g>
-</g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../d4/d8f/classTerraria_1_1Localization_1_1Language_aa5ae49ae4976cbf8cf7aa28595d712a6.html#aa5ae49ae4976cbf8cf7aa28595d712a6" target="_top" xlink:title="Retrieves a LocalizedText object for a specified localization key. The actual text value can be retri...">
-<polygon fill="white" stroke="#666666" points="411.5,-268.5 243.5,-268.5 243.5,-238.5 411.5,-238.5 411.5,-268.5"/>
-<text text-anchor="start" x="251.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language.</text>
-<text text-anchor="middle" x="327.5" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetText</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge6_Node000001_Node000006" class="edge">
-<title>Node1&#45;&gt;Node6</title>
-<g id="a_edge6_Node000001_Node000006"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M178.06,-253.5C196.13,-253.5 215.19,-253.5 233.43,-253.5"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="233.46,-257 243.46,-253.5 233.46,-250 233.46,-257"/>
 </a>
@@ -152,9 +152,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
-<g id="edge7_Node000001_Node000007" class="edge">
+<g id="edge6_Node000001_Node000007" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<g id="a_edge7_Node000001_Node000007"><a xlink:title=" ">
+<g id="a_edge6_Node000001_Node000007"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M178.06,-233.39C193.83,-229.79 210.37,-226.02 226.45,-222.34"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="227.42,-225.71 236.39,-220.08 225.86,-218.89 227.42,-225.71"/>
 </a>
@@ -172,9 +172,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node9 -->
-<g id="edge9_Node000001_Node000009" class="edge">
+<g id="edge8_Node000001_Node000009" class="edge">
 <title>Node1&#45;&gt;Node9</title>
-<g id="a_edge9_Node000001_Node000009"><a xlink:title=" ">
+<g id="a_edge8_Node000001_Node000009"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M115.59,-232.67C139.68,-214 177.42,-187.06 214,-170.5 218.71,-168.37 223.61,-166.36 228.6,-164.47"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="230.07,-167.67 238.3,-161 227.71,-161.08 230.07,-167.67"/>
 </a>
@@ -192,39 +192,30 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node11 -->
-<g id="edge11_Node000001_Node000011" class="edge">
+<g id="edge10_Node000001_Node000011" class="edge">
 <title>Node1&#45;&gt;Node11</title>
-<g id="a_edge11_Node000001_Node000011"><a xlink:title=" ">
+<g id="a_edge10_Node000001_Node000011"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M102.81,-232.76C122.85,-201.98 164.49,-144.32 214,-111.5 221.02,-106.85 228.68,-102.73 236.58,-99.11"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="238.15,-102.24 245.96,-95.08 235.39,-95.81 238.15,-102.24"/>
 </a>
 </g>
 </g>
-<!-- Node4 -->
-<g id="Node000004" class="node">
-<title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d8/d74/structTerraria_1_1UI_1_1StyleDimension_aa443ecdcb3b3f8237c37aac947d9ef9d.html#aa443ecdcb3b3f8237c37aac947d9ef9d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="654,-340.5 504,-340.5 504,-310.5 654,-310.5 654,-340.5"/>
-<text text-anchor="start" x="512" y="-328.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.StyleDimension.</text>
-<text text-anchor="middle" x="579" y="-317.5" font-family="Helvetica,sans-Serif" font-size="10.00">StyleDimension</text>
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../d8/d74/classTerraria_1_1Localization_1_1LanguageManager_ad292c2b15ad9179331427a23cc8c4e8c.html#ad292c2b15ad9179331427a23cc8c4e8c" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="661.5,-268.5 496.5,-268.5 496.5,-238.5 661.5,-238.5 661.5,-268.5"/>
+<text text-anchor="start" x="504.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language</text>
+<text text-anchor="middle" x="579" y="-245.5" font-family="Helvetica,sans-Serif" font-size="10.00">Manager.GetText</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge3_Node000003_Node000004" class="edge">
-<title>Node3&#45;&gt;Node4</title>
-<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M402.68,-342.36C431.21,-339.62 463.98,-336.47 493.41,-333.64"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="494.05,-337.09 503.67,-332.65 493.38,-330.12 494.05,-337.09"/>
-</a>
-</g>
-</g>
-<!-- Node5&#45;&gt;Node4 -->
-<g id="edge5_Node000005_Node000004" class="edge">
-<title>Node5&#45;&gt;Node4</title>
-<g id="a_edge5_Node000005_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M402.68,-308.64C431.21,-311.38 463.98,-314.53 493.41,-317.36"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="493.38,-320.88 503.67,-318.35 494.05,-313.91 493.38,-320.88"/>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge5_Node000005_Node000006" class="edge">
+<title>Node5&#45;&gt;Node6</title>
+<g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M411.58,-253.5C435.4,-253.5 461.5,-253.5 485.83,-253.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="486.13,-257 496.13,-253.5 486.13,-250 486.13,-257"/>
 </a>
 </g>
 </g>
@@ -238,9 +229,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node7&#45;&gt;Node8 -->
-<g id="edge8_Node000007_Node000008" class="edge">
+<g id="edge7_Node000007_Node000008" class="edge">
 <title>Node7&#45;&gt;Node8</title>
-<g id="a_edge8_Node000007_Node000008"><a xlink:title=" ">
+<g id="a_edge7_Node000007_Node000008"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M425.32,-199.5C450.02,-199.5 476.26,-199.5 499.89,-199.5"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="500.2,-203 510.2,-199.5 500.2,-196 500.2,-203"/>
 </a>
@@ -258,9 +249,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node9&#45;&gt;Node10 -->
-<g id="edge10_Node000009_Node000010" class="edge">
+<g id="edge9_Node000009_Node000010" class="edge">
 <title>Node9&#45;&gt;Node10</title>
-<g id="a_edge10_Node000009_Node000010"><a xlink:title=" ">
+<g id="a_edge9_Node000009_Node000010"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M438.3,-143.14C447.8,-143.37 457.43,-143.6 466.94,-143.83"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="467.13,-147.33 477.21,-144.08 467.3,-140.34 467.13,-147.33"/>
 </a>
@@ -277,9 +268,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node11&#45;&gt;Node12 -->
-<g id="edge12_Node000011_Node000012" class="edge">
+<g id="edge11_Node000011_Node000012" class="edge">
 <title>Node11&#45;&gt;Node12</title>
-<g id="a_edge12_Node000011_Node000012"><a xlink:title=" ">
+<g id="a_edge11_Node000011_Node000012"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M441.21,-74.5C458.32,-74.5 475.73,-74.5 492.15,-74.5"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="492.23,-78 502.23,-74.5 492.23,-71 492.23,-78"/>
 </a>
@@ -297,18 +288,18 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node11&#45;&gt;Node13 -->
-<g id="edge14_Node000011_Node000013" class="edge">
+<g id="edge13_Node000011_Node000013" class="edge">
 <title>Node11&#45;&gt;Node13</title>
-<g id="a_edge14_Node000011_Node000013"><a xlink:title=" ">
+<g id="a_edge13_Node000011_Node000013"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M423.54,-53.93C439.73,-50.43 456.63,-46.77 473.07,-43.21"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="474.19,-46.55 483.23,-41.01 472.71,-39.71 474.19,-46.55"/>
 </a>
 </g>
 </g>
 <!-- Node12&#45;&gt;Node12 -->
-<g id="edge13_Node000012_Node000012" class="edge">
+<g id="edge12_Node000012_Node000012" class="edge">
 <title>Node12&#45;&gt;Node12</title>
-<g id="a_edge13_Node000012_Node000012"><a xlink:title=" ">
+<g id="a_edge12_Node000012_Node000012"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M535.05,-89.78C525.29,-98.91 539.94,-107.5 579,-107.5 602.19,-107.5 616.78,-104.47 622.76,-100.1"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="626.26,-99.84 622.95,-89.78 619.27,-99.71 626.26,-99.84"/>
 </a>

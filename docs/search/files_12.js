@@ -95,7 +95,7 @@ var searchData=
   ['socketsendcallback_2ecs_92',['SocketSendCallback.cs',['../d8/d02/SocketSendCallback_8cs.html',1,'']]],
   ['solarflarepillarbigprogressbar_2ecs_93',['SolarFlarePillarBigProgressBar.cs',['../dc/d61/SolarFlarePillarBigProgressBar_8cs.html',1,'']]],
   ['solarsky_2ecs_94',['SolarSky.cs',['../d0/d6e/SolarSky_8cs.html',1,'']]],
-  ['sortingsteps_2ecs_95',['SortingSteps.cs',['../de/dd1/Terraria_8GameContent_8Bestiary_2SortingSteps_8cs.html',1,'(Global Namespace)'],['../dc/dea/Terraria_8GameContent_8Creative_2SortingSteps_8cs.html',1,'(Global Namespace)']]],
+  ['sortingsteps_2ecs_95',['sortingsteps.cs',['../de/dd1/Terraria_8GameContent_8Bestiary_2SortingSteps_8cs.html',1,'(Global Namespace)'],['../dc/dea/Terraria_8GameContent_8Creative_2SortingSteps_8cs.html',1,'(Global Namespace)']]],
   ['soundengine_2ecs_96',['SoundEngine.cs',['../d6/dc2/SoundEngine_8cs.html',1,'']]],
   ['soundid_2ecs_97',['SoundID.cs',['../d4/d98/SoundID_8cs.html',1,'']]],
   ['soundinstancegarbagecollector_2ecs_98',['SoundInstanceGarbageCollector.cs',['../d9/dcc/SoundInstanceGarbageCollector_8cs.html',1,'']]],

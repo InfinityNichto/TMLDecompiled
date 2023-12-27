@@ -1,5 +1,7 @@
 <map id="Terraria.ModLoader.ItemLoader.SetMatch" name="Terraria.ModLoader.ItemLoader.SetMatch">
-<area shape="rect" id="Node000001" title="Calls EquipTexture.SetMatch, then all GlobalItem.SetMatch hooks." alt="" coords="5,5,232,45"/>
+<area shape="rect" id="Node000001" title="Calls EquipTexture.SetMatch, then all GlobalItem.SetMatch hooks." alt="" coords="5,37,232,77"/>
 <area shape="rect" id="Node000002" href="$d3/daa/classTerraria_1_1ModLoader_1_1EquipLoader_a87c1e9bb37d938a07111fa76bae78575.html#a87c1e9bb37d938a07111fa76bae78575" title="Gets the equipment texture for the specified equipment type and ID." alt="" coords="280,5,467,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,23,266,23,266,28,232,28"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,40,266,36,267,41,233,46"/>
+<area shape="rect" id="Node000003" href="$d2/daa/classTerraria_1_1ModLoader_1_1EquipTexture_ac9f297b77f07b76b93b1afc1a77cf613.html#ac9f297b77f07b76b93b1afc1a77cf613" title="Allows you to modify the equipment that the player appears to be wearing. This hook will only be call..." alt="" coords="280,69,467,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,69,267,73,266,79,232,74"/>
 </map>

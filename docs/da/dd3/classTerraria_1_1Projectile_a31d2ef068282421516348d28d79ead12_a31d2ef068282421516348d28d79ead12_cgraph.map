@@ -1,25 +1,32 @@
 <map id="Terraria.Projectile.AI_177_IceWhipSlicer" name="Terraria.Projectile.AI_177_IceWhipSlicer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,159,128"/>
-<area shape="rect" id="Node000002" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a7b57cae1830c4f9d93c4b1df8494a34c.html#a7b57cae1830c4f9d93c4b1df8494a34c" title=" " alt="" coords="208,5,412,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,85,240,48,242,53,139,90"/>
-<area shape="rect" id="Node000005" href="$dc/de5/classTerraria_1_1Dust_a977a36a9376966862406a3094e3b70ab.html#a977a36a9376966862406a3094e3b70ab" title="Attempts to spawn a single Dust into the game world. The Position, Width, and Height parameters dicta..." alt="" coords="479,87,647,113"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="159,104,466,99,466,104,159,109"/>
-<area shape="rect" id="Node000009" href="$dc/de5/classTerraria_1_1Dust_acb51111c9d1ff81d2e7f55da6ff8831f.html#acb51111c9d1ff81d2e7f55da6ff8831f" title=" " alt="" coords="207,121,413,146"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="159,114,193,118,193,123,159,119"/>
-<area shape="rect" id="Node000010" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ae0319a3b2346b9bac36e6b8c6ea74a11.html#ae0319a3b2346b9bac36e6b8c6ea74a11" title=" " alt="" coords="208,171,412,211"/>
-<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="131,126,208,156,230,164,228,169,206,161,129,131"/>
-<area shape="rect" id="Node000003" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a71bdfece255315e0ef664cb459fb631c.html#a71bdfece255315e0ef664cb459fb631c" title=" " alt="" coords="461,5,665,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,23,447,23,447,28,412,28"/>
-<area shape="rect" id="Node000004" href="$dc/d40/classTerraria_1_1Audio_1_1SoundPlayer_a53e8c0449f4aec4693192429573f5fce.html#a53e8c0449f4aec4693192429573f5fce" title="Safely attempts to get a currently playing T:Terraria.Audio.ActiveSound instance, tied to the provide..." alt="" coords="727,5,927,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="665,23,713,23,713,28,665,28"/>
-<area shape="rect" id="Node000006" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" title=" " alt="" coords="713,75,940,115"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="647,96,700,95,700,100,648,101"/>
-<area shape="rect" id="Node000008" href="$de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" title=" " alt="" coords="719,139,935,165"/>
-<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="629,110,749,134,748,139,628,115"/>
-<area shape="rect" id="Node000007" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists." alt="" coords="988,75,1215,115"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="940,92,974,92,974,97,940,97"/>
-<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="406,118,465,110,466,115,407,123"/>
-<area shape="rect" id="Node000011" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af55950ae09b294fad1dd58e37fecf28b.html#af55950ae09b294fad1dd58e37fecf28b" title="Attempts to play a sound style with the provided sound style (if it&#39;s not null), and returns a valid ..." alt="" coords="461,171,665,211"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="412,188,447,188,447,193,412,193"/>
-<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="516,171,513,161,521,152,538,146,563,144,593,147,609,154,607,159,591,152,563,149,539,151,524,156,519,162,521,169"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,138,159,178"/>
+<area shape="rect" id="Node000002" href="$df/d0d/classTerraria_1_1NPC_a88fb04cefeb3d121612538889bd56102.html#a88fb04cefeb3d121612538889bd56102" title=" " alt="" coords="207,5,420,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,136,142,88,172,62,205,41,224,33,226,38,208,46,176,67,146,92,101,139"/>
+<area shape="rect" id="Node000003" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a7b57cae1830c4f9d93c4b1df8494a34c.html#a7b57cae1830c4f9d93c4b1df8494a34c" title=" " alt="" coords="211,55,415,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,135,242,98,244,103,140,140"/>
+<area shape="rect" id="Node000006" href="$dc/de5/classTerraria_1_1Dust_a977a36a9376966862406a3094e3b70ab.html#a977a36a9376966862406a3094e3b70ab" title="Attempts to spawn a single Dust into the game world. The Position, Width, and Height parameters dicta..." alt="" coords="486,167,654,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,152,282,151,420,155,481,162,481,167,420,161,282,156,159,158"/>
+<area shape="rect" id="Node000007" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_ac4ecc6320b69ab939b9c45eaf7d89000.html#ac4ecc6320b69ab939b9c45eaf7d89000" title=" " alt="" coords="745,217,921,257"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="125,176,164,192,207,205,348,227,490,239,622,241,731,239,731,245,622,247,490,244,347,233,206,210,163,197,123,181"/>
+<area shape="rect" id="Node000012" href="$dc/de5/classTerraria_1_1Dust_acb51111c9d1ff81d2e7f55da6ff8831f.html#acb51111c9d1ff81d2e7f55da6ff8831f" title=" " alt="" coords="210,171,417,196"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="159,164,197,168,196,173,159,169"/>
+<area shape="rect" id="Node000013" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_ae0319a3b2346b9bac36e6b8c6ea74a11.html#ae0319a3b2346b9bac36e6b8c6ea74a11" title=" " alt="" coords="211,283,415,323"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="108,176,153,212,208,250,254,275,251,280,205,255,150,217,105,180"/>
+<area shape="rect" id="Node000004" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_a71bdfece255315e0ef664cb459fb631c.html#a71bdfece255315e0ef664cb459fb631c" title=" " alt="" coords="468,47,672,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,69,454,68,454,74,416,75"/>
+<area shape="rect" id="Node000005" href="$dc/d40/classTerraria_1_1Audio_1_1SoundPlayer_a53e8c0449f4aec4693192429573f5fce.html#a53e8c0449f4aec4693192429573f5fce" title="Safely attempts to get a currently playing T:Terraria.Audio.ActiveSound instance, tied to the provide..." alt="" coords="733,38,933,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="672,61,719,59,720,65,672,66"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="630,189,733,212,731,217,629,195"/>
+<area shape="rect" id="Node000009" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a8374be843b9b2b0143bc000e8663d3ec.html#a8374be843b9b2b0143bc000e8663d3ec" title=" " alt="" coords="720,102,947,142"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="629,164,727,142,728,148,630,169"/>
+<area shape="rect" id="Node000011" href="$de/d1d/classTerraria_1_1Collision_a1c65206ace403aa59afc32d20e5d282e.html#a1c65206ace403aa59afc32d20e5d282e" title=" " alt="" coords="725,167,941,192"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="654,177,712,177,712,182,654,182"/>
+<area shape="rect" id="Node000008" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_a173f09196ff526b107c0223c2d58c59a.html#a173f09196ff526b107c0223c2d58c59a" title=" " alt="" coords="1019,217,1197,257"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="921,234,1005,234,1005,239,921,239"/>
+<area shape="rect" id="Node000010" href="$df/dd6/classTerraria_1_1ModLoader_1_1DustLoader_a0cb616c3c6776d3bba899e7f1fb0e221.html#a0cb616c3c6776d3bba899e7f1fb0e221" title="Gets the ModDust instance with the given type. Returns null if no ModDust with the given type exists." alt="" coords="995,102,1221,142"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="947,119,981,119,981,125,947,125"/>
+<area shape="poly" id="edge12_Node000012_Node000006" title=" " alt="" coords="417,179,472,178,472,184,417,184"/>
+<area shape="rect" id="Node000014" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af55950ae09b294fad1dd58e37fecf28b.html#af55950ae09b294fad1dd58e37fecf28b" title="Attempts to play a sound style with the provided sound style (if it&#39;s not null), and returns a valid ..." alt="" coords="468,295,672,335"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="416,305,454,307,454,313,415,311"/>
+<area shape="poly" id="edge16_Node000014_Node000014" title=" " alt="" coords="522,296,520,286,527,276,544,271,570,269,600,272,616,279,614,284,598,277,570,274,545,276,530,281,525,287,528,294"/>
 </map>

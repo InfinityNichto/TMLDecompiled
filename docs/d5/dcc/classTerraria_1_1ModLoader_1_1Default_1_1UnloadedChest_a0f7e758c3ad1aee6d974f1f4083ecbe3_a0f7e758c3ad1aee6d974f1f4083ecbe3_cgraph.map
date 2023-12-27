@@ -1,17 +1,21 @@
 <map id="Terraria.ModLoader.Default.UnloadedChest.SetStaticDefaults" name="Terraria.ModLoader.Default.UnloadedChest.SetStaticDefaults">
-<area shape="rect" id="Node000001" title="Allows you to modify the properties after initial loading has completed." alt="" coords="5,69,244,109"/>
+<area shape="rect" id="Node000001" title="Allows you to modify the properties after initial loading has completed." alt="" coords="5,101,244,141"/>
 <area shape="rect" id="Node000002" href="$d5/dec/classTerraria_1_1ModLoader_1_1ModTile_a95a82c278436ca2c53728dfb7b5c56c9.html#a95a82c278436ca2c53728dfb7b5c56c9" title="Adds an entry to the minimap for this tile with the given color and display name. This should be call..." alt="" coords="303,5,510,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,67,304,46,306,51,214,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,99,291,55,317,47,319,52,293,60,176,104"/>
 <area shape="rect" id="Node000003" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_aea19d0df52a869a140f4050f7e39f29f.html#aea19d0df52a869a140f4050f7e39f29f" title=" " alt="" coords="319,69,495,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,87,305,87,305,92,244,92"/>
-<area shape="rect" id="Node000006" href="$d5/dcc/classTerraria_1_1ModLoader_1_1Default_1_1UnloadedChest_a48dceeb6c1f13649fac02d3bca633958.html#a48dceeb6c1f13649fac02d3bca633958" title=" " alt="" coords="292,133,521,173"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="214,107,306,128,304,133,213,112"/>
-<area shape="rect" id="Node000004" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_ab2a62bd6702a9518c70682a82063e611.html#ab2a62bd6702a9518c70682a82063e611" title=" " alt="" coords="583,69,779,109"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="495,87,569,87,569,92,495,92"/>
-<area shape="rect" id="Node000005" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_aba202fe1a5f4b5e5e0202eb8559a6b8b.html#aba202fe1a5f4b5e5e0202eb8559a6b8b" title=" " alt="" coords="841,69,1017,109"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="780,87,828,87,828,92,780,92"/>
-<area shape="rect" id="Node000007" href="$dc/ddf/classTerraria_1_1Chest_acd6e0360d9c88e1b967580124250a028.html#acd6e0360d9c88e1b967580124250a028" title="Tries to find a T:Terraria.Chest located at (X , Y ) (tile coordinates)." alt="" coords="591,137,771,162"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="521,149,577,148,577,154,521,154"/>
-<area shape="rect" id="Node000008" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="569,187,793,227"/>
-<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="511,171,565,181,564,187,510,176"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,105,305,98,305,103,244,110"/>
+<area shape="rect" id="Node000006" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_aba202fe1a5f4b5e5e0202eb8559a6b8b.html#aba202fe1a5f4b5e5e0202eb8559a6b8b" title=" " alt="" coords="319,133,495,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="244,132,305,139,305,145,244,138"/>
+<area shape="rect" id="Node000007" href="$d5/dcc/classTerraria_1_1ModLoader_1_1Default_1_1UnloadedChest_a48dceeb6c1f13649fac02d3bca633958.html#a48dceeb6c1f13649fac02d3bca633958" title=" " alt="" coords="292,197,521,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="176,139,293,183,319,191,317,196,291,188,174,144"/>
+<area shape="rect" id="Node000004" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_ab2d9d870f1119756570d7c3d22593626.html#ab2d9d870f1119756570d7c3d22593626" title=" " alt="" coords="593,69,769,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="495,87,580,87,580,92,495,92"/>
+<area shape="rect" id="Node000005" href="$d0/d9d/classTerraria_1_1ObjectData_1_1TileObjectData_a04f5fb8a5e541c3b6f9e1fe74658a6c9.html#a04f5fb8a5e541c3b6f9e1fe74658a6c9" title=" " alt="" coords="863,69,1039,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="769,87,850,87,850,92,769,92"/>
+<area shape="rect" id="Node000008" href="$dc/ddf/classTerraria_1_1Chest_acd6e0360d9c88e1b967580124250a028.html#acd6e0360d9c88e1b967580124250a028" title="Tries to find a T:Terraria.Chest located at (X , Y ) (tile coordinates)." alt="" coords="591,175,771,201"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="521,202,578,196,578,202,522,208"/>
+<area shape="rect" id="Node000009" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="569,225,793,265"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="522,226,556,230,555,235,521,232"/>
+<area shape="rect" id="Node000010" href="$d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a9f1901e50105d9873d2fdf8816e122de.html#a9f1901e50105d9873d2fdf8816e122de" title=" " alt="" coords="841,225,1061,265"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="794,243,827,243,827,248,794,248"/>
 </map>

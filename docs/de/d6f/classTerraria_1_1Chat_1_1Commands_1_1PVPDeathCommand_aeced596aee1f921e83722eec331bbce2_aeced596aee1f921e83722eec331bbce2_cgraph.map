@@ -1,46 +1,59 @@
 <map id="Terraria.Chat.Commands.PVPDeathCommand.ProcessIncomingMessage" name="Terraria.Chat.Commands.PVPDeathCommand.ProcessIncomingMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,267,360"/>
-<area shape="rect" id="Node000002" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_a8b47828c98ff085c0927a12a693ab696.html#a8b47828c98ff085c0927a12a693ab696" title=" " alt="" coords="328,288,513,328"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,323,314,317,315,323,267,328"/>
-<area shape="rect" id="Node000016" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a96b44c223990589f83f8ebe233b91c7c.html#a96b44c223990589f83f8ebe233b91c7c" title="Creates a NetworkText object from a localization key and optional substitutions. The receiving client..." alt="" coords="315,352,527,392"/>
-<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="267,352,301,356,300,361,266,357"/>
-<area shape="rect" id="Node000003" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_adf23e6d78fdef5f7d1740c0df280b1b3.html#adf23e6d78fdef5f7d1740c0df280b1b3" title=" " alt="" coords="622,239,813,279"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,290,608,274,609,279,514,295"/>
-<area shape="rect" id="Node000004" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_acbde5de17f2e673cfc11a0fa5a511fae.html#acbde5de17f2e673cfc11a0fa5a511fae" title=" " alt="" coords="943,127,1129,167"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="760,236,828,206,907,176,934,168,935,173,909,181,830,211,762,241"/>
-<area shape="rect" id="Node000014" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_a405c21b87b9a5db19ab8030ad7633d67.html#a405c21b87b9a5db19ab8030ad7633d67" title=" " alt="" coords="908,191,1164,231"/>
-<area shape="poly" id="edge16_Node000003_Node000014" title=" " alt="" coords="813,242,894,229,894,235,813,247"/>
-<area shape="rect" id="Node000015" href="$d3/df3/classTerraria_1_1GameContent_1_1NetModules_1_1NetTextModule_abf4d290dbfbc7f24435098c0b79e3883.html#abf4d290dbfbc7f24435098c0b79e3883" title=" " alt="" coords="917,279,1155,334"/>
-<area shape="poly" id="edge17_Node000003_Node000015" title=" " alt="" coords="813,270,903,284,902,289,813,276"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,333,267,373"/>
+<area shape="rect" id="Node000002" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_a8b47828c98ff085c0927a12a693ab696.html#a8b47828c98ff085c0927a12a693ab696" title=" " alt="" coords="328,301,513,341"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,336,314,331,315,336,267,341"/>
+<area shape="rect" id="Node000023" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a96b44c223990589f83f8ebe233b91c7c.html#a96b44c223990589f83f8ebe233b91c7c" title="Creates a NetworkText object from a localization key and optional substitutions. The receiving client..." alt="" coords="315,365,527,405"/>
+<area shape="poly" id="edge28_Node000001_Node000023" title=" " alt="" coords="267,365,301,369,300,375,266,371"/>
+<area shape="rect" id="Node000003" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_adf23e6d78fdef5f7d1740c0df280b1b3.html#adf23e6d78fdef5f7d1740c0df280b1b3" title=" " alt="" coords="622,297,813,337"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,317,608,316,608,321,513,323"/>
+<area shape="rect" id="Node000004" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_acbde5de17f2e673cfc11a0fa5a511fae.html#acbde5de17f2e673cfc11a0fa5a511fae" title=" " alt="" coords="943,185,1129,225"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="760,295,828,265,907,235,934,227,935,232,909,240,830,270,762,300"/>
+<area shape="rect" id="Node000021" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_a405c21b87b9a5db19ab8030ad7633d67.html#a405c21b87b9a5db19ab8030ad7633d67" title=" " alt="" coords="908,249,1164,289"/>
+<area shape="poly" id="edge25_Node000003_Node000021" title=" " alt="" coords="813,300,894,288,894,293,813,306"/>
+<area shape="rect" id="Node000022" href="$d3/df3/classTerraria_1_1GameContent_1_1NetModules_1_1NetTextModule_abf4d290dbfbc7f24435098c0b79e3883.html#abf4d290dbfbc7f24435098c0b79e3883" title=" " alt="" coords="917,338,1155,393"/>
+<area shape="poly" id="edge26_Node000003_Node000022" title=" " alt="" coords="813,329,903,343,902,348,813,334"/>
 <area shape="rect" id="Node000005" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_a2873223aea4baf8cc37f8c6f8cd1fe16.html#a2873223aea4baf8cc37f8c6f8cd1fe16" title=" " alt="" coords="1246,5,1431,45"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1070,124,1134,89,1211,55,1235,47,1237,52,1213,60,1137,94,1072,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1053,183,1118,120,1163,85,1211,55,1232,46,1234,51,1213,60,1166,89,1122,124,1057,187"/>
 <area shape="rect" id="Node000006" href="$d7/d98/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1NameTagHandler_a5363ff74c8976dfc28cb76db3e53a98a.html#a5363ff74c8976dfc28cb76db3e53a98a" title=" " alt="" coords="1212,69,1465,109"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1128,127,1219,109,1220,114,1129,132"/>
-<area shape="rect" id="Node000007" href="$da/dd5/classTerraria_1_1Main_a41402a875e3c3ff608667d0637674539.html#a41402a875e3c3ff608667d0637674539" title=" " alt="" coords="1227,134,1451,159"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1129,144,1213,144,1213,149,1129,149"/>
-<area shape="rect" id="Node000009" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_a923699edfbaa3f2f8f18cf6282edcf53.html#a923699edfbaa3f2f8f18cf6282edcf53" title=" " alt="" coords="1246,184,1431,224"/>
-<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="1129,162,1233,181,1232,187,1128,167"/>
-<area shape="rect" id="Node000010" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a82763de30a06fd8107fa4f3e40d8d20d.html#a82763de30a06fd8107fa4f3e40d8d20d" title=" " alt="" coords="1233,248,1445,288"/>
-<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="1130,160,1165,176,1181,191,1190,206,1199,220,1214,234,1224,240,1222,244,1210,238,1195,224,1186,209,1177,194,1163,181,1128,165"/>
-<area shape="rect" id="Node000008" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af55950ae09b294fad1dd58e37fecf28b.html#af55950ae09b294fad1dd58e37fecf28b" title="Attempts to play a sound style with the provided sound style (if it&#39;s not null), and returns a valid ..." alt="" coords="1517,127,1721,167"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1451,144,1503,144,1503,149,1451,149"/>
-<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="1570,127,1567,117,1575,108,1593,102,1619,100,1650,103,1667,110,1664,115,1649,108,1619,105,1594,107,1578,112,1573,118,1575,125"/>
-<area shape="rect" id="Node000011" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="1773,264,1997,304"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1430,245,1513,233,1620,225,1666,226,1726,233,1774,243,1819,257,1818,262,1772,249,1725,239,1666,232,1620,230,1514,239,1431,251"/>
-<area shape="rect" id="Node000012" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_aaade702fe346ef5d217fea67020986a9.html#aaade702fe346ef5d217fea67020986a9" title=" " alt="" coords="1513,248,1725,288"/>
-<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1445,265,1499,265,1499,271,1445,271"/>
-<area shape="rect" id="Node000013" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a0e756743934141abf7225f02a6e2441b.html#a0e756743934141abf7225f02a6e2441b" title=" " alt="" coords="1513,336,1725,376"/>
-<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="1404,286,1542,329,1540,334,1403,291"/>
-<area shape="poly" id="edge14_Node000013_Node000011" title=" " alt="" coords="1693,333,1797,305,1798,310,1695,339"/>
-<area shape="poly" id="edge15_Node000013_Node000013" title=" " alt="" coords="1570,336,1567,326,1575,317,1593,311,1619,309,1650,312,1667,319,1664,324,1649,317,1619,315,1594,317,1578,321,1573,327,1575,335"/>
-<area shape="poly" id="edge18_Node000015_Node000015" title=" " alt="" coords="978,279,978,269,989,260,1008,255,1036,253,1070,256,1089,264,1087,269,1068,261,1036,258,1009,260,991,265,983,271,983,279"/>
-<area shape="rect" id="Node000017" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a228daadb176f9c90582b5bba4a230c45.html#a228daadb176f9c90582b5bba4a230c45" title=" " alt="" coords="1513,404,1725,444"/>
-<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="527,367,705,365,938,367,1201,376,1466,395,1503,399,1502,405,1465,400,1201,381,938,372,705,370,527,372"/>
-<area shape="rect" id="Node000018" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_ac94c027b766a42dfa853bccbadb23909.html#ac94c027b766a42dfa853bccbadb23909" title=" " alt="" coords="575,409,860,449"/>
-<area shape="poly" id="edge21_Node000016_Node000018" title=" " alt="" coords="525,389,600,404,599,409,524,395"/>
-<area shape="rect" id="Node000019" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a0e6e2f34edc8f021884470586b1c5e18.html#a0e6e2f34edc8f021884470586b1c5e18" title=" " alt="" coords="930,409,1142,449"/>
-<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="860,427,916,427,916,432,860,432"/>
-<area shape="rect" id="Node000020" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a3c557297e5656ee799cb1a7e9db234fc.html#a3c557297e5656ee799cb1a7e9db234fc" title="Creates a NetworkText object from a string. Use this for text that can&#39;t be localized." alt="" coords="1233,409,1445,449"/>
-<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="1142,427,1219,427,1219,432,1142,432"/>
-<area shape="poly" id="edge24_Node000020_Node000017" title=" " alt="" coords="1445,425,1499,424,1499,429,1445,430"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1073,183,1136,151,1211,119,1236,111,1237,116,1213,124,1139,155,1075,187"/>
+<area shape="rect" id="Node000007" href="$dc/d67/structTerraria_1_1Player_1_1OverheadMessage_a1fc31c3d0639503a0c472c5ca7026039.html#a1fc31c3d0639503a0c472c5ca7026039" title=" " alt="" coords="1247,133,1430,173"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1129,187,1233,169,1234,174,1129,192"/>
+<area shape="rect" id="Node000012" href="$da/dd5/classTerraria_1_1Main_a41402a875e3c3ff608667d0637674539.html#a41402a875e3c3ff608667d0637674539" title=" " alt="" coords="1227,198,1451,223"/>
+<area shape="poly" id="edge13_Node000004_Node000012" title=" " alt="" coords="1129,204,1213,206,1212,211,1129,210"/>
+<area shape="rect" id="Node000015" href="$db/df5/classTerraria_1_1Chat_1_1ChatHelper_a923699edfbaa3f2f8f18cf6282edcf53.html#a923699edfbaa3f2f8f18cf6282edcf53" title=" " alt="" coords="1246,248,1431,288"/>
+<area shape="poly" id="edge17_Node000004_Node000015" title=" " alt="" coords="1130,222,1233,243,1232,249,1128,227"/>
+<area shape="rect" id="Node000016" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a82763de30a06fd8107fa4f3e40d8d20d.html#a82763de30a06fd8107fa4f3e40d8d20d" title=" " alt="" coords="1233,343,1445,383"/>
+<area shape="poly" id="edge18_Node000004_Node000016" title=" " alt="" coords="1130,218,1165,235,1182,250,1191,266,1199,282,1214,298,1242,318,1273,334,1270,339,1239,322,1210,302,1195,285,1187,269,1178,254,1163,240,1128,223"/>
+<area shape="rect" id="Node000008" href="$d7/df6/classTerraria_1_1UI_1_1Chat_1_1ChatManager_ad0daac781e8696c59955af964519db95.html#ad0daac781e8696c59955af964519db95" title=" " alt="" coords="1533,76,1750,116"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1430,134,1521,116,1522,121,1431,139"/>
+<area shape="rect" id="Node000009" href="$d7/df6/classTerraria_1_1UI_1_1Chat_1_1ChatManager_af687cd1f70060817f5984ef2b554cf40.html#af687cd1f70060817f5984ef2b554cf40" title=" " alt="" coords="1821,105,2038,145"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="1430,146,1807,128,1807,134,1431,152"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="1588,77,1585,66,1594,57,1612,51,1641,49,1675,52,1693,59,1691,64,1673,57,1641,55,1613,57,1596,62,1590,67,1593,75"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1750,104,1807,110,1807,116,1750,110"/>
+<area shape="rect" id="Node000010" href="$d7/df6/classTerraria_1_1UI_1_1Chat_1_1ChatManager_ad57d7ce4542b2df5cd9ff15c86855f3f.html#ad57d7ce4542b2df5cd9ff15c86855f3f" title=" " alt="" coords="2091,73,2308,113"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="2038,110,2077,105,2078,110,2039,115"/>
+<area shape="rect" id="Node000011" href="$dc/d25/interfaceTerraria_1_1UI_1_1Chat_1_1ITagHandler_aa5a15f340434dc9990b2b10b306642a6.html#aa5a15f340434dc9990b2b10b306642a6" title=" " alt="" coords="2096,137,2303,177"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="2039,136,2083,141,2082,146,2038,141"/>
+<area shape="rect" id="Node000013" href="$d3/daa/interfaceTerraria_1_1GameContent_1_1UI_1_1Chat_1_1IChatMonitor_a38805300297edfac20a1d6f8c2bc4bf1.html#a38805300297edfac20a1d6f8c2bc4bf1" title=" " alt="" coords="1513,191,1769,231"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1451,208,1499,208,1499,213,1451,213"/>
+<area shape="rect" id="Node000014" href="$d3/d78/classTerraria_1_1Audio_1_1SoundEngine_af55950ae09b294fad1dd58e37fecf28b.html#af55950ae09b294fad1dd58e37fecf28b" title="Attempts to play a sound style with the provided sound style (if it&#39;s not null), and returns a valid ..." alt="" coords="1539,279,1743,319"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="1413,221,1466,233,1578,271,1577,276,1465,239,1411,226"/>
+<area shape="poly" id="edge16_Node000014_Node000014" title=" " alt="" coords="1588,279,1585,269,1594,260,1612,254,1641,252,1675,255,1693,262,1691,267,1673,260,1641,257,1613,259,1596,264,1590,270,1593,277"/>
+<area shape="rect" id="Node000017" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="1817,408,2041,448"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="1445,358,1599,361,1685,368,1770,379,1860,401,1859,406,1769,384,1684,373,1599,366,1445,363"/>
+<area shape="rect" id="Node000019" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_aaade702fe346ef5d217fea67020986a9.html#aaade702fe346ef5d217fea67020986a9" title=" " alt="" coords="1535,393,1747,433"/>
+<area shape="poly" id="edge21_Node000016_Node000019" title=" " alt="" coords="1445,378,1522,391,1522,396,1444,383"/>
+<area shape="rect" id="Node000020" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a0e756743934141abf7225f02a6e2441b.html#a0e756743934141abf7225f02a6e2441b" title=" " alt="" coords="1535,481,1747,521"/>
+<area shape="poly" id="edge22_Node000016_Node000020" title=" " alt="" coords="1415,380,1467,403,1491,423,1515,443,1574,473,1571,478,1512,448,1488,427,1464,408,1412,385"/>
+<area shape="rect" id="Node000018" href="$d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a9f1901e50105d9873d2fdf8816e122de.html#a9f1901e50105d9873d2fdf8816e122de" title=" " alt="" coords="2089,408,2309,448"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="2042,425,2075,425,2075,431,2042,431"/>
+<area shape="poly" id="edge23_Node000020_Node000017" title=" " alt="" coords="1720,479,1836,449,1838,454,1721,484"/>
+<area shape="poly" id="edge24_Node000020_Node000020" title=" " alt="" coords="1588,482,1585,472,1594,462,1612,457,1641,455,1675,457,1693,465,1691,470,1673,463,1641,460,1613,462,1596,467,1590,473,1593,480"/>
+<area shape="poly" id="edge27_Node000022_Node000022" title=" " alt="" coords="978,338,978,328,989,319,1008,313,1036,311,1070,314,1089,322,1087,327,1068,320,1036,317,1009,319,991,324,983,330,983,338"/>
+<area shape="rect" id="Node000024" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_ac94c027b766a42dfa853bccbadb23909.html#ac94c027b766a42dfa853bccbadb23909" title=" " alt="" coords="575,365,860,405"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="527,383,561,383,561,388,527,388"/>
+<area shape="rect" id="Node000025" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a0e6e2f34edc8f021884470586b1c5e18.html#a0e6e2f34edc8f021884470586b1c5e18" title=" " alt="" coords="930,417,1142,457"/>
+<area shape="poly" id="edge30_Node000024_Node000025" title=" " alt="" coords="841,403,917,415,916,421,840,408"/>
+<area shape="rect" id="Node000026" href="$dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a3c557297e5656ee799cb1a7e9db234fc.html#a3c557297e5656ee799cb1a7e9db234fc" title="Creates a NetworkText object from a string. Use this for text that can&#39;t be localized." alt="" coords="1233,417,1445,457"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="1142,435,1219,435,1219,440,1142,440"/>
 </map>

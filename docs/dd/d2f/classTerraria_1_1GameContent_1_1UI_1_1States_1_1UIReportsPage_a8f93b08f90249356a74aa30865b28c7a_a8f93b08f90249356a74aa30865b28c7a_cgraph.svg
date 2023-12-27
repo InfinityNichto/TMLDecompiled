@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 1226;
+var viewWidth = 1622;
 var viewHeight = 175;
 var sectionId = 'dynsection-0';
 </script>
@@ -238,9 +238,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node10&#45;&gt;Node10 -->
-<g id="edge12_Node000010_Node000010" class="edge">
+<g id="edge14_Node000010_Node000010" class="edge">
 <title>Node10&#45;&gt;Node10</title>
-<g id="a_edge12_Node000010_Node000010"><a xlink:title=" ">
+<g id="a_edge14_Node000010_Node000010"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M886.7,-54.28C878.96,-63.41 890.56,-72 921.5,-72 939.87,-72 951.42,-68.97 956.16,-64.6"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="959.66,-64.32 956.3,-54.28 952.66,-64.22 959.66,-64.32"/>
 </a>
@@ -265,22 +265,62 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node12 -->
-<g id="Node000012" class="node">
-<title>Node12</title>
-<g id="a_Node000012"><a xlink:href="../../d0/d91/classTerraria_1_1UI_1_1Gamepad_1_1UILinkPage_a00e5839c8d7499b2169a7c9a0899ab05.html#a00e5839c8d7499b2169a7c9a0899ab05" target="_top" xlink:title=" ">
+<!-- Node14 -->
+<g id="Node000014" class="node">
+<title>Node14</title>
+<g id="a_Node000014"><a xlink:href="../../d0/d91/classTerraria_1_1UI_1_1Gamepad_1_1UILinkPage_a00e5839c8d7499b2169a7c9a0899ab05.html#a00e5839c8d7499b2169a7c9a0899ab05" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="1206,-30 1055,-30 1055,0 1206,0 1206,-30"/>
 <text text-anchor="start" x="1063" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.Gamepad.UILink</text>
 <text text-anchor="middle" x="1130.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Page.Leave</text>
 </a>
 </g>
 </g>
-<!-- Node10&#45;&gt;Node12 -->
-<g id="edge11_Node000010_Node000012" class="edge">
-<title>Node10&#45;&gt;Node12</title>
-<g id="a_edge11_Node000010_Node000012"><a xlink:title=" ">
+<!-- Node10&#45;&gt;Node14 -->
+<g id="edge13_Node000010_Node000014" class="edge">
+<title>Node10&#45;&gt;Node14</title>
+<g id="a_edge13_Node000010_Node000014"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M1007.29,-29.17C1019.59,-27.74 1032.26,-26.27 1044.56,-24.85"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="1045.26,-28.29 1054.79,-23.66 1044.45,-21.34 1045.26,-28.29"/>
+</a>
+</g>
+</g>
+<!-- Node12 -->
+<g id="Node000012" class="node">
+<title>Node12</title>
+<g id="a_Node000012"><a xlink:href="../../d4/d52/structTerraria_1_1DataStructures_1_1PlayerInteractionAnchor_ae34349c65bee51c051ecef7f357cd957.html#ae34349c65bee51c051ecef7f357cd957" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1425,-83.5 1254,-83.5 1254,-42.5 1425,-42.5 1425,-83.5"/>
+<text text-anchor="start" x="1262" y="-71.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="start" x="1262" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlayerInteractionAnchor.GetTile</text>
+<text text-anchor="middle" x="1339.5" y="-49.5" font-family="Helvetica,sans-Serif" font-size="10.00">Entity</text>
+</a>
+</g>
+</g>
+<!-- Node11&#45;&gt;Node12 -->
+<g id="edge11_Node000011_Node000012" class="edge">
+<title>Node11&#45;&gt;Node12</title>
+<g id="a_edge11_Node000011_Node000012"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1218.09,-63C1226.61,-63 1235.28,-63 1243.88,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1243.92,-66.5 1253.92,-63 1243.92,-59.5 1243.92,-66.5"/>
+</a>
+</g>
+</g>
+<!-- Node13 -->
+<g id="Node000013" class="node">
+<title>Node13</title>
+<g id="a_Node000013"><a xlink:href="../../d4/d52/structTerraria_1_1DataStructures_1_1PlayerInteractionAnchor_aed923af41529fe1265f46ec23e36f19b.html#aed923af41529fe1265f46ec23e36f19b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1614,-83.5 1461,-83.5 1461,-42.5 1614,-42.5 1614,-83.5"/>
+<text text-anchor="start" x="1469" y="-71.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="start" x="1469" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlayerInteractionAnchor.IsIn</text>
+<text text-anchor="middle" x="1537.5" y="-49.5" font-family="Helvetica,sans-Serif" font-size="10.00">ValidUseTileEntity</text>
+</a>
+</g>
+</g>
+<!-- Node12&#45;&gt;Node13 -->
+<g id="edge12_Node000012_Node000013" class="edge">
+<title>Node12&#45;&gt;Node13</title>
+<g id="a_edge12_Node000012_Node000013"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1425.04,-63C1433.51,-63 1442.12,-63 1450.61,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1450.88,-66.5 1460.88,-63 1450.88,-59.5 1450.88,-66.5"/>
 </a>
 </g>
 </g>

@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 1315;
+var viewWidth = 1711;
 var viewHeight = 472;
 var sectionId = 'dynsection-0';
 </script>
@@ -234,9 +234,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node2&#45;&gt;Node16 -->
-<g id="edge26_Node000002_Node000016" class="edge">
+<g id="edge28_Node000002_Node000016" class="edge">
 <title>Node2&#45;&gt;Node16</title>
-<g id="a_edge26_Node000002_Node000016"><a xlink:title=" ">
+<g id="a_edge28_Node000002_Node000016"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M322.39,-237.22C345.96,-219.36 382.41,-194.28 418,-180 502.05,-146.27 535.88,-179.19 618,-141 636.63,-132.34 635.59,-121.13 654,-112 658.85,-109.59 663.96,-107.41 669.19,-105.42"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="670.44,-108.69 678.7,-102.06 668.11,-102.09 670.44,-108.69"/>
 </a>
@@ -461,9 +461,9 @@ var sectionId = 'dynsection-0';
 </g>
 </g>
 <!-- Node19&#45;&gt;Node19 -->
-<g id="edge25_Node000019_Node000019" class="edge">
+<g id="edge27_Node000019_Node000019" class="edge">
 <title>Node19&#45;&gt;Node19</title>
-<g id="a_edge25_Node000019_Node000019"><a xlink:title=" ">
+<g id="a_edge27_Node000019_Node000019"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M955.62,-54.28C946.88,-63.41 960,-72 995,-72 1015.78,-72 1028.85,-68.97 1034.21,-64.6"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="1037.71,-64.33 1034.38,-54.28 1030.71,-64.22 1037.71,-64.33"/>
 </a>
@@ -488,22 +488,62 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node21 -->
-<g id="Node000021" class="node">
-<title>Node21</title>
-<g id="a_Node000021"><a xlink:href="../../d0/d91/classTerraria_1_1UI_1_1Gamepad_1_1UILinkPage_a00e5839c8d7499b2169a7c9a0899ab05.html#a00e5839c8d7499b2169a7c9a0899ab05" target="_top" xlink:title=" ">
+<!-- Node23 -->
+<g id="Node000023" class="node">
+<title>Node23</title>
+<g id="a_Node000023"><a xlink:href="../../d0/d91/classTerraria_1_1UI_1_1Gamepad_1_1UILinkPage_a00e5839c8d7499b2169a7c9a0899ab05.html#a00e5839c8d7499b2169a7c9a0899ab05" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="1295,-30 1144,-30 1144,0 1295,0 1295,-30"/>
 <text text-anchor="start" x="1152" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.UI.Gamepad.UILink</text>
 <text text-anchor="middle" x="1219.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Page.Leave</text>
 </a>
 </g>
 </g>
-<!-- Node19&#45;&gt;Node21 -->
-<g id="edge24_Node000019_Node000021" class="edge">
-<title>Node19&#45;&gt;Node21</title>
-<g id="a_edge24_Node000019_Node000021"><a xlink:title=" ">
+<!-- Node19&#45;&gt;Node23 -->
+<g id="edge26_Node000019_Node000023" class="edge">
+<title>Node19&#45;&gt;Node23</title>
+<g id="a_edge26_Node000019_Node000023"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M1080.75,-29.86C1098.1,-27.99 1116.36,-26.02 1133.72,-24.15"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="1134.25,-27.61 1143.81,-23.06 1133.49,-20.65 1134.25,-27.61"/>
+</a>
+</g>
+</g>
+<!-- Node21 -->
+<g id="Node000021" class="node">
+<title>Node21</title>
+<g id="a_Node000021"><a xlink:href="../../d4/d52/structTerraria_1_1DataStructures_1_1PlayerInteractionAnchor_ae34349c65bee51c051ecef7f357cd957.html#ae34349c65bee51c051ecef7f357cd957" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1514,-83.5 1343,-83.5 1343,-42.5 1514,-42.5 1514,-83.5"/>
+<text text-anchor="start" x="1351" y="-71.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="start" x="1351" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlayerInteractionAnchor.GetTile</text>
+<text text-anchor="middle" x="1428.5" y="-49.5" font-family="Helvetica,sans-Serif" font-size="10.00">Entity</text>
+</a>
+</g>
+</g>
+<!-- Node20&#45;&gt;Node21 -->
+<g id="edge24_Node000020_Node000021" class="edge">
+<title>Node20&#45;&gt;Node21</title>
+<g id="a_edge24_Node000020_Node000021"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1307.09,-63C1315.61,-63 1324.28,-63 1332.88,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1332.92,-66.5 1342.92,-63 1332.92,-59.5 1332.92,-66.5"/>
+</a>
+</g>
+</g>
+<!-- Node22 -->
+<g id="Node000022" class="node">
+<title>Node22</title>
+<g id="a_Node000022"><a xlink:href="../../d4/d52/structTerraria_1_1DataStructures_1_1PlayerInteractionAnchor_aed923af41529fe1265f46ec23e36f19b.html#aed923af41529fe1265f46ec23e36f19b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1703,-83.5 1550,-83.5 1550,-42.5 1703,-42.5 1703,-83.5"/>
+<text text-anchor="start" x="1558" y="-71.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="start" x="1558" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlayerInteractionAnchor.IsIn</text>
+<text text-anchor="middle" x="1626.5" y="-49.5" font-family="Helvetica,sans-Serif" font-size="10.00">ValidUseTileEntity</text>
+</a>
+</g>
+</g>
+<!-- Node21&#45;&gt;Node22 -->
+<g id="edge25_Node000021_Node000022" class="edge">
+<title>Node21&#45;&gt;Node22</title>
+<g id="a_edge25_Node000021_Node000022"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1514.04,-63C1522.51,-63 1531.12,-63 1539.61,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1539.88,-66.5 1549.88,-63 1539.88,-59.5 1539.88,-66.5"/>
 </a>
 </g>
 </g>

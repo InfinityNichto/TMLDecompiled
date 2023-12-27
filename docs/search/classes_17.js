@@ -1,7 +1,7 @@
 var searchData=
 [
   ['waist_0',['Waist',['../df/d63/classTerraria_1_1ID_1_1ArmorIDs_1_1Waist.html',1,'Terraria::ID::ArmorIDs']]],
-  ['wait_1',['Wait',['../df/d15/classTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1NPCs_1_1Wait.html',1,'Terraria.GameContent.Animations.Actions.NPCs.Wait'],['../d0/d27/classTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Players_1_1Wait.html',1,'Terraria.GameContent.Animations.Actions.Players.Wait'],['../d4/da8/classTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Sprites_1_1Wait.html',1,'Terraria.GameContent.Animations.Actions.Sprites.Wait']]],
+  ['wait_1',['wait',['../df/d15/classTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1NPCs_1_1Wait.html',1,'Terraria.GameContent.Animations.Actions.NPCs.Wait'],['../d0/d27/classTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Players_1_1Wait.html',1,'Terraria.GameContent.Animations.Actions.Players.Wait'],['../d4/da8/classTerraria_1_1GameContent_1_1Animations_1_1Actions_1_1Sprites_1_1Wait.html',1,'Terraria.GameContent.Animations.Actions.Sprites.Wait']]],
   ['walldrawing_2',['WallDrawing',['../d1/d49/classTerraria_1_1GameContent_1_1Drawing_1_1WallDrawing.html',1,'Terraria::GameContent::Drawing']]],
   ['wallentry_3',['WallEntry',['../d6/d26/classTerraria_1_1ModLoader_1_1IO_1_1WallEntry.html',1,'Terraria::ModLoader::IO']]],
   ['wallid_4',['WallID',['../d0/da3/classTerraria_1_1ID_1_1WallID.html',1,'Terraria::ID']]],
@@ -58,7 +58,7 @@ var searchData=
   ['workshoppublishinfostateforresourcepack_55',['WorkshopPublishInfoStateForResourcePack',['../d6/d43/classTerraria_1_1GameContent_1_1UI_1_1States_1_1WorkshopPublishInfoStateForResourcePack.html',1,'Terraria::GameContent::UI::States']]],
   ['workshoppublishinfostateforworld_56',['WorkshopPublishInfoStateForWorld',['../d9/d17/classTerraria_1_1GameContent_1_1UI_1_1States_1_1WorkshopPublishInfoStateForWorld.html',1,'Terraria::GameContent::UI::States']]],
   ['workshoppublishingindicator_57',['WorkshopPublishingIndicator',['../dc/d6c/classTerraria_1_1GameContent_1_1UI_1_1WorkshopPublishingIndicator.html',1,'Terraria::GameContent::UI']]],
-  ['workshopsocialmodule_58',['WorkshopSocialModule',['../de/d63/classTerraria_1_1Social_1_1Base_1_1WorkshopSocialModule.html',1,'Terraria.Social.Base.WorkshopSocialModule'],['../db/d1e/classTerraria_1_1Social_1_1Steam_1_1WorkshopSocialModule.html',1,'Terraria.Social.Steam.WorkshopSocialModule']]],
+  ['workshopsocialmodule_58',['workshopsocialmodule',['../de/d63/classTerraria_1_1Social_1_1Base_1_1WorkshopSocialModule.html',1,'Terraria.Social.Base.WorkshopSocialModule'],['../db/d1e/classTerraria_1_1Social_1_1Steam_1_1WorkshopSocialModule.html',1,'Terraria.Social.Steam.WorkshopSocialModule']]],
   ['workshoptagoption_59',['WorkshopTagOption',['../da/dc0/classTerraria_1_1Social_1_1Base_1_1WorkshopTagOption.html',1,'Terraria::Social::Base']]],
   ['world_60',['World',['../d1/da8/classTerraria_1_1ModLoader_1_1BackupIO_1_1World.html',1,'Terraria::ModLoader::BackupIO']]],
   ['worldfile_61',['WorldFile',['../d7/d54/classTerraria_1_1IO_1_1WorldFile.html',1,'Terraria::IO']]],
@@ -76,7 +76,7 @@ var searchData=
   ['worldutils_73',['WorldUtils',['../d6/d1f/classTerraria_1_1WorldBuilding_1_1WorldUtils.html',1,'Terraria::WorldBuilding']]],
   ['worldworkshopentry_74',['WorldWorkshopEntry',['../da/d39/classTerraria_1_1Social_1_1Base_1_1WorldWorkshopEntry.html',1,'Terraria::Social::Base']]],
   ['wormshader_75',['WormShader',['../df/d8d/classTerraria_1_1GameContent_1_1RGB_1_1WormShader.html',1,'Terraria::GameContent::RGB']]],
-  ['writeinformation_76',['WriteInformation',['../d7/d4a/classTerraria_1_1Social_1_1Steam_1_1SteamP2PWriter_1_1WriteInformation.html',1,'Terraria.Social.Steam.SteamP2PWriter.WriteInformation'],['../d5/d79/classTerraria_1_1Social_1_1WeGame_1_1WeGameP2PWriter_1_1WriteInformation.html',1,'Terraria.Social.WeGame.WeGameP2PWriter.WriteInformation']]],
+  ['writeinformation_76',['writeinformation',['../d5/d79/classTerraria_1_1Social_1_1WeGame_1_1WeGameP2PWriter_1_1WriteInformation.html',1,'Terraria.Social.WeGame.WeGameP2PWriter.WriteInformation'],['../d7/d4a/classTerraria_1_1Social_1_1Steam_1_1SteamP2PWriter_1_1WriteInformation.html',1,'Terraria.Social.Steam.SteamP2PWriter.WriteInformation']]],
   ['wscjsonobject_77',['WscJsonObject',['../d3/d64/classWscJsonObject.html',1,'']]],
   ['wyvernskyentity_78',['WyvernSkyEntity',['../dc/d01/classTerraria_1_1GameContent_1_1Skies_1_1AmbientSky_1_1WyvernSkyEntity.html',1,'Terraria::GameContent::Skies::AmbientSky']]]
 ];

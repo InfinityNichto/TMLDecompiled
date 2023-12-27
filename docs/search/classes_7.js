@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['game_0',['Game',['../d9/d68/classGame.html',1,'Game'],['../d8/d96/classTerraria_1_1Server_1_1Game.html',1,'Terraria.Server.Game']]],
+  ['game_0',['game',['../d9/d68/classGame.html',1,'Game'],['../d8/d96/classTerraria_1_1Server_1_1Game.html',1,'Terraria.Server.Game']]],
   ['gameanimationsegment_1',['GameAnimationSegment',['../de/d78/structTerraria_1_1GameContent_1_1Animations_1_1GameAnimationSegment.html',1,'Terraria::GameContent::Animations']]],
   ['gameconfiguration_2',['GameConfiguration',['../d7/d04/classTerraria_1_1IO_1_1GameConfiguration.html',1,'Terraria::IO']]],
   ['gameculture_3',['GameCulture',['../db/d5b/classTerraria_1_1Localization_1_1GameCulture.html',1,'Terraria::Localization']]],

@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 719;
+var viewWidth = 1167;
 var viewHeight = 59;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="711,-51 560,-51 560,-21 711,-21 711,-51"/>
-<text text-anchor="start" x="568" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
-<text text-anchor="middle" x="635.5" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureCamera.SaveImage</text>
+<polygon fill="#999999" stroke="#666666" points="1159,-51 1008,-51 1008,-21 1159,-21 1159,-51"/>
+<text text-anchor="start" x="1016" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
+<text text-anchor="middle" x="1083.5" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureCamera.SaveImage</text>
 </a>
 </g>
 </g>
@@ -68,9 +68,9 @@ var sectionId = 'dynsection-1';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d5/d3b/classTerraria_1_1Graphics_1_1Capture_1_1CaptureCamera_a0f89b111e49e173b59c7d4eae1ec828f.html#a0f89b111e49e173b59c7d4eae1ec828f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="325,-51 182,-51 182,-21 325,-21 325,-51"/>
-<text text-anchor="start" x="190" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
-<text text-anchor="middle" x="253.5" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureCamera.DrawTick</text>
+<polygon fill="white" stroke="#666666" points="773,-51 630,-51 630,-21 773,-21 773,-51"/>
+<text text-anchor="start" x="638" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
+<text text-anchor="middle" x="701.5" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureCamera.DrawTick</text>
 </a>
 </g>
 </g>
@@ -78,27 +78,27 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M549.73,-38.54C541.04,-38.73 532.34,-38.89 524,-39 451.56,-39.98 433.44,-40.02 361,-39 349.44,-38.84 337.18,-38.58 325.24,-38.27"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="549.99,-42.03 559.91,-38.3 549.83,-35.03 549.99,-42.03"/>
+<path fill="none" stroke="#63b8ff" d="M997.73,-38.54C989.04,-38.73 980.34,-38.89 972,-39 899.56,-39.98 881.44,-40.02 809,-39 797.44,-38.84 785.18,-38.58 773.24,-38.27"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="997.99,-42.03 1007.91,-38.3 997.83,-35.03 997.99,-42.03"/>
 </a>
 </g>
 </g>
-<!-- Node4 -->
-<g id="Node000004" class="node">
-<title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../d5/d3b/classTerraria_1_1Graphics_1_1Capture_1_1CaptureCamera_a50841e22e913295c1405e5571e31e015.html#a50841e22e913295c1405e5571e31e015" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="524,-30 361,-30 361,0 524,0 524,-30"/>
-<text text-anchor="start" x="369" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
-<text text-anchor="middle" x="442.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureCamera.FinishCapture</text>
+<!-- Node7 -->
+<g id="Node000007" class="node">
+<title>Node7</title>
+<g id="a_Node000007"><a xlink:href="../../d5/d3b/classTerraria_1_1Graphics_1_1Capture_1_1CaptureCamera_a50841e22e913295c1405e5571e31e015.html#a50841e22e913295c1405e5571e31e015" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="972,-30 809,-30 809,0 972,0 972,-30"/>
+<text text-anchor="start" x="817" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
+<text text-anchor="middle" x="890.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureCamera.FinishCapture</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node4 -->
-<g id="edge3_Node000001_Node000004" class="edge">
-<title>Node1&#45;&gt;Node4</title>
-<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M549.86,-26.69C541.3,-25.75 532.63,-24.8 524.11,-23.86"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="549.51,-30.18 559.83,-27.79 550.28,-23.22 549.51,-30.18"/>
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge6_Node000001_Node000007" class="edge">
+<title>Node1&#45;&gt;Node7</title>
+<g id="a_edge6_Node000001_Node000007"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M997.86,-26.69C989.3,-25.75 980.63,-24.8 972.11,-23.86"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="997.51,-30.18 1007.83,-27.79 998.28,-23.22 997.51,-30.18"/>
 </a>
 </g>
 </g>
@@ -106,9 +106,9 @@ var sectionId = 'dynsection-1';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d4/d78/classTerraria_1_1Graphics_1_1Capture_1_1CaptureManager_a692c32176bdf72053b0217a48bc49dd5.html#a692c32176bdf72053b0217a48bc49dd5" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="146,-51 0,-51 0,-21 146,-21 146,-51"/>
-<text text-anchor="start" x="8" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
-<text text-anchor="middle" x="73" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureManager.DrawTick</text>
+<polygon fill="white" stroke="#666666" points="594,-51 448,-51 448,-21 594,-21 594,-51"/>
+<text text-anchor="start" x="456" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Capture.</text>
+<text text-anchor="middle" x="521" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">CaptureManager.DrawTick</text>
 </a>
 </g>
 </g>
@@ -116,17 +116,72 @@ var sectionId = 'dynsection-1';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M171.91,-36C163.3,-36 154.59,-36 146.08,-36"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="171.95,-39.5 181.95,-36 171.95,-32.5 171.95,-39.5"/>
+<path fill="none" stroke="#63b8ff" d="M619.91,-36C611.3,-36 602.59,-36 594.08,-36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="619.95,-39.5 629.95,-36 619.95,-32.5 619.95,-39.5"/>
 </a>
 </g>
 </g>
-<!-- Node4&#45;&gt;Node2 -->
-<g id="edge4_Node000004_Node000002" class="edge">
-<title>Node4&#45;&gt;Node2</title>
-<g id="a_edge4_Node000004_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M350.78,-25.19C342.19,-26.15 333.56,-27.12 325.19,-28.06"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="351.29,-28.65 360.84,-24.06 350.51,-21.7 351.29,-28.65"/>
+<!-- Node4 -->
+<g id="Node000004" class="node">
+<title>Node4</title>
+<g id="a_Node000004"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a474beeecaea4d6dd108fba56cd554d46.html#a474beeecaea4d6dd108fba56cd554d46" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="412,-45.5 290,-45.5 290,-26.5 412,-26.5 412,-45.5"/>
+<text text-anchor="middle" x="351" y="-33.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.DoDraw</text>
+</a>
+</g>
+</g>
+<!-- Node3&#45;&gt;Node4 -->
+<g id="edge3_Node000003_Node000004" class="edge">
+<title>Node3&#45;&gt;Node4</title>
+<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M437.67,-36C429.03,-36 420.37,-36 412.04,-36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="437.78,-39.5 447.78,-36 437.78,-32.5 437.78,-39.5"/>
+</a>
+</g>
+</g>
+<!-- Node5 -->
+<g id="Node000005" class="node">
+<title>Node5</title>
+<g id="a_Node000005"><a xlink:href="../../da/dd5/classTerraria_1_1Main_aa597dbafa085227bb056d05d0b0f9abe.html#aa597dbafa085227bb056d05d0b0f9abe" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="254,-51 145,-51 145,-21 254,-21 254,-51"/>
+<text text-anchor="start" x="153" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.Draw</text>
+<text text-anchor="middle" x="199.5" y="-28" font-family="Helvetica,sans-Serif" font-size="10.00">_Inner</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node5 -->
+<g id="edge4_Node000004_Node000005" class="edge">
+<title>Node4&#45;&gt;Node5</title>
+<g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M279.41,-36C270.99,-36 262.49,-36 254.35,-36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="279.62,-39.5 289.62,-36 279.62,-32.5 279.62,-39.5"/>
+</a>
+</g>
+</g>
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../da/dd5/classTerraria_1_1Main_a516aa31311860bad4242ade32e5effcd.html#a516aa31311860bad4242ade32e5effcd" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="109,-45.5 0,-45.5 0,-26.5 109,-26.5 109,-45.5"/>
+<text text-anchor="middle" x="54.5" y="-33.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Main.Draw</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge5_Node000005_Node000006" class="edge">
+<title>Node5&#45;&gt;Node6</title>
+<g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M134.68,-36C126.25,-36 117.69,-36 109.46,-36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="134.85,-39.5 144.85,-36 134.85,-32.5 134.85,-39.5"/>
+</a>
+</g>
+</g>
+<!-- Node7&#45;&gt;Node2 -->
+<g id="edge7_Node000007_Node000002" class="edge">
+<title>Node7&#45;&gt;Node2</title>
+<g id="a_edge7_Node000007_Node000002"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M798.78,-25.19C790.19,-26.15 781.56,-27.12 773.19,-28.06"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="799.29,-28.65 808.84,-24.06 798.51,-21.7 799.29,-28.65"/>
 </a>
 </g>
 </g>

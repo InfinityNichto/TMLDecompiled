@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 1179;
+var viewWidth = 984;
 var viewHeight = 76;
 var sectionId = 'dynsection-0';
 </script>
@@ -83,19 +83,19 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node7 -->
-<g id="Node000007" class="node">
-<title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../df/dd3/classTerraria_1_1Lang_af99a2e7e70f95e152e48e5a07d026dd4.html#af99a2e7e70f95e152e48e5a07d026dd4" target="_top" xlink:title="Gets the display name of the provided npc type (F:Terraria.NPC.type) as a T:Terraria....">
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../df/dd3/classTerraria_1_1Lang_af99a2e7e70f95e152e48e5a07d026dd4.html#af99a2e7e70f95e152e48e5a07d026dd4" target="_top" xlink:title="Gets the display name of the provided npc type (F:Terraria.NPC.type) as a T:Terraria....">
 <polygon fill="white" stroke="#666666" points="331,-19 182,-19 182,0 331,0 331,-19"/>
 <text text-anchor="middle" x="256.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Lang.GetNPCName</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node7 -->
-<g id="edge7_Node000001_Node000007" class="edge">
-<title>Node1&#45;&gt;Node7</title>
-<g id="a_edge7_Node000001_Node000007"><a xlink:title=" ">
+<!-- Node1&#45;&gt;Node6 -->
+<g id="edge5_Node000001_Node000006" class="edge">
+<title>Node1&#45;&gt;Node6</title>
+<g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M141.06,-22.56C151.06,-21.42 161.44,-20.24 171.68,-19.07"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="172.31,-22.52 181.85,-17.91 171.52,-15.56 172.31,-22.52"/>
 </a>
@@ -104,10 +104,10 @@ var sectionId = 'dynsection-0';
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="../../dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a228daadb176f9c90582b5bba4a230c45.html#a228daadb176f9c90582b5bba4a230c45" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="1171,-66.5 1012,-66.5 1012,-36.5 1171,-36.5 1171,-66.5"/>
-<text text-anchor="start" x="1020" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Network</text>
-<text text-anchor="middle" x="1091.5" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">Text.NetworkText</text>
+<g id="a_Node000003"><a xlink:href="../../dd/dd4/classTerraria_1_1Localization_1_1NetworkText_ac94c027b766a42dfa853bccbadb23909.html#ac94c027b766a42dfa853bccbadb23909" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="586,-67.5 372,-67.5 372,-37.5 586,-37.5 586,-67.5"/>
+<text text-anchor="start" x="380" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Network</text>
+<text text-anchor="middle" x="479" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">Text.ConvertSubstitutionsToNetworkText</text>
 </a>
 </g>
 </g>
@@ -115,37 +115,37 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M336.03,-54.05C348.08,-54.24 360.37,-54.4 372,-54.5 640.43,-56.84 707.58,-58.02 976,-54.5 984.36,-54.39 993.06,-54.24 1001.77,-54.05"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1002.05,-57.55 1011.97,-53.83 1001.9,-50.55 1002.05,-57.55"/>
+<path fill="none" stroke="#63b8ff" d="M336.17,-52.5C344.44,-52.5 352.96,-52.5 361.54,-52.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="361.62,-56 371.62,-52.5 361.62,-49 361.62,-56"/>
 </a>
 </g>
 </g>
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../dd/dd4/classTerraria_1_1Localization_1_1NetworkText_ac94c027b766a42dfa853bccbadb23909.html#ac94c027b766a42dfa853bccbadb23909" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="586,-45.5 372,-45.5 372,-15.5 586,-15.5 586,-45.5"/>
-<text text-anchor="start" x="380" y="-33.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Network</text>
-<text text-anchor="middle" x="479" y="-22.5" font-family="Helvetica,sans-Serif" font-size="10.00">Text.ConvertSubstitutionsToNetworkText</text>
+<g id="a_Node000004"><a xlink:href="../../dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a0e6e2f34edc8f021884470586b1c5e18.html#a0e6e2f34edc8f021884470586b1c5e18" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="781,-67.5 622,-67.5 622,-37.5 781,-37.5 781,-67.5"/>
+<text text-anchor="start" x="630" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Network</text>
+<text text-anchor="middle" x="701.5" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">Text.From</text>
 </a>
 </g>
 </g>
-<!-- Node2&#45;&gt;Node4 -->
-<g id="edge3_Node000002_Node000004" class="edge">
-<title>Node2&#45;&gt;Node4</title>
-<g id="a_edge3_Node000002_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M336.17,-44.65C344.44,-43.83 352.96,-42.98 361.54,-42.12"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="362.02,-45.59 371.62,-41.11 361.32,-38.62 362.02,-45.59"/>
+<!-- Node3&#45;&gt;Node4 -->
+<g id="edge3_Node000003_Node000004" class="edge">
+<title>Node3&#45;&gt;Node4</title>
+<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M586.05,-52.5C594.6,-52.5 603.18,-52.5 611.6,-52.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="611.76,-56 621.76,-52.5 611.76,-49 611.76,-56"/>
 </a>
 </g>
 </g>
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a0e6e2f34edc8f021884470586b1c5e18.html#a0e6e2f34edc8f021884470586b1c5e18" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="781,-45.5 622,-45.5 622,-15.5 781,-15.5 781,-45.5"/>
-<text text-anchor="start" x="630" y="-33.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Network</text>
-<text text-anchor="middle" x="701.5" y="-22.5" font-family="Helvetica,sans-Serif" font-size="10.00">Text.From</text>
+<g id="a_Node000005"><a xlink:href="../../dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a3c557297e5656ee799cb1a7e9db234fc.html#a3c557297e5656ee799cb1a7e9db234fc" target="_top" xlink:title="Creates a NetworkText object from a string. Use this for text that can&#39;t be localized.">
+<polygon fill="white" stroke="#666666" points="976,-67.5 817,-67.5 817,-37.5 976,-37.5 976,-67.5"/>
+<text text-anchor="start" x="825" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Network</text>
+<text text-anchor="middle" x="896.5" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">Text.FromLiteral</text>
 </a>
 </g>
 </g>
@@ -153,36 +153,8 @@ var sectionId = 'dynsection-0';
 <g id="edge4_Node000004_Node000005" class="edge">
 <title>Node4&#45;&gt;Node5</title>
 <g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M586.05,-30.5C594.6,-30.5 603.18,-30.5 611.6,-30.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="611.76,-34 621.76,-30.5 611.76,-27 611.76,-34"/>
-</a>
-</g>
-</g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../dd/dd4/classTerraria_1_1Localization_1_1NetworkText_a3c557297e5656ee799cb1a7e9db234fc.html#a3c557297e5656ee799cb1a7e9db234fc" target="_top" xlink:title="Creates a NetworkText object from a string. Use this for text that can&#39;t be localized.">
-<polygon fill="white" stroke="#666666" points="976,-45.5 817,-45.5 817,-15.5 976,-15.5 976,-45.5"/>
-<text text-anchor="start" x="825" y="-33.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Network</text>
-<text text-anchor="middle" x="896.5" y="-22.5" font-family="Helvetica,sans-Serif" font-size="10.00">Text.FromLiteral</text>
-</a>
-</g>
-</g>
-<!-- Node5&#45;&gt;Node6 -->
-<g id="edge5_Node000005_Node000006" class="edge">
-<title>Node5&#45;&gt;Node6</title>
-<g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M781,-30.5C789.48,-30.5 798.14,-30.5 806.73,-30.5"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="806.76,-34 816.76,-30.5 806.76,-27 806.76,-34"/>
-</a>
-</g>
-</g>
-<!-- Node6&#45;&gt;Node3 -->
-<g id="edge6_Node000006_Node000003" class="edge">
-<title>Node6&#45;&gt;Node3</title>
-<g id="a_edge6_Node000006_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M976,-39.04C984.48,-39.96 993.14,-40.91 1001.73,-41.84"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="1001.44,-45.33 1011.76,-42.93 1002.19,-38.37 1001.44,-45.33"/>
+<path fill="none" stroke="#63b8ff" d="M781,-52.5C789.48,-52.5 798.14,-52.5 806.73,-52.5"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="806.76,-56 816.76,-52.5 806.76,-49 806.76,-56"/>
 </a>
 </g>
 </g>

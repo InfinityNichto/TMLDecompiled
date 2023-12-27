@@ -136,13 +136,31 @@ var sectionId = 'dynsection-0';
 </a>
 </g>
 </g>
-<!-- Node7 -->
-<g id="Node000007" class="node">
-<title>Node7</title>
-<g id="a_Node000007"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a7069a642e4d55277c18a0aceef49a635.html#a7069a642e4d55277c18a0aceef49a635" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsTileFullbright instead.">
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a7069a642e4d55277c18a0aceef49a635.html#a7069a642e4d55277c18a0aceef49a635" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsTileFullbright instead.">
 <polygon fill="white" stroke="#666666" points="552.5,-421 430.5,-421 430.5,-391 552.5,-391 552.5,-421"/>
 <text text-anchor="start" x="438.5" y="-409" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.fullbright</text>
 <text text-anchor="middle" x="491.5" y="-398" font-family="Helvetica,sans-Serif" font-size="10.00">Block</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node6 -->
+<g id="edge5_Node000002_Node000006" class="edge">
+<title>Node2&#45;&gt;Node6</title>
+<g id="a_edge5_Node000002_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M305.36,-313.12C327.55,-331.74 367.78,-363.19 407,-382 411.36,-384.09 415.94,-386.04 420.61,-387.84"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="419.7,-391.23 430.3,-391.33 422.08,-384.65 419.7,-391.23"/>
+</a>
+</g>
+</g>
+<!-- Node7 -->
+<g id="Node000007" class="node">
+<title>Node7</title>
+<g id="a_Node000007"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a3b7bd5420f76606332e38630dd2d406f.html#a3b7bd5420f76606332e38630dd2d406f" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsWallFullbright instead.">
+<polygon fill="white" stroke="#666666" points="563,-372.5 420,-372.5 420,-353.5 563,-353.5 563,-372.5"/>
+<text text-anchor="middle" x="491.5" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.fullbrightWall</text>
 </a>
 </g>
 </g>
@@ -150,17 +168,18 @@ var sectionId = 'dynsection-0';
 <g id="edge6_Node000002_Node000007" class="edge">
 <title>Node2&#45;&gt;Node7</title>
 <g id="a_edge6_Node000002_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M305.36,-313.12C327.55,-331.74 367.78,-363.19 407,-382 411.36,-384.09 415.94,-386.04 420.61,-387.84"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="419.7,-391.23 430.3,-391.33 422.08,-384.65 419.7,-391.23"/>
+<path fill="none" stroke="#63b8ff" d="M322.94,-313.05C346.4,-322.77 378.19,-335.2 407,-344 415.37,-346.55 424.3,-348.94 433.1,-351.1"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="432.4,-354.53 442.93,-353.43 434.01,-347.72 432.4,-354.53"/>
 </a>
 </g>
 </g>
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a3b7bd5420f76606332e38630dd2d406f.html#a3b7bd5420f76606332e38630dd2d406f" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsWallFullbright instead.">
-<polygon fill="white" stroke="#666666" points="563,-372.5 420,-372.5 420,-353.5 563,-353.5 563,-372.5"/>
-<text text-anchor="middle" x="491.5" y="-360.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.fullbrightWall</text>
+<g id="a_Node000008"><a xlink:href="../../dd/d87/classTerraria_1_1Map_1_1MapHelper_a98300ca1ce0faa835057a44d13029124.html#a98300ca1ce0faa835057a44d13029124" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="568,-335 415,-335 415,-305 568,-305 568,-335"/>
+<text text-anchor="start" x="423" y="-323" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Map.MapHelper.Get</text>
+<text text-anchor="middle" x="491.5" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">TileBaseOption</text>
 </a>
 </g>
 </g>
@@ -168,36 +187,35 @@ var sectionId = 'dynsection-0';
 <g id="edge7_Node000002_Node000008" class="edge">
 <title>Node2&#45;&gt;Node8</title>
 <g id="a_edge7_Node000002_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M322.94,-313.05C346.4,-322.77 378.19,-335.2 407,-344 415.37,-346.55 424.3,-348.94 433.1,-351.1"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="432.4,-354.53 442.93,-353.43 434.01,-347.72 432.4,-354.53"/>
-</a>
-</g>
-</g>
-<!-- Node9 -->
-<g id="Node000009" class="node">
-<title>Node9</title>
-<g id="a_Node000009"><a xlink:href="../../dd/d87/classTerraria_1_1Map_1_1MapHelper_a98300ca1ce0faa835057a44d13029124.html#a98300ca1ce0faa835057a44d13029124" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="568,-335 415,-335 415,-305 568,-305 568,-335"/>
-<text text-anchor="start" x="423" y="-323" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Map.MapHelper.Get</text>
-<text text-anchor="middle" x="491.5" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">TileBaseOption</text>
-</a>
-</g>
-</g>
-<!-- Node2&#45;&gt;Node9 -->
-<g id="edge8_Node000002_Node000009" class="edge">
-<title>Node2&#45;&gt;Node9</title>
-<g id="a_edge8_Node000002_Node000009"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M371.24,-307.04C382.27,-308.24 393.58,-309.47 404.65,-310.67"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="404.41,-314.17 414.73,-311.77 405.17,-307.21 404.41,-314.17"/>
+</a>
+</g>
+</g>
+<!-- Node11 -->
+<g id="Node000011" class="node">
+<title>Node11</title>
+<g id="a_Node000011"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a994ba3606f0c15d01f258fc7baf06338.html#a994ba3606f0c15d01f258fc7baf06338" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsTileInvisible instead.">
+<polygon fill="white" stroke="#666666" points="564.5,-286.5 418.5,-286.5 418.5,-267.5 564.5,-267.5 564.5,-286.5"/>
+<text text-anchor="middle" x="491.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.invisibleBlock</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node11 -->
+<g id="edge10_Node000002_Node000011" class="edge">
+<title>Node2&#45;&gt;Node11</title>
+<g id="a_edge10_Node000002_Node000011"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M371.24,-289.37C383.43,-288.1 395.97,-286.8 408.14,-285.54"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="408.68,-289 418.26,-284.49 407.95,-282.04 408.68,-289"/>
 </a>
 </g>
 </g>
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a994ba3606f0c15d01f258fc7baf06338.html#a994ba3606f0c15d01f258fc7baf06338" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsTileInvisible instead.">
-<polygon fill="white" stroke="#666666" points="564.5,-286.5 418.5,-286.5 418.5,-267.5 564.5,-267.5 564.5,-286.5"/>
-<text text-anchor="middle" x="491.5" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.invisibleBlock</text>
+<g id="a_Node000012"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a57ac1450e9330144134ae00a73e5afc6.html#a57ac1450e9330144134ae00a73e5afc6" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsWallInvisible instead.">
+<polygon fill="white" stroke="#666666" points="561.5,-249.5 421.5,-249.5 421.5,-230.5 561.5,-230.5 561.5,-249.5"/>
+<text text-anchor="middle" x="491.5" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.invisibleWall</text>
 </a>
 </g>
 </g>
@@ -205,17 +223,18 @@ var sectionId = 'dynsection-0';
 <g id="edge11_Node000002_Node000012" class="edge">
 <title>Node2&#45;&gt;Node12</title>
 <g id="a_edge11_Node000002_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M371.24,-289.37C383.43,-288.1 395.97,-286.8 408.14,-285.54"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="408.68,-289 418.26,-284.49 407.95,-282.04 408.68,-289"/>
+<path fill="none" stroke="#63b8ff" d="M330.67,-282.95C353.21,-275.27 381.44,-266.08 407,-259 415.94,-256.52 425.49,-254.12 434.81,-251.91"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="435.86,-255.26 444.8,-249.59 434.27,-248.45 435.86,-255.26"/>
 </a>
 </g>
 </g>
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_a57ac1450e9330144134ae00a73e5afc6.html#a57ac1450e9330144134ae00a73e5afc6" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.IsWallInvisible instead.">
-<polygon fill="white" stroke="#666666" points="561.5,-249.5 421.5,-249.5 421.5,-230.5 561.5,-230.5 561.5,-249.5"/>
-<text text-anchor="middle" x="491.5" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.invisibleWall</text>
+<g id="a_Node000013"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_a80427dcf1c36b3a0e0e4a47604aa832a.html#a80427dcf1c36b3a0e0e4a47604aa832a" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="559,-212 424,-212 424,-182 559,-182 559,-212"/>
+<text text-anchor="start" x="432" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.IsThis</text>
+<text text-anchor="middle" x="491.5" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">AMushroomTree</text>
 </a>
 </g>
 </g>
@@ -223,18 +242,17 @@ var sectionId = 'dynsection-0';
 <g id="edge12_Node000002_Node000013" class="edge">
 <title>Node2&#45;&gt;Node13</title>
 <g id="a_edge12_Node000002_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M330.67,-282.95C353.21,-275.27 381.44,-266.08 407,-259 415.94,-256.52 425.49,-254.12 434.81,-251.91"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="435.86,-255.26 444.8,-249.59 434.27,-248.45 435.86,-255.26"/>
+<path fill="none" stroke="#63b8ff" d="M308.07,-282.71C330.95,-265.87 370.01,-238.95 407,-222 412.07,-219.68 417.42,-217.5 422.85,-215.48"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="424.41,-218.64 432.68,-212.02 422.09,-212.04 424.41,-218.64"/>
 </a>
 </g>
 </g>
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_a80427dcf1c36b3a0e0e4a47604aa832a.html#a80427dcf1c36b3a0e0e4a47604aa832a" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="559,-212 424,-212 424,-182 559,-182 559,-212"/>
-<text text-anchor="start" x="432" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.IsThis</text>
-<text text-anchor="middle" x="491.5" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00">AMushroomTree</text>
+<g id="a_Node000014"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_aae758079f57e61378841aaf0fc884e71.html#aae758079f57e61378841aaf0fc884e71" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.LiquidType instead.">
+<polygon fill="white" stroke="#666666" points="555,-163.5 428,-163.5 428,-144.5 555,-144.5 555,-163.5"/>
+<text text-anchor="middle" x="491.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.liquidType</text>
 </a>
 </g>
 </g>
@@ -242,17 +260,18 @@ var sectionId = 'dynsection-0';
 <g id="edge13_Node000002_Node000014" class="edge">
 <title>Node2&#45;&gt;Node14</title>
 <g id="a_edge13_Node000002_Node000014"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M308.07,-282.71C330.95,-265.87 370.01,-238.95 407,-222 412.07,-219.68 417.42,-217.5 422.85,-215.48"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="424.41,-218.64 432.68,-212.02 422.09,-212.04 424.41,-218.64"/>
+<path fill="none" stroke="#63b8ff" d="M297.78,-282.97C315.93,-256.36 357.51,-201.13 407,-173 410.96,-170.75 415.17,-168.76 419.51,-167.02"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="420.95,-170.22 429.18,-163.55 418.58,-163.63 420.95,-170.22"/>
 </a>
 </g>
 </g>
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_aae758079f57e61378841aaf0fc884e71.html#aae758079f57e61378841aaf0fc884e71" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.LiquidType instead.">
-<polygon fill="white" stroke="#666666" points="555,-163.5 428,-163.5 428,-144.5 555,-144.5 555,-163.5"/>
-<text text-anchor="middle" x="491.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.liquidType</text>
+<g id="a_Node000015"><a xlink:href="../../d7/d4d/classTerraria_1_1ModLoader_1_1MapLoader_a5e2a3cdc68f5c135afc2c783552a8a8d.html#a5e2a3cdc68f5c135afc2c783552a8a8d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="576,-126 407,-126 407,-96 576,-96 576,-126"/>
+<text text-anchor="start" x="415" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.MapLoader.</text>
+<text text-anchor="middle" x="491.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">ModMapOption</text>
 </a>
 </g>
 </g>
@@ -260,193 +279,156 @@ var sectionId = 'dynsection-0';
 <g id="edge14_Node000002_Node000015" class="edge">
 <title>Node2&#45;&gt;Node15</title>
 <g id="a_edge14_Node000002_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M297.78,-282.97C315.93,-256.36 357.51,-201.13 407,-173 410.96,-170.75 415.17,-168.76 419.51,-167.02"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="420.95,-170.22 429.18,-163.55 418.58,-163.63 420.95,-170.22"/>
-</a>
-</g>
-</g>
-<!-- Node16 -->
-<g id="Node000016" class="node">
-<title>Node16</title>
-<g id="a_Node000016"><a xlink:href="../../d7/d4d/classTerraria_1_1ModLoader_1_1MapLoader_a5e2a3cdc68f5c135afc2c783552a8a8d.html#a5e2a3cdc68f5c135afc2c783552a8a8d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="576,-126 407,-126 407,-96 576,-96 576,-126"/>
-<text text-anchor="start" x="415" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.MapLoader.</text>
-<text text-anchor="middle" x="491.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">ModMapOption</text>
-</a>
-</g>
-</g>
-<!-- Node2&#45;&gt;Node16 -->
-<g id="edge15_Node000002_Node000016" class="edge">
-<title>Node2&#45;&gt;Node16</title>
-<g id="a_edge15_Node000002_Node000016"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M294.86,-282.95C310.22,-250.95 350.53,-175.81 407,-136 409.72,-134.08 412.59,-132.31 415.56,-130.67"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="417.32,-133.7 424.75,-126.15 414.23,-127.42 417.32,-133.7"/>
-</a>
-</g>
-</g>
-<!-- Node22 -->
-<g id="Node000022" class="node">
-<title>Node22</title>
-<g id="a_Node000022"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_ae29f1e935710d0c9f5e325f873709719.html#ae29f1e935710d0c9f5e325f873709719" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.WallColor instead.">
-<polygon fill="white" stroke="#666666" points="553,-77.5 430,-77.5 430,-58.5 553,-58.5 553,-77.5"/>
-<text text-anchor="middle" x="491.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.wallColor</text>
-</a>
-</g>
-</g>
-<!-- Node2&#45;&gt;Node22 -->
-<g id="edge21_Node000002_Node000022" class="edge">
-<title>Node2&#45;&gt;Node22</title>
-<g id="a_edge21_Node000002_Node000022"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M291.9,-282.92C302.81,-243.85 337.54,-138.77 407,-87 411.14,-83.91 415.69,-81.32 420.47,-79.13"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="421.87,-82.34 429.89,-75.41 419.31,-75.83 421.87,-82.34"/>
-</a>
-</g>
-</g>
-<!-- Node6 -->
-<g id="Node000006" class="node">
-<title>Node6</title>
-<g id="a_Node000006"><a xlink:href="../../d3/d33/structTerraria_1_1Map_1_1MapTile_adf7674d091e826ea6449ddc21eabc821.html#adf7674d091e826ea6449ddc21eabc821" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="788,-458.5 627,-458.5 627,-439.5 788,-439.5 788,-458.5"/>
-<text text-anchor="middle" x="707.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Map.MapTile.MapTile</text>
-</a>
-</g>
-</g>
-<!-- Node5&#45;&gt;Node6 -->
-<g id="edge5_Node000005_Node000006" class="edge">
-<title>Node5&#45;&gt;Node6</title>
-<g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M569.15,-449C584.5,-449 600.76,-449 616.51,-449"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="616.77,-452.5 626.77,-449 616.77,-445.5 616.77,-452.5"/>
-</a>
-</g>
-</g>
-<!-- Node10 -->
-<g id="Node000010" class="node">
-<title>Node10</title>
-<g id="a_Node000010"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_a7c1741b0f61ee9db9738672b50925bfb.html#a7c1741b0f61ee9db9738672b50925bfb" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="785,-357 630,-357 630,-327 785,-327 785,-357"/>
-<text text-anchor="start" x="638" y="-345" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.GetBiome</text>
-<text text-anchor="middle" x="707.5" y="-334" font-family="Helvetica,sans-Serif" font-size="10.00">Influence</text>
-</a>
-</g>
-</g>
-<!-- Node9&#45;&gt;Node10 -->
-<g id="edge9_Node000009_Node000010" class="edge">
-<title>Node9&#45;&gt;Node10</title>
-<g id="a_edge9_Node000009_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M568.25,-327.79C584.93,-329.5 602.73,-331.33 619.81,-333.09"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="619.46,-336.57 629.77,-334.11 620.18,-329.61 619.46,-336.57"/>
-</a>
-</g>
-</g>
-<!-- Node11 -->
-<g id="Node000011" class="node">
-<title>Node11</title>
-<g id="a_Node000011"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_a236d51f1c500d24d40f38a3d24f5d20e.html#a236d51f1c500d24d40f38a3d24f5d20e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="797,-308.5 618,-308.5 618,-289.5 797,-289.5 797,-308.5"/>
-<text text-anchor="middle" x="707.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.GetCactusType</text>
-</a>
-</g>
-</g>
-<!-- Node9&#45;&gt;Node11 -->
-<g id="edge10_Node000009_Node000011" class="edge">
-<title>Node9&#45;&gt;Node11</title>
-<g id="a_edge10_Node000009_Node000011"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M568.25,-312.57C580.99,-311.32 594.38,-310 607.61,-308.7"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="608.07,-312.18 617.68,-307.72 607.38,-305.21 608.07,-312.18"/>
-</a>
-</g>
-</g>
-<!-- Node17 -->
-<g id="Node000017" class="node">
-<title>Node17</title>
-<g id="a_Node000017"><a xlink:href="../../d9/d9f/classTerraria_1_1ModLoader_1_1ModBlockType_a72e55e7b3e53f3560cd4cf73f7d068b8.html#a72e55e7b3e53f3560cd4cf73f7d068b8" target="_top" xlink:title="Allows you to choose which minimap entry the tile/wall at the given coordinates will use....">
-<polygon fill="white" stroke="#666666" points="788,-222 627,-222 627,-192 788,-192 788,-222"/>
-<text text-anchor="start" x="635" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.ModBlock</text>
-<text text-anchor="middle" x="707.5" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">Type.GetMapOption</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node17 -->
-<g id="edge16_Node000016_Node000017" class="edge">
-<title>Node16&#45;&gt;Node17</title>
-<g id="a_edge16_Node000016_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M557.74,-126.07C564.18,-128.85 570.4,-132.13 576,-136 597.66,-150.94 590.03,-168.52 612,-183 614.45,-184.62 617,-186.12 619.63,-187.53"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="618.3,-190.77 628.83,-191.93 621.32,-184.46 618.3,-190.77"/>
-</a>
-</g>
-</g>
-<!-- Node18 -->
-<g id="Node000018" class="node">
-<title>Node18</title>
-<g id="a_Node000018"><a xlink:href="../../d1/d70/classTerraria_1_1ModLoader_1_1TileLoader_a046d2f0670d83bdc212241b0f87ff2de.html#a046d2f0670d83bdc212241b0f87ff2de" target="_top" xlink:title="Gets the ModTile instance with the given type. If no ModTile with the given type exists,...">
-<polygon fill="white" stroke="#666666" points="790.5,-174 624.5,-174 624.5,-144 790.5,-144 790.5,-174"/>
-<text text-anchor="start" x="632.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.TileLoader.</text>
-<text text-anchor="middle" x="707.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">GetTile</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node18 -->
-<g id="edge17_Node000016_Node000018" class="edge">
-<title>Node16&#45;&gt;Node18</title>
-<g id="a_edge17_Node000016_Node000018"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M559.62,-126.06C581.83,-131.04 606.72,-136.62 629.6,-141.75"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="629.09,-145.22 639.61,-144 630.62,-138.39 629.09,-145.22"/>
-</a>
-</g>
-</g>
-<!-- Node19 -->
-<g id="Node000019" class="node">
-<title>Node19</title>
-<g id="a_Node000019"><a xlink:href="../../d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a52a7457356cd330af2425e371a0cdc49.html#a52a7457356cd330af2425e371a0cdc49" target="_top" xlink:title="Gets the ModWall instance with the given type. If no ModWall with the given type exists,...">
-<polygon fill="white" stroke="#666666" points="792,-126 623,-126 623,-96 792,-96 792,-126"/>
-<text text-anchor="start" x="631" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.WallLoader.</text>
-<text text-anchor="middle" x="707.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">GetWall</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node19 -->
-<g id="edge18_Node000016_Node000019" class="edge">
-<title>Node16&#45;&gt;Node19</title>
-<g id="a_edge18_Node000016_Node000019"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M576.16,-111C588.15,-111 600.56,-111 612.74,-111"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="612.9,-114.5 622.9,-111 612.9,-107.5 612.9,-114.5"/>
-</a>
-</g>
-</g>
-<!-- Node20 -->
-<g id="Node000020" class="node">
-<title>Node20</title>
-<g id="a_Node000020"><a xlink:href="../../d7/d4d/classTerraria_1_1ModLoader_1_1MapLoader_a97f2dbd3aedd94323525b95dc63afccf.html#a97f2dbd3aedd94323525b95dc63afccf" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="803,-78 612,-78 612,-48 803,-48 803,-78"/>
-<text text-anchor="start" x="620" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.MapLoader.mod</text>
-<text text-anchor="middle" x="707.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">TileOptions</text>
-</a>
-</g>
-</g>
-<!-- Node16&#45;&gt;Node20 -->
-<g id="edge19_Node000016_Node000020" class="edge">
-<title>Node16&#45;&gt;Node20</title>
-<g id="a_edge19_Node000016_Node000020"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M559.62,-95.94C581.83,-90.96 606.72,-85.38 629.6,-80.25"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="630.62,-83.61 639.61,-78 629.09,-76.78 630.62,-83.61"/>
 </a>
 </g>
 </g>
 <!-- Node21 -->
 <g id="Node000021" class="node">
 <title>Node21</title>
-<g id="a_Node000021"><a xlink:href="../../d7/d4d/classTerraria_1_1ModLoader_1_1MapLoader_a1bf2afd2ac35736b1a6e9e89a29e6fb5.html#a1bf2afd2ac35736b1a6e9e89a29e6fb5" target="_top" xlink:title=" ">
+<g id="a_Node000021"><a xlink:href="../../d6/d21/structTerraria_1_1Tile_ae29f1e935710d0c9f5e325f873709719.html#ae29f1e935710d0c9f5e325f873709719" target="_top" xlink:title="Legacy code, use P:Terraria.Tile.WallColor instead.">
+<polygon fill="white" stroke="#666666" points="553,-77.5 430,-77.5 430,-58.5 553,-58.5 553,-77.5"/>
+<text text-anchor="middle" x="491.5" y="-65.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Tile.wallColor</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node21 -->
+<g id="edge20_Node000002_Node000021" class="edge">
+<title>Node2&#45;&gt;Node21</title>
+<g id="a_edge20_Node000002_Node000021"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M291.9,-282.92C302.81,-243.85 337.54,-138.77 407,-87 411.14,-83.91 415.69,-81.32 420.47,-79.13"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="421.87,-82.34 429.89,-75.41 419.31,-75.83 421.87,-82.34"/>
+</a>
+</g>
+</g>
+<!-- Node9 -->
+<g id="Node000009" class="node">
+<title>Node9</title>
+<g id="a_Node000009"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_a7c1741b0f61ee9db9738672b50925bfb.html#a7c1741b0f61ee9db9738672b50925bfb" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="785,-357 630,-357 630,-327 785,-327 785,-357"/>
+<text text-anchor="start" x="638" y="-345" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.GetBiome</text>
+<text text-anchor="middle" x="707.5" y="-334" font-family="Helvetica,sans-Serif" font-size="10.00">Influence</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node9 -->
+<g id="edge8_Node000008_Node000009" class="edge">
+<title>Node8&#45;&gt;Node9</title>
+<g id="a_edge8_Node000008_Node000009"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M568.25,-327.79C584.93,-329.5 602.73,-331.33 619.81,-333.09"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="619.46,-336.57 629.77,-334.11 620.18,-329.61 619.46,-336.57"/>
+</a>
+</g>
+</g>
+<!-- Node10 -->
+<g id="Node000010" class="node">
+<title>Node10</title>
+<g id="a_Node000010"><a xlink:href="../../de/da1/classTerraria_1_1WorldGen_a236d51f1c500d24d40f38a3d24f5d20e.html#a236d51f1c500d24d40f38a3d24f5d20e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="797,-308.5 618,-308.5 618,-289.5 797,-289.5 797,-308.5"/>
+<text text-anchor="middle" x="707.5" y="-296.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.WorldGen.GetCactusType</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node10 -->
+<g id="edge9_Node000008_Node000010" class="edge">
+<title>Node8&#45;&gt;Node10</title>
+<g id="a_edge9_Node000008_Node000010"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M568.25,-312.57C580.99,-311.32 594.38,-310 607.61,-308.7"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="608.07,-312.18 617.68,-307.72 607.38,-305.21 608.07,-312.18"/>
+</a>
+</g>
+</g>
+<!-- Node16 -->
+<g id="Node000016" class="node">
+<title>Node16</title>
+<g id="a_Node000016"><a xlink:href="../../d9/d9f/classTerraria_1_1ModLoader_1_1ModBlockType_a72e55e7b3e53f3560cd4cf73f7d068b8.html#a72e55e7b3e53f3560cd4cf73f7d068b8" target="_top" xlink:title="Allows you to choose which minimap entry the tile/wall at the given coordinates will use....">
+<polygon fill="white" stroke="#666666" points="788,-222 627,-222 627,-192 788,-192 788,-222"/>
+<text text-anchor="start" x="635" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.ModBlock</text>
+<text text-anchor="middle" x="707.5" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">Type.GetMapOption</text>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node16 -->
+<g id="edge15_Node000015_Node000016" class="edge">
+<title>Node15&#45;&gt;Node16</title>
+<g id="a_edge15_Node000015_Node000016"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M557.74,-126.07C564.18,-128.85 570.4,-132.13 576,-136 597.66,-150.94 590.03,-168.52 612,-183 614.45,-184.62 617,-186.12 619.63,-187.53"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="618.3,-190.77 628.83,-191.93 621.32,-184.46 618.3,-190.77"/>
+</a>
+</g>
+</g>
+<!-- Node17 -->
+<g id="Node000017" class="node">
+<title>Node17</title>
+<g id="a_Node000017"><a xlink:href="../../d1/d70/classTerraria_1_1ModLoader_1_1TileLoader_a046d2f0670d83bdc212241b0f87ff2de.html#a046d2f0670d83bdc212241b0f87ff2de" target="_top" xlink:title="Gets the ModTile instance with the given type. If no ModTile with the given type exists,...">
+<polygon fill="white" stroke="#666666" points="790.5,-174 624.5,-174 624.5,-144 790.5,-144 790.5,-174"/>
+<text text-anchor="start" x="632.5" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.TileLoader.</text>
+<text text-anchor="middle" x="707.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">GetTile</text>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node17 -->
+<g id="edge16_Node000015_Node000017" class="edge">
+<title>Node15&#45;&gt;Node17</title>
+<g id="a_edge16_Node000015_Node000017"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M559.62,-126.06C581.83,-131.04 606.72,-136.62 629.6,-141.75"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="629.09,-145.22 639.61,-144 630.62,-138.39 629.09,-145.22"/>
+</a>
+</g>
+</g>
+<!-- Node18 -->
+<g id="Node000018" class="node">
+<title>Node18</title>
+<g id="a_Node000018"><a xlink:href="../../d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a52a7457356cd330af2425e371a0cdc49.html#a52a7457356cd330af2425e371a0cdc49" target="_top" xlink:title="Gets the ModWall instance with the given type. If no ModWall with the given type exists,...">
+<polygon fill="white" stroke="#666666" points="792,-126 623,-126 623,-96 792,-96 792,-126"/>
+<text text-anchor="start" x="631" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.WallLoader.</text>
+<text text-anchor="middle" x="707.5" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">GetWall</text>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node18 -->
+<g id="edge17_Node000015_Node000018" class="edge">
+<title>Node15&#45;&gt;Node18</title>
+<g id="a_edge17_Node000015_Node000018"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M576.16,-111C588.15,-111 600.56,-111 612.74,-111"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="612.9,-114.5 622.9,-111 612.9,-107.5 612.9,-114.5"/>
+</a>
+</g>
+</g>
+<!-- Node19 -->
+<g id="Node000019" class="node">
+<title>Node19</title>
+<g id="a_Node000019"><a xlink:href="../../d7/d4d/classTerraria_1_1ModLoader_1_1MapLoader_a97f2dbd3aedd94323525b95dc63afccf.html#a97f2dbd3aedd94323525b95dc63afccf" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="803,-78 612,-78 612,-48 803,-48 803,-78"/>
+<text text-anchor="start" x="620" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.MapLoader.mod</text>
+<text text-anchor="middle" x="707.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">TileOptions</text>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node19 -->
+<g id="edge18_Node000015_Node000019" class="edge">
+<title>Node15&#45;&gt;Node19</title>
+<g id="a_edge18_Node000015_Node000019"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M559.62,-95.94C581.83,-90.96 606.72,-85.38 629.6,-80.25"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="630.62,-83.61 639.61,-78 629.09,-76.78 630.62,-83.61"/>
+</a>
+</g>
+</g>
+<!-- Node20 -->
+<g id="Node000020" class="node">
+<title>Node20</title>
+<g id="a_Node000020"><a xlink:href="../../d7/d4d/classTerraria_1_1ModLoader_1_1MapLoader_a1bf2afd2ac35736b1a6e9e89a29e6fb5.html#a1bf2afd2ac35736b1a6e9e89a29e6fb5" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="803,-30 612,-30 612,0 803,0 803,-30"/>
 <text text-anchor="start" x="620" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.ModLoader.MapLoader.mod</text>
 <text text-anchor="middle" x="707.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">WallOptions</text>
 </a>
 </g>
 </g>
-<!-- Node16&#45;&gt;Node21 -->
-<g id="edge20_Node000016_Node000021" class="edge">
-<title>Node16&#45;&gt;Node21</title>
-<g id="a_edge20_Node000016_Node000021"><a xlink:title=" ">
+<!-- Node15&#45;&gt;Node20 -->
+<g id="edge19_Node000015_Node000020" class="edge">
+<title>Node15&#45;&gt;Node20</title>
+<g id="a_edge19_Node000015_Node000020"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M559.91,-95.89C565.58,-93.36 571.03,-90.42 576,-87 597.95,-71.86 589.81,-53.79 612,-39 614.44,-37.37 616.99,-35.85 619.61,-34.44"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="621.3,-37.51 628.79,-30.01 618.26,-31.2 621.3,-37.51"/>
 </a>

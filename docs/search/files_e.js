@@ -18,5 +18,5 @@ var searchData=
   ['overlaymanager_2ecs_15',['OverlayManager.cs',['../d1/dce/OverlayManager_8cs.html',1,'']]],
   ['overlaymode_2ecs_16',['OverlayMode.cs',['../d5/d90/OverlayMode_8cs.html',1,'']]],
   ['overlays_2ecs_17',['Overlays.cs',['../da/d09/Overlays_8cs.html',1,'']]],
-  ['overlaysocialmodule_2ecs_18',['OverlaySocialModule.cs',['../d7/d93/Terraria_8Social_8Base_2OverlaySocialModule_8cs.html',1,'(Global Namespace)'],['../d3/dc9/Terraria_8Social_8Steam_2OverlaySocialModule_8cs.html',1,'(Global Namespace)'],['../d8/d20/Terraria_8Social_8WeGame_2OverlaySocialModule_8cs.html',1,'(Global Namespace)']]]
+  ['overlaysocialmodule_2ecs_18',['overlaysocialmodule.cs',['../d7/d93/Terraria_8Social_8Base_2OverlaySocialModule_8cs.html',1,'(Global Namespace)'],['../d3/dc9/Terraria_8Social_8Steam_2OverlaySocialModule_8cs.html',1,'(Global Namespace)'],['../d8/d20/Terraria_8Social_8WeGame_2OverlaySocialModule_8cs.html',1,'(Global Namespace)']]]
 ];

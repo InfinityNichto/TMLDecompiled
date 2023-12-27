@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 566;
+var viewWidth = 1529;
 var viewHeight = 146;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="558,-84 389,-84 389,-54 558,-54 558,-84"/>
-<text text-anchor="start" x="397" y="-72" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
-<text text-anchor="middle" x="473.5" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.CreateBuffers</text>
+<polygon fill="#999999" stroke="#666666" points="1521,-84 1352,-84 1352,-54 1521,-54 1521,-84"/>
+<text text-anchor="start" x="1360" y="-72" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="middle" x="1436.5" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.CreateBuffers</text>
 </a>
 </g>
 </g>
@@ -68,9 +68,9 @@ var sectionId = 'dynsection-1';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../de/dd7/classTerraria_1_1DataStructures_1_1SpriteDrawBuffer_a038f8f05a999fc3a632e85861dff112a.html#a038f8f05a999fc3a632e85861dff112a" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="353,-138 168,-138 168,-108 353,-108 353,-138"/>
-<text text-anchor="start" x="176" y="-126" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
-<text text-anchor="middle" x="260.5" y="-115" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.SpriteDrawBuffer</text>
+<polygon fill="white" stroke="#666666" points="1316,-138 1131,-138 1131,-108 1316,-108 1316,-138"/>
+<text text-anchor="start" x="1139" y="-126" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="middle" x="1223.5" y="-115" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.SpriteDrawBuffer</text>
 </a>
 </g>
 </g>
@@ -78,8 +78,8 @@ var sectionId = 'dynsection-1';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M403.96,-86.54C376.97,-93.45 346.29,-101.3 320.33,-107.95"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="404.9,-89.91 413.72,-84.04 403.17,-83.13 404.9,-89.91"/>
+<path fill="none" stroke="#63b8ff" d="M1366.96,-86.54C1339.97,-93.45 1309.29,-101.3 1283.33,-107.95"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1367.9,-89.91 1376.72,-84.04 1366.17,-83.13 1367.9,-89.91"/>
 </a>
 </g>
 </g>
@@ -87,10 +87,10 @@ var sectionId = 'dynsection-1';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../de/dd7/classTerraria_1_1DataStructures_1_1SpriteDrawBuffer_a17a3ef9cbbe12a834a7d7f15a6c9824f.html#a17a3ef9cbbe12a834a7d7f15a6c9824f" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="348,-89.5 173,-89.5 173,-48.5 348,-48.5 348,-89.5"/>
-<text text-anchor="start" x="181" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
-<text text-anchor="start" x="181" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.CheckGraphics</text>
-<text text-anchor="middle" x="260.5" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">Device</text>
+<polygon fill="white" stroke="#666666" points="1311,-89.5 1136,-89.5 1136,-48.5 1311,-48.5 1311,-89.5"/>
+<text text-anchor="start" x="1144" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="start" x="1144" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.CheckGraphics</text>
+<text text-anchor="middle" x="1223.5" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">Device</text>
 </a>
 </g>
 </g>
@@ -98,37 +98,58 @@ var sectionId = 'dynsection-1';
 <g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
 <g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M378.72,-69C368.57,-69 358.27,-69 348.21,-69"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="378.8,-72.5 388.8,-69 378.8,-65.5 378.8,-72.5"/>
+<path fill="none" stroke="#63b8ff" d="M1341.72,-69C1331.57,-69 1321.27,-69 1311.21,-69"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1341.8,-72.5 1351.8,-69 1341.8,-65.5 1341.8,-72.5"/>
+</a>
+</g>
+</g>
+<!-- Node10 -->
+<g id="Node000010" class="node">
+<title>Node10</title>
+<g id="a_Node000010"><a xlink:href="../../de/dd7/classTerraria_1_1DataStructures_1_1SpriteDrawBuffer_a38e3b998b78f37c378b5481a0315cb6d.html#a38e3b998b78f37c378b5481a0315cb6d" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1304.5,-30 1142.5,-30 1142.5,0 1304.5,0 1304.5,-30"/>
+<text text-anchor="start" x="1150.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="middle" x="1223.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.QueueSprite</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node10 -->
+<g id="edge9_Node000001_Node000010" class="edge">
+<title>Node1&#45;&gt;Node10</title>
+<g id="a_edge9_Node000001_Node000010"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1366.96,-51.46C1339.97,-44.55 1309.29,-36.7 1283.33,-30.05"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1366.17,-54.87 1376.72,-53.96 1367.9,-48.09 1366.17,-54.87"/>
 </a>
 </g>
 </g>
 <!-- Node4 -->
 <g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_Node000004"><a xlink:href="../../de/dd7/classTerraria_1_1DataStructures_1_1SpriteDrawBuffer_a38e3b998b78f37c378b5481a0315cb6d.html#a38e3b998b78f37c378b5481a0315cb6d" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="341.5,-30 179.5,-30 179.5,0 341.5,0 341.5,-30"/>
-<text text-anchor="start" x="187.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
-<text text-anchor="middle" x="260.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.QueueSprite</text>
+<g id="a_Node000004"><a xlink:href="../../d3/d28/classTerraria_1_1DataStructures_1_1PlayerDrawLayers_aa6a0130898c949c9186cd59c2052c76b.html#aa6a0130898c949c9186cd59c2052c76b" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1095,-89.5 931,-89.5 931,-48.5 1095,-48.5 1095,-89.5"/>
+<text text-anchor="start" x="939" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="start" x="939" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">PlayerDrawLayers.DrawPlayer</text>
+<text text-anchor="middle" x="1013" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">_RenderAllLayers</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node4 -->
-<g id="edge3_Node000001_Node000004" class="edge">
-<title>Node1&#45;&gt;Node4</title>
-<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M403.96,-51.46C376.97,-44.55 346.29,-36.7 320.33,-30.05"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="403.17,-54.87 413.72,-53.96 404.9,-48.09 403.17,-54.87"/>
+<!-- Node3&#45;&gt;Node4 -->
+<g id="edge3_Node000003_Node000004" class="edge">
+<title>Node3&#45;&gt;Node4</title>
+<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1125.76,-69C1115.58,-69 1105.31,-69 1095.33,-69"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1125.89,-72.5 1135.89,-69 1125.89,-65.5 1125.89,-72.5"/>
 </a>
 </g>
 </g>
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="../../de/dd7/classTerraria_1_1DataStructures_1_1SpriteDrawBuffer_abc7ad5541ac454d69c54e0db69d733fa.html#abc7ad5541ac454d69c54e0db69d733fa" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="132,-30 0,-30 0,0 132,0 132,-30"/>
-<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
-<text text-anchor="middle" x="66" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.Draw</text>
+<g id="a_Node000005"><a xlink:href="../../d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a886b7844ab8a947728c20bdd86af2bad.html#a886b7844ab8a947728c20bdd86af2bad" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="895,-89.5 710,-89.5 710,-48.5 895,-48.5 895,-89.5"/>
+<text text-anchor="start" x="718" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Renderers.</text>
+<text text-anchor="start" x="718" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">LegacyPlayerRenderer.DrawPlayer</text>
+<text text-anchor="middle" x="802.5" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00">Internal</text>
 </a>
 </g>
 </g>
@@ -136,8 +157,103 @@ var sectionId = 'dynsection-1';
 <g id="edge4_Node000004_Node000005" class="edge">
 <title>Node4&#45;&gt;Node5</title>
 <g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M168.9,-15C156.51,-15 144,-15 132.19,-15"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="169.26,-18.5 179.26,-15 169.26,-11.5 169.26,-18.5"/>
+<path fill="none" stroke="#63b8ff" d="M920.59,-69C912.17,-69 903.64,-69 895.21,-69"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="920.79,-72.5 930.79,-69 920.79,-65.5 920.79,-72.5"/>
+</a>
+</g>
+</g>
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a079be095611c894d8148919528421da4.html#a079be095611c894d8148919528421da4" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="661.5,-108 476.5,-108 476.5,-78 661.5,-78 661.5,-108"/>
+<text text-anchor="start" x="484.5" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Renderers.</text>
+<text text-anchor="middle" x="569" y="-85" font-family="Helvetica,sans-Serif" font-size="10.00">LegacyPlayerRenderer.DrawPlayer</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge5_Node000005_Node000006" class="edge">
+<title>Node5&#45;&gt;Node6</title>
+<g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M699.62,-79.56C687,-80.87 674.17,-82.2 661.72,-83.49"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="700.09,-83.03 709.67,-78.52 699.36,-76.07 700.09,-83.03"/>
+</a>
+</g>
+</g>
+<!-- Node9 -->
+<g id="Node000009" class="node">
+<title>Node9</title>
+<g id="a_Node000009"><a xlink:href="../../d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_af1a2afd94645f561b007a1dcb8ab45ba.html#af1a2afd94645f561b007a1dcb8ab45ba" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="674,-60 464,-60 464,-30 674,-30 674,-60"/>
+<text text-anchor="start" x="472" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Renderers.</text>
+<text text-anchor="middle" x="569" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">LegacyPlayerRenderer.DrawPlayerHead</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node9 -->
+<g id="edge8_Node000005_Node000009" class="edge">
+<title>Node5&#45;&gt;Node9</title>
+<g id="a_edge8_Node000005_Node000009"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M699.53,-58.43C691.16,-57.56 682.7,-56.68 674.32,-55.81"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="699.36,-61.93 709.67,-59.48 700.09,-54.97 699.36,-61.93"/>
+</a>
+</g>
+</g>
+<!-- Node7 -->
+<g id="Node000007" class="node">
+<title>Node7</title>
+<g id="a_Node000007"><a xlink:href="../../d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a77e682890657822db53a76bca78c604e.html#a77e682890657822db53a76bca78c604e" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="428,-108 226,-108 226,-78 428,-78 428,-108"/>
+<text text-anchor="start" x="234" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Renderers.</text>
+<text text-anchor="middle" x="327" y="-85" font-family="Helvetica,sans-Serif" font-size="10.00">LegacyPlayerRenderer.DrawPlayerFull</text>
+</a>
+</g>
+</g>
+<!-- Node6&#45;&gt;Node7 -->
+<g id="edge6_Node000006_Node000007" class="edge">
+<title>Node6&#45;&gt;Node7</title>
+<g id="a_edge6_Node000006_Node000007"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M466.19,-93C453.58,-93 440.69,-93 428.1,-93"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="466.24,-96.5 476.24,-93 466.24,-89.5 466.24,-96.5"/>
+</a>
+</g>
+</g>
+<!-- Node8 -->
+<g id="Node000008" class="node">
+<title>Node8</title>
+<g id="a_Node000008"><a xlink:href="../../d0/d10/classTerraria_1_1Graphics_1_1Renderers_1_1LegacyPlayerRenderer_a589e145d93da157a23d35afea5a17c13.html#a589e145d93da157a23d35afea5a17c13" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="190,-108 0,-108 0,-78 190,-78 190,-108"/>
+<text text-anchor="start" x="8" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Graphics.Renderers.</text>
+<text text-anchor="middle" x="95" y="-85" font-family="Helvetica,sans-Serif" font-size="10.00">LegacyPlayerRenderer.DrawPlayers</text>
+</a>
+</g>
+</g>
+<!-- Node7&#45;&gt;Node8 -->
+<g id="edge7_Node000007_Node000008" class="edge">
+<title>Node7&#45;&gt;Node8</title>
+<g id="a_edge7_Node000007_Node000008"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M215.74,-93C207.16,-93 198.54,-93 190.07,-93"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="215.79,-96.5 225.79,-93 215.79,-89.5 215.79,-96.5"/>
+</a>
+</g>
+</g>
+<!-- Node11 -->
+<g id="Node000011" class="node">
+<title>Node11</title>
+<g id="a_Node000011"><a xlink:href="../../de/dd7/classTerraria_1_1DataStructures_1_1SpriteDrawBuffer_abc7ad5541ac454d69c54e0db69d733fa.html#abc7ad5541ac454d69c54e0db69d733fa" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="1079,-30 947,-30 947,0 1079,0 1079,-30"/>
+<text text-anchor="start" x="955" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.DataStructures.</text>
+<text text-anchor="middle" x="1013" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">SpriteDrawBuffer.Draw</text>
+</a>
+</g>
+</g>
+<!-- Node10&#45;&gt;Node11 -->
+<g id="edge10_Node000010_Node000011" class="edge">
+<title>Node10&#45;&gt;Node11</title>
+<g id="a_edge10_Node000010_Node000011"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M1132.1,-15C1114.33,-15 1096.02,-15 1079.27,-15"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="1132.48,-18.5 1142.48,-15 1132.48,-11.5 1132.48,-18.5"/>
 </a>
 </g>
 </g>

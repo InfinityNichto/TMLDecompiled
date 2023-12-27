@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 557;
+var viewWidth = 733;
 var viewHeight = 38;
 var sectionId = 'dynsection-0';
 </script>
@@ -58,8 +58,8 @@ var sectionId = 'dynsection-0';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="#666666" points="549,-24.5 409,-24.5 409,-5.5 549,-5.5 549,-24.5"/>
-<text text-anchor="middle" x="479" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.NPC.GetLifeStats</text>
+<polygon fill="#999999" stroke="#666666" points="725,-24.5 585,-24.5 585,-5.5 725,-5.5 725,-24.5"/>
+<text text-anchor="middle" x="655" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.NPC.GetLifeStats</text>
 </a>
 </g>
 </g>
@@ -67,8 +67,8 @@ var sectionId = 'dynsection-0';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../df/d0d/classTerraria_1_1NPC_a52bab189b8b596564f680447d55856cd.html#a52bab189b8b596564f680447d55856cd" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="373,-24.5 221,-24.5 221,-5.5 373,-5.5 373,-24.5"/>
-<text text-anchor="middle" x="297" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.NPC.GetLifePercent</text>
+<polygon fill="white" stroke="#666666" points="549,-24.5 397,-24.5 397,-5.5 549,-5.5 549,-24.5"/>
+<text text-anchor="middle" x="473" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.NPC.GetLifePercent</text>
 </a>
 </g>
 </g>
@@ -76,8 +76,8 @@ var sectionId = 'dynsection-0';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M398.67,-15C390.2,-15 381.6,-15 373.18,-15"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="398.92,-18.5 408.92,-15 398.92,-11.5 398.92,-18.5"/>
+<path fill="none" stroke="#63b8ff" d="M574.67,-15C566.2,-15 557.6,-15 549.18,-15"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="574.92,-18.5 584.92,-15 574.92,-11.5 574.92,-18.5"/>
 </a>
 </g>
 </g>
@@ -85,9 +85,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../da/d3d/classTerraria_1_1GameContent_1_1CoinLossRevengeSystem_abb1fb5a556d320834ccb05d44cf73392.html#abb1fb5a556d320834ccb05d44cf73392" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="185,-30 0,-30 0,0 185,0 185,-30"/>
-<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Coin</text>
-<text text-anchor="middle" x="92.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LossRevengeSystem.CacheEnemy</text>
+<polygon fill="white" stroke="#666666" points="361,-30 176,-30 176,0 361,0 361,-30"/>
+<text text-anchor="start" x="184" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.Coin</text>
+<text text-anchor="middle" x="268.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">LossRevengeSystem.CacheEnemy</text>
 </a>
 </g>
 </g>
@@ -95,8 +95,26 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M210.72,-15C202.32,-15 193.76,-15 185.3,-15"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="210.88,-18.5 220.88,-15 210.88,-11.5 210.88,-18.5"/>
+<path fill="none" stroke="#63b8ff" d="M386.72,-15C378.32,-15 369.76,-15 361.3,-15"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="386.88,-18.5 396.88,-15 386.88,-11.5 386.88,-18.5"/>
+</a>
+</g>
+</g>
+<!-- Node4 -->
+<g id="Node000004" class="node">
+<title>Node4</title>
+<g id="a_Node000004"><a xlink:href="../../df/d0d/classTerraria_1_1NPC_a7cdd77445f8984421138de584d785da0.html#a7cdd77445f8984421138de584d785da0" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="140,-24.5 0,-24.5 0,-5.5 140,-5.5 140,-24.5"/>
+<text text-anchor="middle" x="70" y="-12.5" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.NPC.CheckActive</text>
+</a>
+</g>
+</g>
+<!-- Node3&#45;&gt;Node4 -->
+<g id="edge3_Node000003_Node000004" class="edge">
+<title>Node3&#45;&gt;Node4</title>
+<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M165.72,-15C157.08,-15 148.47,-15 140.17,-15"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="165.87,-18.5 175.87,-15 165.87,-11.5 165.87,-18.5"/>
 </a>
 </g>
 </g>

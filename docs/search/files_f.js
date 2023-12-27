@@ -29,7 +29,7 @@ var searchData=
   ['plaintaghandler_2ecs_26',['PlainTagHandler.cs',['../d0/d6c/PlainTagHandler_8cs.html',1,'']]],
   ['planterashader_2ecs_27',['PlanteraShader.cs',['../d1/d5f/PlanteraShader_8cs.html',1,'']]],
   ['plantloader_2ecs_28',['PlantLoader.cs',['../d7/d9f/PlantLoader_8cs.html',1,'']]],
-  ['platformsocialmodule_2ecs_29',['PlatformSocialModule.cs',['../d1/d7c/Terraria_8Social_8Base_2PlatformSocialModule_8cs.html',1,'(Global Namespace)'],['../d3/de6/Terraria_8Social_8Steam_2PlatformSocialModule_8cs.html',1,'(Global Namespace)']]],
+  ['platformsocialmodule_2ecs_29',['platformsocialmodule.cs',['../d3/de6/Terraria_8Social_8Steam_2PlatformSocialModule_8cs.html',1,'(Global Namespace)'],['../d1/d7c/Terraria_8Social_8Base_2PlatformSocialModule_8cs.html',1,'(Global Namespace)']]],
   ['platformutilities_2ecs_30',['PlatformUtilities.cs',['../d2/dd1/PlatformUtilities_8cs.html',1,'']]],
   ['player_2ecs_31',['Player.cs',['../de/ddb/Player_8cs.html',1,'']]],
   ['playercommandcaller_2ecs_32',['PlayerCommandCaller.cs',['../d7/d71/PlayerCommandCaller_8cs.html',1,'']]],

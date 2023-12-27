@@ -1,54 +1,58 @@
 <map id="Terraria.Player.PickAmmo" name="Terraria.Player.PickAmmo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,230,195,255"/>
-<area shape="rect" id="Node000002" href="$d4/d03/classTerraria_1_1Player_ae51e41ffd4243f110e00c09b321f7fc8.html#ae51e41ffd4243f110e00c09b321f7fc8" title="Attempts to select an ammo item stack from this player&#39;s inventory to shoot with the given weapon." alt="" coords="251,13,461,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,229,122,193,151,143,191,92,215,68,241,48,255,41,257,46,244,53,219,72,195,95,156,146,127,195,109,231"/>
-<area shape="rect" id="Node000004" href="$d4/d03/classTerraria_1_1Player_a1cfa5bda546ae725ebf25c8da2626a4d.html#a1cfa5bda546ae725ebf25c8da2626a4d" title="Calculates a total damage modifier for the player for the provided T:Terraria.ModLoader...." alt="" coords="269,63,443,103"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,228,162,172,200,140,241,112,256,105,258,110,244,117,203,144,166,176,114,231"/>
-<area shape="rect" id="Node000005" href="$d4/d03/classTerraria_1_1Player_ab596854596493799c4e827f93919d6d5.html#ab596854596493799c4e827f93919d6d5" title="Determines whether or not the given ammunition should be conserved, based on the given weapon as wiel..." alt="" coords="255,127,457,167"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,228,178,202,242,176,265,168,267,173,244,181,180,207,128,232"/>
-<area shape="rect" id="Node000019" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_add602a380a516d22a0fab669b541fcbb.html#add602a380a516d22a0fab669b541fcbb" title="Calls ModItem.NeedsAmmo, then all GlobalItem.NeedsAmmo hooks, until any of them returns false." alt="" coords="243,191,469,231"/>
-<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="195,228,229,224,229,229,195,233"/>
-<area shape="rect" id="Node000020" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a0811c07716932f81c97893e974542297.html#a0811c07716932f81c97893e974542297" title=" " alt="" coords="248,255,464,295"/>
-<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="195,252,235,257,234,262,195,257"/>
-<area shape="rect" id="Node000023" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a86bcf883f52900835ad19c83e289d080.html#a86bcf883f52900835ad19c83e289d080" title="Calls ModItem.PickAmmo, then all GlobalItem.PickAmmo hooks." alt="" coords="243,319,469,359"/>
-<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="128,253,180,278,244,304,267,312,265,317,242,309,178,283,125,258"/>
-<area shape="rect" id="Node000024" href="$d4/d03/classTerraria_1_1Player_a2cea71c8ac4d814450de037b8cd61d6e.html#a2cea71c8ac4d814450de037b8cd61d6e" title=" " alt="" coords="256,383,456,423"/>
-<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="114,254,166,309,203,341,244,368,257,375,255,380,241,373,200,345,162,313,110,257"/>
-<area shape="rect" id="Node000025" href="$db/d79/classTerraria_1_1Item_ace3f30b7386560df4055302fd96292f1.html#ace3f30b7386560df4055302fd96292f1" title=" " alt="" coords="272,447,440,473"/>
-<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="109,254,127,290,156,339,195,390,219,413,244,432,260,441,258,446,241,437,215,417,191,393,151,342,122,293,104,257"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,287,195,313"/>
+<area shape="rect" id="Node000002" href="$d4/d03/classTerraria_1_1Player_ae51e41ffd4243f110e00c09b321f7fc8.html#ae51e41ffd4243f110e00c09b321f7fc8" title="Attempts to select an ammo item stack from this player&#39;s inventory to shoot with the given weapon." alt="" coords="251,42,461,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,286,155,204,194,152,241,106,271,86,303,70,305,75,274,90,244,110,198,156,159,207,110,288"/>
+<area shape="rect" id="Node000004" href="$d4/d03/classTerraria_1_1Player_a1cfa5bda546ae725ebf25c8da2626a4d.html#a1cfa5bda546ae725ebf25c8da2626a4d" title="Calculates a total damage modifier for the player for the provided T:Terraria.ModLoader...." alt="" coords="269,120,443,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,285,162,230,200,197,241,170,256,163,258,167,244,174,203,202,166,234,114,289"/>
+<area shape="rect" id="Node000005" href="$d4/d03/classTerraria_1_1Player_ab596854596493799c4e827f93919d6d5.html#ab596854596493799c4e827f93919d6d5" title="Determines whether or not the given ammunition should be conserved, based on the given weapon as wiel..." alt="" coords="255,184,457,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,285,178,260,242,234,265,226,267,231,244,238,180,265,128,290"/>
+<area shape="rect" id="Node000021" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_add602a380a516d22a0fab669b541fcbb.html#add602a380a516d22a0fab669b541fcbb" title="Calls ModItem.NeedsAmmo, then all GlobalItem.NeedsAmmo hooks, until any of them returns false." alt="" coords="243,248,469,288"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="195,286,229,281,229,287,195,291"/>
+<area shape="rect" id="Node000022" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a0811c07716932f81c97893e974542297.html#a0811c07716932f81c97893e974542297" title=" " alt="" coords="248,312,464,352"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="195,309,235,314,234,319,195,314"/>
+<area shape="rect" id="Node000025" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a86bcf883f52900835ad19c83e289d080.html#a86bcf883f52900835ad19c83e289d080" title="Calls ModItem.PickAmmo, then all GlobalItem.PickAmmo hooks." alt="" coords="243,376,469,416"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="128,310,180,335,244,362,267,369,265,374,242,366,178,340,125,315"/>
+<area shape="rect" id="Node000026" href="$d4/d03/classTerraria_1_1Player_a2cea71c8ac4d814450de037b8cd61d6e.html#a2cea71c8ac4d814450de037b8cd61d6e" title=" " alt="" coords="256,440,456,480"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="114,311,166,366,203,398,244,426,257,432,255,437,241,430,200,403,162,370,110,315"/>
+<area shape="rect" id="Node000027" href="$db/d79/classTerraria_1_1Item_ace3f30b7386560df4055302fd96292f1.html#ace3f30b7386560df4055302fd96292f1" title=" " alt="" coords="272,505,440,530"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="109,312,127,348,156,396,195,447,219,470,244,490,260,498,258,503,241,494,215,474,191,451,151,399,122,350,104,314"/>
 <area shape="rect" id="Node000003" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a221e77c97d28387f54bb499e5fdb294c.html#a221e77c97d28387f54bb499e5fdb294c" title="Calls each M:Terraria.ModLoader.GlobalItem.CanChooseAmmo(Terraria.Item,Terraria.Item,..." alt="" coords="517,5,744,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,23,504,23,504,28,462,28"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,41,503,36,504,42,462,46"/>
 <area shape="rect" id="Node000006" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a759fe8877476c22221b4802ae1ae22e9.html#a759fe8877476c22221b4802ae1ae22e9" title=" " alt="" coords="523,69,739,109"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="452,124,520,110,522,115,453,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="444,181,468,170,482,158,491,145,500,132,516,119,528,113,530,117,519,124,504,136,496,148,486,161,471,174,447,186"/>
 <area shape="rect" id="Node000009" href="$db/d79/classTerraria_1_1Item_a8e293ea7ca602966e92b3cc81b36976e.html#a8e293ea7ca602966e92b3cc81b36976e" title="This is used to check if this item benefits from the specified T:Terraria.ModLoader...." alt="" coords="528,134,733,159"/>
-<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="457,144,514,144,514,149,457,149"/>
-<area shape="rect" id="Node000010" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a817f4951ed8e523138a4aac5aa9f2ba1.html#a817f4951ed8e523138a4aac5aa9f2ba1" title=" " alt="" coords="523,184,739,224"/>
-<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="453,164,522,179,520,184,452,169"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="452,181,555,160,556,165,453,187"/>
+<area shape="rect" id="Node000010" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_ac4ecc6320b69ab939b9c45eaf7d89000.html#ac4ecc6320b69ab939b9c45eaf7d89000" title=" " alt="" coords="543,184,719,224"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="457,201,529,201,529,207,457,207"/>
+<area shape="rect" id="Node000012" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a817f4951ed8e523138a4aac5aa9f2ba1.html#a817f4951ed8e523138a4aac5aa9f2ba1" title=" " alt="" coords="523,248,739,288"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="443,221,532,242,531,248,442,227"/>
 <area shape="rect" id="Node000007" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_ae874452bca5ff5158ac7ec0d6d3116a1.html#ae874452bca5ff5158ac7ec0d6d3116a1" title="Calls each M:Terraria.ModLoader.GlobalItem.CanConsumeAmmo(Terraria.Item,Terraria.Item,..." alt="" coords="792,31,1019,71"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="738,72,778,66,779,71,739,77"/>
 <area shape="rect" id="Node000008" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_a64bd93acf0eae472426c5110d9ab7e49.html#a64bd93acf0eae472426c5110d9ab7e49" title=" " alt="" coords="806,95,1005,135"/>
 <area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="739,97,792,102,792,107,738,102"/>
-<area shape="rect" id="Node000011" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a9a34fba60555225961c57661dccbe61d.html#a9a34fba60555225961c57661dccbe61d" title=" " alt="" coords="796,184,1015,224"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="739,201,782,201,782,207,739,207"/>
-<area shape="rect" id="Node000012" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a7f501af01589528f52a9afc730ee30ae.html#a7f501af01589528f52a9afc730ee30ae" title=" " alt="" coords="1067,120,1293,160"/>
-<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="991,181,1080,160,1081,166,993,187"/>
-<area shape="rect" id="Node000017" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a414e14cf34dd5d5bdea5683311c95a38.html#a414e14cf34dd5d5bdea5683311c95a38" title=" " alt="" coords="1067,184,1293,224"/>
-<area shape="poly" id="edge16_Node000011_Node000017" title=" " alt="" coords="1015,201,1053,201,1053,207,1015,207"/>
-<area shape="rect" id="Node000018" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_ad6f1f531d5afe27fe7af7aa9e3466579.html#ad6f1f531d5afe27fe7af7aa9e3466579" title=" " alt="" coords="1085,248,1275,288"/>
-<area shape="poly" id="edge17_Node000011_Node000018" title=" " alt="" coords="993,221,1081,242,1080,248,991,227"/>
-<area shape="rect" id="Node000013" href="$d4/d03/classTerraria_1_1Player_a4950696f05e066ab568a7d1433c7f0f4.html#a4950696f05e066ab568a7d1433c7f0f4" title=" " alt="" coords="1357,56,1552,96"/>
-<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1266,117,1355,96,1356,102,1267,123"/>
-<area shape="rect" id="Node000015" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a3ad5295fcd84e8e23d320e8318f2cb29.html#a3ad5295fcd84e8e23d320e8318f2cb29" title=" " alt="" coords="1341,120,1568,160"/>
-<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="1293,137,1328,137,1328,143,1293,143"/>
-<area shape="rect" id="Node000016" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_a48f8066bdbcf7267625c16cdbab7d205.html#a48f8066bdbcf7267625c16cdbab7d205" title=" " alt="" coords="1357,184,1553,224"/>
-<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="1267,157,1356,178,1355,184,1266,163"/>
-<area shape="rect" id="Node000014" href="$d4/d03/classTerraria_1_1Player_a1c0a18c6037c44b302cd9862af9df9a8.html#a1c0a18c6037c44b302cd9862af9df9a8" title=" " alt="" coords="1616,56,1789,96"/>
-<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1552,73,1602,73,1602,79,1552,79"/>
-<area shape="rect" id="Node000021" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a97e598fe867983e89c98025b18baa2fa.html#a97e598fe867983e89c98025b18baa2fa" title="Calls M:Terraria.ModLoader.ModItem.OnConsumeAmmo(Terraria.Item,Terraria.Player) for the weapon,..." alt="" coords="517,252,744,292"/>
-<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="464,271,503,271,503,276,464,276"/>
-<area shape="rect" id="Node000022" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_a7d9eabea57a7cc3798fe1147b16a22fb.html#a7d9eabea57a7cc3798fe1147b16a22fb" title=" " alt="" coords="535,316,726,356"/>
-<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="447,292,528,310,527,316,446,297"/>
-<area shape="rect" id="Node000026" href="$db/d79/classTerraria_1_1Item_adb2554f9d394eca69180ff503efd10d9.html#adb2554f9d394eca69180ff503efd10d9" title=" " alt="" coords="538,447,723,473"/>
-<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="440,457,524,457,524,463,440,463"/>
-<area shape="poly" id="edge26_Node000026_Node000026" title=" " alt="" coords="586,449,577,439,582,429,600,423,631,421,670,425,681,430,684,436,680,438,677,434,669,430,631,426,601,428,585,433,582,438,590,445"/>
+<area shape="rect" id="Node000011" href="$d9/db1/classTerraria_1_1Utilities_1_1UnifiedRandom_a173f09196ff526b107c0223c2d58c59a.html#a173f09196ff526b107c0223c2d58c59a" title=" " alt="" coords="816,184,995,224"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="719,201,802,201,802,207,719,207"/>
+<area shape="rect" id="Node000013" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a9a34fba60555225961c57661dccbe61d.html#a9a34fba60555225961c57661dccbe61d" title=" " alt="" coords="796,248,1015,288"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="739,265,782,265,782,271,739,271"/>
+<area shape="rect" id="Node000014" href="$da/dbd/classTerraria_1_1ModLoader_1_1CombinedHooks_a7f501af01589528f52a9afc730ee30ae.html#a7f501af01589528f52a9afc730ee30ae" title=" " alt="" coords="1067,184,1293,224"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="991,245,1080,224,1081,230,993,251"/>
+<area shape="rect" id="Node000019" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a414e14cf34dd5d5bdea5683311c95a38.html#a414e14cf34dd5d5bdea5683311c95a38" title=" " alt="" coords="1067,248,1293,288"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="1015,265,1053,265,1053,271,1015,271"/>
+<area shape="rect" id="Node000020" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_ad6f1f531d5afe27fe7af7aa9e3466579.html#ad6f1f531d5afe27fe7af7aa9e3466579" title=" " alt="" coords="1085,312,1275,352"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="993,285,1081,306,1080,312,991,291"/>
+<area shape="rect" id="Node000015" href="$d4/d03/classTerraria_1_1Player_a4950696f05e066ab568a7d1433c7f0f4.html#a4950696f05e066ab568a7d1433c7f0f4" title=" " alt="" coords="1357,120,1552,160"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1266,181,1355,160,1356,166,1267,187"/>
+<area shape="rect" id="Node000017" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a3ad5295fcd84e8e23d320e8318f2cb29.html#a3ad5295fcd84e8e23d320e8318f2cb29" title=" " alt="" coords="1341,184,1568,224"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="1293,201,1328,201,1328,207,1293,207"/>
+<area shape="rect" id="Node000018" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_a48f8066bdbcf7267625c16cdbab7d205.html#a48f8066bdbcf7267625c16cdbab7d205" title=" " alt="" coords="1357,248,1553,288"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="1267,221,1356,242,1355,248,1266,227"/>
+<area shape="rect" id="Node000016" href="$d4/d03/classTerraria_1_1Player_a1c0a18c6037c44b302cd9862af9df9a8.html#a1c0a18c6037c44b302cd9862af9df9a8" title=" " alt="" coords="1616,120,1789,160"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1552,137,1602,137,1602,143,1552,143"/>
+<area shape="rect" id="Node000023" href="$d7/de6/classTerraria_1_1ModLoader_1_1ItemLoader_a97e598fe867983e89c98025b18baa2fa.html#a97e598fe867983e89c98025b18baa2fa" title="Calls M:Terraria.ModLoader.ModItem.OnConsumeAmmo(Terraria.Item,Terraria.Player) for the weapon,..." alt="" coords="517,312,744,352"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="464,329,503,329,503,335,464,335"/>
+<area shape="rect" id="Node000024" href="$d9/de2/classTerraria_1_1ModLoader_1_1PlayerLoader_a7d9eabea57a7cc3798fe1147b16a22fb.html#a7d9eabea57a7cc3798fe1147b16a22fb" title=" " alt="" coords="535,376,726,416"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="443,349,532,370,531,376,442,355"/>
+<area shape="rect" id="Node000028" href="$db/d79/classTerraria_1_1Item_adb2554f9d394eca69180ff503efd10d9.html#adb2554f9d394eca69180ff503efd10d9" title=" " alt="" coords="538,505,723,530"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="440,515,524,515,524,520,440,520"/>
+<area shape="poly" id="edge28_Node000028_Node000028" title=" " alt="" coords="586,506,577,496,582,486,600,480,631,478,670,482,681,487,684,493,680,496,677,491,669,487,631,483,601,485,585,490,582,496,590,503"/>
 </map>

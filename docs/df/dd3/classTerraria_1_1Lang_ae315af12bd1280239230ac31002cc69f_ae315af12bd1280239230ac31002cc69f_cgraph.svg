@@ -46,7 +46,7 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 771;
+var viewWidth = 792;
 var viewHeight = 86;
 var sectionId = 'dynsection-0';
 </script>
@@ -105,9 +105,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../df/d5b/classTerraria_1_1GameInput_1_1PlayerInput_a29aac4df5b0a5fb6d692119be1816a28.html#a29aac4df5b0a5fb6d692119be1816a28" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="538,-78 394,-78 394,-48 538,-48 538,-78"/>
-<text text-anchor="start" x="402" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameInput.Player</text>
-<text text-anchor="middle" x="466" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Input.GenerateGlyphList</text>
+<polygon fill="white" stroke="#666666" points="548.5,-78 404.5,-78 404.5,-48 548.5,-48 548.5,-78"/>
+<text text-anchor="start" x="412.5" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameInput.Player</text>
+<text text-anchor="middle" x="476.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Input.GenerateGlyphList</text>
 </a>
 </g>
 </g>
@@ -115,8 +115,8 @@ var sectionId = 'dynsection-0';
 <g id="edge2_Node000002_Node000003" class="edge">
 <title>Node2&#45;&gt;Node3</title>
 <g id="a_edge2_Node000002_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M346.02,-63C358.21,-63 370.96,-63 383.4,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="383.75,-66.5 393.75,-63 383.75,-59.5 383.75,-66.5"/>
+<path fill="none" stroke="#63b8ff" d="M346.25,-63C361.77,-63 378.29,-63 394.16,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="394.48,-66.5 404.48,-63 394.48,-59.5 394.48,-66.5"/>
 </a>
 </g>
 </g>
@@ -124,9 +124,9 @@ var sectionId = 'dynsection-0';
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="../../dc/d17/classTerraria_1_1GameContent_1_1UI_1_1Chat_1_1GlyphTagHandler_a511708739227699872d3403ed39db655.html#a511708739227699872d3403ed39db655" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="763,-78 574,-78 574,-48 763,-48 763,-78"/>
-<text text-anchor="start" x="582" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.UI.</text>
-<text text-anchor="middle" x="668.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Chat.GlyphTagHandler.GenerateTag</text>
+<polygon fill="white" stroke="#666666" points="784,-78 595,-78 595,-48 784,-48 784,-78"/>
+<text text-anchor="start" x="603" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.GameContent.UI.</text>
+<text text-anchor="middle" x="689.5" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">Chat.GlyphTagHandler.GenerateTag</text>
 </a>
 </g>
 </g>
@@ -134,8 +134,27 @@ var sectionId = 'dynsection-0';
 <g id="edge3_Node000003_Node000004" class="edge">
 <title>Node3&#45;&gt;Node4</title>
 <g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M538.25,-63C546.51,-63 555.04,-63 563.62,-63"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="563.68,-66.5 573.68,-63 563.68,-59.5 563.68,-66.5"/>
+<path fill="none" stroke="#63b8ff" d="M548.64,-63C560.23,-63 572.44,-63 584.62,-63"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="584.84,-66.5 594.84,-63 584.84,-59.5 584.84,-66.5"/>
+</a>
+</g>
+</g>
+<!-- Node6 -->
+<g id="Node000006" class="node">
+<title>Node6</title>
+<g id="a_Node000006"><a xlink:href="../../d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a9f1901e50105d9873d2fdf8816e122de.html#a9f1901e50105d9873d2fdf8816e122de" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="559,-30 394,-30 394,0 559,0 559,-30"/>
+<text text-anchor="start" x="402" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">Terraria.Localization.Language</text>
+<text text-anchor="middle" x="476.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">Manager.GetTextValue</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge5_Node000005_Node000006" class="edge">
+<title>Node5&#45;&gt;Node6</title>
+<g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M358.29,-15C366.63,-15 375.12,-15 383.54,-15"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="383.76,-18.5 393.76,-15 383.76,-11.5 383.76,-18.5"/>
 </a>
 </g>
 </g>

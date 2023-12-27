@@ -1,41 +1,45 @@
 <map id="Terraria.ModLoader.Mod.Autoload" name="Terraria.ModLoader.Mod.Autoload">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,389,245,414"/>
-<area shape="rect" id="Node000002" href="$d1/dda/classTerraria_1_1ModLoader_1_1Mod_abf37118b07e8c4b5081f699004e4a288.html#abf37118b07e8c4b5081f699004e4a288" title="Call this to manually add the given content instance to the game." alt="" coords="323,127,529,167"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,387,198,316,243,270,292,227,333,197,374,171,377,176,336,202,295,231,247,274,202,319,139,390"/>
-<area shape="rect" id="Node000003" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="941,228,1165,268"/>
-<area shape="poly" id="edge19_Node000001_Node000003" title=" " alt="" coords="136,387,161,360,198,328,242,295,292,271,345,258,414,248,583,238,766,237,927,240,927,246,766,242,583,243,414,253,346,263,294,276,245,300,201,332,165,364,140,390"/>
-<area shape="rect" id="Node000008" href="$d0/dc4/classTerraria_1_1ModLoader_1_1LocalizationLoader_ade780fc6d96dcef3b581e082a0238212.html#ade780fc6d96dcef3b581e082a0238212" title=" " alt="" coords="312,349,540,389"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="245,386,298,380,299,386,245,391"/>
-<area shape="rect" id="Node000012" href="$db/d4c/classTerraria_1_1ModLoader_1_1BackgroundTextureLoader_aeed3933afa2efb623d18c3b5a9ef52af.html#aeed3933afa2efb623d18c3b5a9ef52af" title=" " alt="" coords="297,285,555,325"/>
-<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="155,386,218,361,293,335,322,326,323,331,294,340,220,366,157,391"/>
-<area shape="rect" id="Node000014" href="$d5/da9/classTerraria_1_1ModLoader_1_1GoreLoader_ad2c43c95caa981c9e1c7ab5d079c7e14.html#ad2c43c95caa981c9e1c7ab5d079c7e14" title=" " alt="" coords="312,413,540,453"/>
-<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="245,411,299,417,298,422,245,417"/>
-<area shape="rect" id="Node000015" href="$d0/d35/classTerraria_1_1ModLoader_1_1MusicLoader_acc40cb1fda570129574a46de829e989b.html#acc40cb1fda570129574a46de829e989b" title=" " alt="" coords="332,477,520,517"/>
-<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="157,412,220,437,294,463,323,471,322,476,293,468,218,442,155,417"/>
-<area shape="rect" id="Node000018" href="$d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a76e2cb2e9132ebe2759887f610501608.html#a76e2cb2e9132ebe2759887f610501608" title=" " alt="" coords="293,541,559,581"/>
-<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="141,412,204,468,247,500,295,527,312,534,309,539,292,532,244,504,200,472,137,416"/>
-<area shape="rect" id="Node000019" href="$db/d12/classTerraria_1_1ModLoader_1_1AutoloadAttribute_ad189e9a4631ed9bb1bc09fa600793a86.html#ad189e9a4631ed9bb1bc09fa600793a86" title=" " alt="" coords="322,605,530,645"/>
-<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="136,413,158,448,194,497,240,548,266,571,295,591,311,599,308,604,292,596,263,575,236,552,190,500,154,451,132,415"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="530,161,928,225,927,230,529,166"/>
-<area shape="rect" id="Node000004" href="$d3/df6/interfaceTerraria_1_1ModLoader_1_1ILoadable_aa77219a133d3ebfe4ea250c07954818c.html#aa77219a133d3ebfe4ea250c07954818c" title="Whether or not this type should be loaded when it&#39;s told to. Returning false disables M:Terraria...." alt="" coords="631,69,849,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="529,125,617,109,618,114,530,130"/>
-<area shape="rect" id="Node000005" href="$d3/df6/interfaceTerraria_1_1ModLoader_1_1ILoadable_aa3808bdd1cdf0087aea469080c58eef9.html#aa3808bdd1cdf0087aea469080c58eef9" title="Called when loading the type." alt="" coords="616,134,864,159"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="530,144,602,144,602,149,530,149"/>
-<area shape="rect" id="Node000006" href="$d7/d94/classTerraria_1_1ModLoader_1_1ContentInstance_a9056e387eacb153e6b1c64aa8a08778a.html#a9056e387eacb153e6b1c64aa8a08778a" title=" " alt="" coords="639,5,841,45"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="461,124,527,89,606,55,630,47,632,52,608,60,529,94,463,129"/>
-<area shape="rect" id="Node000007" href="$d7/d94/classTerraria_1_1ModLoader_1_1ContentInstance_a7f7a3eb5f6262b314baeda632ebd6991.html#a7f7a3eb5f6262b314baeda632ebd6991" title=" " alt="" coords="952,5,1153,45"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="841,23,938,23,938,28,841,28"/>
-<area shape="rect" id="Node000009" href="$d0/dc4/classTerraria_1_1ModLoader_1_1LocalizationLoader_a8ce309706170a6a5fdb96554af903022.html#a8ce309706170a6a5fdb96554af903022" title=" " alt="" coords="626,349,854,389"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="540,367,612,367,612,372,540,372"/>
-<area shape="rect" id="Node000010" href="$d0/dc4/classTerraria_1_1ModLoader_1_1LocalizationLoader_a8484e9e4d936660800cb1adfadd4a605.html#a8484e9e4d936660800cb1adfadd4a605" title=" " alt="" coords="921,384,1184,424"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="854,379,908,385,907,391,854,385"/>
-<area shape="rect" id="Node000011" href="$d4/d5b/classTerraria_1_1ModLoader_1_1Core_1_1TmodFile_ac8c9b9819144f2389d9916cb2a2295a1.html#ac8c9b9819144f2389d9916cb2a2295a1" title=" " alt="" coords="961,320,1145,360"/>
-<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="854,356,947,347,947,353,854,361"/>
-<area shape="rect" id="Node000013" href="$db/d4c/classTerraria_1_1ModLoader_1_1BackgroundTextureLoader_ac814c6c5f5fb6c6b4c7b5390ec61546b.html#ac814c6c5f5fb6c6b4c7b5390ec61546b" title="Adds a texture to the list of background textures and assigns it a background texture slot." alt="" coords="607,285,873,325"/>
-<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="556,303,593,303,593,308,556,308"/>
-<area shape="poly" id="edge13_Node000013_Node000003" title=" " alt="" coords="849,283,929,268,930,273,850,288"/>
-<area shape="rect" id="Node000016" href="$d0/d35/classTerraria_1_1ModLoader_1_1MusicLoader_a6eb1a944a77068b0b5aec8e3a9e71d88.html#a6eb1a944a77068b0b5aec8e3a9e71d88" title="Registers a new music track with the provided mod and its local path to the sound file." alt="" coords="646,477,834,517"/>
-<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="520,495,632,495,632,500,520,500"/>
-<area shape="rect" id="Node000017" href="$d0/d35/classTerraria_1_1ModLoader_1_1MusicLoader_a0d847330ad41642cc8b1dfbcbb7fb031.html#a0d847330ad41642cc8b1dfbcbb7fb031" title=" " alt="" coords="959,477,1147,517"/>
-<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="834,495,945,495,945,500,834,500"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,303,245,329"/>
+<area shape="rect" id="Node000002" href="$d1/dda/classTerraria_1_1ModLoader_1_1Mod_abf37118b07e8c4b5081f699004e4a288.html#abf37118b07e8c4b5081f699004e4a288" title="Call this to manually add the given content instance to the game." alt="" coords="323,200,529,240"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,301,218,276,293,249,322,241,323,246,294,255,220,281,157,306"/>
+<area shape="rect" id="Node000003" href="$d4/d8f/classTerraria_1_1Localization_1_1Language_ae4636a4800b9ecbaa498954520462f78.html#ae4636a4800b9ecbaa498954520462f78" title="Retrieves the text value for a specified localization key. The text returned will be for the currentl..." alt="" coords="941,69,1165,109"/>
+<area shape="poly" id="edge21_Node000001_Node000003" title=" " alt="" coords="137,301,200,245,244,213,292,186,373,153,457,128,543,109,629,96,791,82,926,80,926,86,791,87,629,101,544,114,458,133,374,158,294,190,247,217,203,249,141,305"/>
+<area shape="rect" id="Node000009" href="$d0/dc4/classTerraria_1_1ModLoader_1_1LocalizationLoader_ade780fc6d96dcef3b581e082a0238212.html#ade780fc6d96dcef3b581e082a0238212" title=" " alt="" coords="312,264,540,304"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="245,301,298,295,299,300,245,306"/>
+<area shape="rect" id="Node000013" href="$db/d4c/classTerraria_1_1ModLoader_1_1BackgroundTextureLoader_aeed3933afa2efb623d18c3b5a9ef52af.html#aeed3933afa2efb623d18c3b5a9ef52af" title=" " alt="" coords="297,8,555,48"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="129,302,149,257,183,192,231,124,260,92,292,65,314,51,317,56,295,69,263,96,235,127,187,195,154,259,134,304"/>
+<area shape="rect" id="Node000016" href="$d5/da9/classTerraria_1_1ModLoader_1_1GoreLoader_ad2c43c95caa981c9e1c7ab5d079c7e14.html#ad2c43c95caa981c9e1c7ab5d079c7e14" title=" " alt="" coords="312,328,540,368"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="245,326,299,332,298,337,245,331"/>
+<area shape="rect" id="Node000017" href="$d0/d35/classTerraria_1_1ModLoader_1_1MusicLoader_acc40cb1fda570129574a46de829e989b.html#acc40cb1fda570129574a46de829e989b" title=" " alt="" coords="332,392,520,432"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="157,326,220,351,294,377,323,386,322,391,293,383,218,356,155,331"/>
+<area shape="rect" id="Node000020" href="$d8/d6f/classTerraria_1_1ModLoader_1_1Core_1_1AssemblyManager_a76e2cb2e9132ebe2759887f610501608.html#a76e2cb2e9132ebe2759887f610501608" title=" " alt="" coords="293,456,559,496"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="141,327,204,382,247,414,295,442,312,449,309,454,292,446,244,419,200,387,137,331"/>
+<area shape="rect" id="Node000021" href="$db/d12/classTerraria_1_1ModLoader_1_1AutoloadAttribute_ad189e9a4631ed9bb1bc09fa600793a86.html#ad189e9a4631ed9bb1bc09fa600793a86" title=" " alt="" coords="322,520,530,560"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="136,327,158,363,194,412,240,463,266,486,295,506,311,514,308,519,292,510,263,490,236,467,190,415,154,366,132,330"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,197,606,159,773,125,926,102,927,107,774,130,607,164,482,202"/>
+<area shape="rect" id="Node000005" href="$d3/df6/interfaceTerraria_1_1ModLoader_1_1ILoadable_aa77219a133d3ebfe4ea250c07954818c.html#aa77219a133d3ebfe4ea250c07954818c" title="Whether or not this type should be loaded when it&#39;s told to. Returning false disables M:Terraria...." alt="" coords="631,173,849,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="529,209,617,201,617,206,530,214"/>
+<area shape="rect" id="Node000006" href="$d3/df6/interfaceTerraria_1_1ModLoader_1_1ILoadable_aa3808bdd1cdf0087aea469080c58eef9.html#aa3808bdd1cdf0087aea469080c58eef9" title="Called when loading the type." alt="" coords="616,238,864,263"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="530,227,602,235,602,240,529,233"/>
+<area shape="rect" id="Node000007" href="$d7/d94/classTerraria_1_1ModLoader_1_1ContentInstance_a9056e387eacb153e6b1c64aa8a08778a.html#a9056e387eacb153e6b1c64aa8a08778a" title=" " alt="" coords="639,288,841,328"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="521,238,560,250,608,272,637,282,635,287,606,277,558,254,519,243"/>
+<area shape="rect" id="Node000004" href="$d8/d74/classTerraria_1_1Localization_1_1LanguageManager_a9f1901e50105d9873d2fdf8816e122de.html#a9f1901e50105d9873d2fdf8816e122de" title=" " alt="" coords="1232,69,1452,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1165,87,1218,87,1218,92,1165,92"/>
+<area shape="rect" id="Node000008" href="$d7/d94/classTerraria_1_1ModLoader_1_1ContentInstance_a7f7a3eb5f6262b314baeda632ebd6991.html#a7f7a3eb5f6262b314baeda632ebd6991" title=" " alt="" coords="952,259,1153,299"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="840,296,938,287,939,292,841,301"/>
+<area shape="rect" id="Node000010" href="$d0/dc4/classTerraria_1_1ModLoader_1_1LocalizationLoader_a8ce309706170a6a5fdb96554af903022.html#a8ce309706170a6a5fdb96554af903022" title=" " alt="" coords="626,352,854,392"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="522,302,560,314,584,326,608,338,632,346,630,351,606,342,581,330,558,318,520,307"/>
+<area shape="rect" id="Node000011" href="$d0/dc4/classTerraria_1_1ModLoader_1_1LocalizationLoader_a8484e9e4d936660800cb1adfadd4a605.html#a8484e9e4d936660800cb1adfadd4a605" title=" " alt="" coords="921,323,1184,363"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="854,359,907,354,908,359,854,364"/>
+<area shape="rect" id="Node000012" href="$d4/d5b/classTerraria_1_1ModLoader_1_1Core_1_1TmodFile_ac8c9b9819144f2389d9916cb2a2295a1.html#ac8c9b9819144f2389d9916cb2a2295a1" title=" " alt="" coords="961,387,1145,427"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="854,382,947,392,947,398,854,387"/>
+<area shape="rect" id="Node000014" href="$db/d4c/classTerraria_1_1ModLoader_1_1BackgroundTextureLoader_ac814c6c5f5fb6c6b4c7b5390ec61546b.html#ac814c6c5f5fb6c6b4c7b5390ec61546b" title="Adds a texture to the list of background textures and assigns it a background texture slot." alt="" coords="607,8,873,48"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="556,25,593,25,593,31,556,31"/>
+<area shape="poly" id="edge14_Node000014_Node000003" title=" " alt="" coords="843,45,937,64,936,69,842,51"/>
+<area shape="rect" id="Node000015" href="$db/d34/classTerraria_1_1ModLoader_1_1Loader_ad3b864459dd3bdb5b2fea3307ccbc0f7.html#ad3b864459dd3bdb5b2fea3307ccbc0f7" title=" " alt="" coords="954,5,1151,45"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="874,24,940,24,940,29,874,30"/>
+<area shape="rect" id="Node000018" href="$d0/d35/classTerraria_1_1ModLoader_1_1MusicLoader_a6eb1a944a77068b0b5aec8e3a9e71d88.html#a6eb1a944a77068b0b5aec8e3a9e71d88" title="Registers a new music track with the provided mod and its local path to the sound file." alt="" coords="646,419,834,459"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="521,417,632,427,632,432,520,423"/>
+<area shape="rect" id="Node000019" href="$d0/d35/classTerraria_1_1ModLoader_1_1MusicLoader_a0d847330ad41642cc8b1dfbcbb7fb031.html#a0d847330ad41642cc8b1dfbcbb7fb031" title=" " alt="" coords="959,451,1147,491"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="835,446,945,457,945,462,834,451"/>
 </map>

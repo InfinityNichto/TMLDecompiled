@@ -1,22 +1,26 @@
 <map id="Terraria.WorldGen.KillWall" name="Terraria.WorldGen.KillWall">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,196,187"/>
-<area shape="rect" id="Node000002" href="$d6/d21/structTerraria_1_1Tile_a6b7c8f41995f641c2a470bd80492d04c.html#a6b7c8f41995f641c2a470bd80492d04c" title="Clears any paint or coating on the wall at this position." alt="" coords="258,69,455,109"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,159,282,110,284,116,141,164"/>
-<area shape="rect" id="Node000006" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a6a4c55c91723199f427f3885f5c5efce.html#a6a4c55c91723199f427f3885f5c5efce" title=" " alt="" coords="244,154,469,194"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,171,230,171,230,177,196,177"/>
-<area shape="rect" id="Node000009" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a77cded322e6f9ceb44ab7ebdc1194985.html#a77cded322e6f9ceb44ab7ebdc1194985" title=" " alt="" coords="244,218,469,258"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="153,184,264,212,262,217,152,189"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,225,196,251"/>
+<area shape="rect" id="Node000002" href="$d6/d21/structTerraria_1_1Tile_a6b7c8f41995f641c2a470bd80492d04c.html#a6b7c8f41995f641c2a470bd80492d04c" title="Clears any paint or coating on the wall at this position." alt="" coords="258,73,455,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,223,307,117,310,122,126,227"/>
+<area shape="rect" id="Node000006" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a6a4c55c91723199f427f3885f5c5efce.html#a6a4c55c91723199f427f3885f5c5efce" title=" " alt="" coords="244,218,469,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,235,230,235,230,241,196,241"/>
+<area shape="rect" id="Node000010" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a77cded322e6f9ceb44ab7ebdc1194985.html#a77cded322e6f9ceb44ab7ebdc1194985" title=" " alt="" coords="244,314,469,354"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="137,248,290,306,288,311,135,253"/>
 <area shape="rect" id="Node000003" href="$d6/d21/structTerraria_1_1Tile_a3b7bd5420f76606332e38630dd2d406f.html#a3b7bd5420f76606332e38630dd2d406f" title="Legacy code, use P:Terraria.Tile.IsWallFullbright instead." alt="" coords="535,5,725,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,66,517,39,552,31,553,36,518,45,423,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,70,517,39,550,31,552,36,518,45,417,75"/>
 <area shape="rect" id="Node000004" href="$d6/d21/structTerraria_1_1Tile_a57ac1450e9330144134ae00a73e5afc6.html#a57ac1450e9330144134ae00a73e5afc6" title="Legacy code, use P:Terraria.Tile.IsWallInvisible instead." alt="" coords="537,55,723,80"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,78,522,73,523,78,456,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,81,522,75,523,80,456,86"/>
 <area shape="rect" id="Node000005" href="$d6/d21/structTerraria_1_1Tile_ae29f1e935710d0c9f5e325f873709719.html#ae29f1e935710d0c9f5e325f873709719" title="Legacy code, use P:Terraria.Tile.WallColor instead." alt="" coords="548,104,712,129"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="456,96,535,104,534,110,455,101"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="456,99,534,106,534,111,455,104"/>
 <area shape="rect" id="Node000007" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a950ad65f5cd49d327c13fbd1d0b2d80f.html#a950ad65f5cd49d327c13fbd1d0b2d80f" title=" " alt="" coords="517,154,743,194"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="470,171,504,171,504,177,470,177"/>
-<area shape="rect" id="Node000008" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a52a7457356cd330af2425e371a0cdc49.html#a52a7457356cd330af2425e371a0cdc49" title="Gets the ModWall instance with the given type. If no ModWall with the given type exists,..." alt="" coords="517,218,743,258"/>
-<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="444,191,532,212,530,218,442,197"/>
-<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="470,235,504,235,504,241,470,241"/>
-<area shape="rect" id="Node000010" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a92eb47307610d6295ad358e3f7b6ccc0.html#a92eb47307610d6295ad358e3f7b6ccc0" title=" " alt="" coords="517,282,743,322"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="444,255,532,276,530,282,442,261"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="442,215,530,194,532,200,444,221"/>
+<area shape="rect" id="Node000008" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a52a7457356cd330af2425e371a0cdc49.html#a52a7457356cd330af2425e371a0cdc49" title="Gets the ModWall instance with the given type. If no ModWall with the given type exists,..." alt="" coords="517,282,743,322"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="444,255,532,276,530,282,442,261"/>
+<area shape="rect" id="Node000009" href="$d7/d4d/classTerraria_1_1ModLoader_1_1ModWall_a8e154201c19225ab3992d2d75f87bfe4.html#a8e154201c19225ab3992d2d75f87bfe4" title="Allows you to determine what happens when the tile at the given coordinates is killed or hit with a h..." alt="" coords="525,218,735,258"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="470,235,511,235,511,241,470,241"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="469,318,504,314,504,319,470,323"/>
+<area shape="rect" id="Node000011" href="$d3/de2/classTerraria_1_1ModLoader_1_1WallLoader_a92eb47307610d6295ad358e3f7b6ccc0.html#a92eb47307610d6295ad358e3f7b6ccc0" title=" " alt="" coords="517,346,743,386"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="470,345,504,349,504,354,469,350"/>
+<area shape="rect" id="Node000012" href="$d9/d9f/classTerraria_1_1ModLoader_1_1ModBlockType_a96efadd91fca4439e44bc1dabe9d1fa8.html#a96efadd91fca4439e44bc1dabe9d1fa8" title="Allows you to change how many dust particles are created when the tile/wall at the given coordinates ..." alt="" coords="523,410,737,450"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="405,352,518,395,543,403,541,408,516,401,403,357"/>
 </map>

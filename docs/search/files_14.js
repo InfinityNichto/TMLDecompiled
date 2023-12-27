@@ -100,7 +100,7 @@ var searchData=
   ['uipanel_2ecs_97',['UIPanel.cs',['../d5/d66/UIPanel_8cs.html',1,'']]],
   ['uiparticlelayer_2ecs_98',['UIParticleLayer.cs',['../db/d9b/UIParticleLayer_8cs.html',1,'']]],
   ['uiprogress_2ecs_99',['UIProgress.cs',['../dd/d52/UIProgress_8cs.html',1,'']]],
-  ['uiprogressbar_2ecs_100',['UIProgressBar.cs',['../d2/d72/Terraria_8GameContent_8UI_8Elements_2UIProgressBar_8cs.html',1,'(Global Namespace)'],['../dc/d8b/Terraria_8ModLoader_8UI_2UIProgressBar_8cs.html',1,'(Global Namespace)']]],
+  ['uiprogressbar_2ecs_100',['uiprogressbar.cs',['../d2/d72/Terraria_8GameContent_8UI_8Elements_2UIProgressBar_8cs.html',1,'(Global Namespace)'],['../dc/d8b/Terraria_8ModLoader_8UI_2UIProgressBar_8cs.html',1,'(Global Namespace)']]],
   ['uireportspage_2ecs_101',['UIReportsPage.cs',['../d7/d19/UIReportsPage_8cs.html',1,'']]],
   ['uiresourcepack_2ecs_102',['UIResourcePack.cs',['../d0/dcd/UIResourcePack_8cs.html',1,'']]],
   ['uiresourcepackinfobutton_2ecs_103',['UIResourcePackInfoButton.cs',['../dc/dae/UIResourcePackInfoButton_8cs.html',1,'']]],

@@ -19,7 +19,7 @@ var searchData=
   ['definitionoptionelement_2ecs_16',['DefinitionOptionElement.cs',['../de/dc8/DefinitionOptionElement_8cs.html',1,'']]],
   ['delegatemethods_2ecs_17',['DelegateMethods.cs',['../dc/d53/DelegateMethods_8cs.html',1,'']]],
   ['depthmeterinfodisplay_2ecs_18',['DepthMeterInfoDisplay.cs',['../df/dbb/DepthMeterInfoDisplay_8cs.html',1,'']]],
-  ['desertbiome_2ecs_19',['DesertBiome.cs',['../d0/d33/Terraria_8GameContent_8Biomes_2DesertBiome_8cs.html',1,'(Global Namespace)'],['../d3/d44/Terraria_8GameContent_8Personalities_2DesertBiome_8cs.html',1,'(Global Namespace)']]],
+  ['desertbiome_2ecs_19',['desertbiome.cs',['../d3/d44/Terraria_8GameContent_8Personalities_2DesertBiome_8cs.html',1,'(Global Namespace)'],['../d0/d33/Terraria_8GameContent_8Biomes_2DesertBiome_8cs.html',1,'(Global Namespace)']]],
   ['desertdescription_2ecs_20',['DesertDescription.cs',['../dd/d8e/DesertDescription_8cs.html',1,'']]],
   ['deserthive_2ecs_21',['DesertHive.cs',['../db/d36/DesertHive_8cs.html',1,'']]],
   ['deserthousebuilder_2ecs_22',['DesertHouseBuilder.cs',['../d1/d6f/DesertHouseBuilder_8cs.html',1,'']]],
