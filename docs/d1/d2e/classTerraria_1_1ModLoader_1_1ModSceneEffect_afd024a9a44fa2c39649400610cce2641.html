@@ -119,6 +119,8 @@ $(document).ready(function(){initNavTree('d1/d2e/classTerraria_1_1ModLoader_1_1M
 </div><div class="memdoc">
 
 <p>Is invoked when two or more modded SceneEffect layers are active within the same P:Terraria.ModLoader.ModSceneEffect.Priority group to attempt to determine which one should take precedence, if it matters. It's uncommon to have the need to assign a weight - you'd have to specifically believe that you don't need higher SceneEffectPriority, but do need to be the active SceneEffect within the priority you designated. Analogously, if SceneEffect were competing in a wrestling match, this would be how likely the SceneEffect should win within its weight class. Is intentionally bounded at a max of 100% (1) to reduce complexity. Defaults to 50% (0.5). Typical calculations may include: 1) how many tiles are present as a percentage of target amount; 2) how far away you are from the cause of the SceneEffect. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../de/d0a/ModSceneEffect_8cs_source.html#l00071">71</a> of file <a class="el" href="../../de/d0a/ModSceneEffect_8cs_source.html">ModSceneEffect.cs</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   72</span>    {</div>
 <div class="line"><span class="lineno">   73</span>        <span class="keywordflow">return</span> 0.5f;</div>
 <div class="line"><span class="lineno">   74</span>    }</div>

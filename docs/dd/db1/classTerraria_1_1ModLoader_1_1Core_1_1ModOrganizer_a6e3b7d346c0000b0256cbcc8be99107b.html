@@ -117,6 +117,8 @@ $(document).ready(function(){initNavTree('dd/db1/classTerraria_1_1ModLoader_1_1C
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/d2a/ModOrganizer_8cs_source.html#l00587">587</a> of file <a class="el" href="../../dc/d2a/ModOrganizer_8cs_source.html">ModOrganizer.cs</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  588</span>    {</div>
 <div class="line"><span class="lineno">  589</span>        <a class="code hl_class" href="../../d6/da9/classList.html">Dictionary&lt;string, LocalMod&gt;</a> <a class="code hl_class" href="../../d6/da9/classList.html">nameMap</a> = <a class="code hl_class" href="../../d6/da9/classList.html">mods</a>.ToDictionary((LocalMod mod) =&gt; mod.Name);</div>
 <div class="line"><span class="lineno">  590</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code hl_class" href="../../d6/da9/classList.html">TopoSort&lt;LocalMod&gt;</a>(<a class="code hl_class" href="../../d6/da9/classList.html">mods</a>, (LocalMod mod) =&gt; <a class="code hl_class" href="../../d6/da9/classList.html">from</a> name <a class="code hl_class" href="../../d6/da9/classList.html">in</a> mod.properties.sortAfter.Where(<a class="code hl_class" href="../../d6/da9/classList.html">nameMap</a>.ContainsKey)</div>
